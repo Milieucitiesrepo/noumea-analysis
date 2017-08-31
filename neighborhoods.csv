@@ -1,0 +1,293 @@
+id	age	neighbourhood	lives_in_noumea	months_lived_in_noumea	email	enable_receive_emails	q1-1	q1-10	q1-11	q1-2	q1-3	q1-4	q1-5	q1-6	q1-7	q1-8	q1-9	q2-1	q2-10	q2-11	q2-12	q2-13	q2-14	q2-2	q2-3	q2-4	q2-5	q2-6	q2-7	q2-8	q2-9	q3-1	q3-10	q3-2	q3-3	q3-4	q3-5	q3-6	q3-7	q3-8	q3-9	q4-1	q4-10	q4-11	q4-12	q4-13	q4-2	q4-3	q4-4	q4-5	q4-6	q4-7	q4-8	q4-9	q5-1	q5-2	q5-3	q5-4	q5-5	q5-6	q5-7	q5-8	q5-9
+1	26.0	pk6	True	2 ans	jonathan.rebouillon@gmail.com	True	5	4	5	5	5	3	5	4	5	2	5	4	4	3	4	5	3	5	5	3	5	5	4	5	5	3	5	3	3	3	3	5	5	5	5	5	5	5	3	5	3	5	5	4	5	3	5	4	5	1	3	2	5	5	4	5	5
+2	30.0	magenta	True	30	Olivia.kurt@gmail.com	False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	5	3	3	3	3	4	4	4	4	4
+3	32.0	trianon	True	22	ornc44@gmail.com	False	1	1	1	1	2	1	1	2	1	1	5	3	4	5	1	1	3	3	3	5	4	1	5	1	2	1	1	1	1	1	1	5	4	4	3	3	3	3	1	5	2	2	1	4	5	4	4	5	3	1	1	1	1	1	1	5	3
+4	28.0		False		e.launay@live.fr	True	3	3	4	4	3	3	3	3	5	3	5	3	5	3	2	4	4	5	5	5	5	5	5	5	5	2	3	4	1	1	3	5	5	5	5	4	5	5	5	3	5	5	5	5	5	5	3	5	3	3	4	3	3	3	1	5	5
+5	26.0	baie des citrons	True	26 ans	haguet.megane@gmail.com	True	4	3	4	3	4	4	4	4	5	3	5	4	4	3	3	4	4	5	4	4	4	5	5	3	5	4	4	4	3	3	3	5	5	5	5	5	4	4	4	4	3	3	3	4	4	4	3	4	3	3	4	2	3	3	3	4	4
+6	29.0	magenta	True	4		False	3	3	3	3	2	3	3	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	2	4	3	4	4	3	4	4	4	5	3	3	4	4	3	4	4	3	1	3	3	3	4	3	3	3	4
+7	46.0	tuband	True	10	fgambarotto@yahoo.fr	False	3	3	3	3	3	3	4	4	2	2	2	2	4	4	4	4	3	4	4	4	4	5	5	5	4	4	3	3	3	3	3	2	3	3	3	4	2	2	3	4	4	4	4	3	3	3	3	3	4	3	3	4	4	3	3	3	3
+8	46.0	tuband	True	10	fgambarotto@yahoo.fr	True	3	3	3	3	3	3	4	4	2	2	2	2	4	4	4	4	3	4	4	4	4	5	5	5	4	4	3	3	3	3	3	2	3	3	3	4	2	2	3	4	4	4	4	3	3	3	3	3	4	3	3	4	4	3	3	3	3
+9	37.0	trianon	True	3 ans	marie.brenon@lagoon.nc	True	5	5	4	2	2	4	4	2	4	2	5	3	3	5	1	3	3	4	5	5	5	4	5	5	5	3	3	3	3	3	3	5	5	5	3	5	2	4	4	5	4	5	4	3	3	3	3	3	5	4	4	4	3	3	5	4	3
+10	29.0	faubourg blanchot	True	1	marie.c.22@hotmail.fr	True	3	3	3	4	4	4	3	3	4	3	4	4	4	4	4	4	4	4	4	4	1	3	5	3	4	3	4	4	4	3	3	5	5	3	5	5	5	4	5	4	5	5	3	5	5	3	3	5	4	3	3	3	3	3	4	4	4
+11	63.0	trianon	True	12	micalonc@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	3	3	5	4	3	4	4	3	3	3	4	4	5	3	3	3	3	3	3	3	3	3	3	3	3
+12	48.0	vallée des colons	True	14	hregimbe@yahoo.fr	True	3	2	2	5	2	4	5	2	5	2	5	3	3	5	3	5	1	1	1	3	3	3	5	5	3	3	5	1	1	1	1	5	5	5	5	3	3	3	5	5	3	3	5	3	5	5	5	3	5	3	5	3	3	3	3	3	3
+13	25.0	ouémo	True	25 ans	boris.valin@gmail.com	True	2	3	2	4	4	4	3	3	5	5	3	3	4	3	5	3	4	4	4	3	5	4	5	5	5	5	5	4	3	3	3	4	4	5	5	5	5	5	5	5	4	3	2	4	5	3	5	5	5	5	5	5	5	5	5	5	5
+14	31.0	koutio	True		hnatrsnj@hotmail.com	False	3	3	3	3	3	3	3	3	3	3	4	5	4	5	3	3	3	3	2	3	3	2	5	3	5	3	4	3	3	3	3	5	5	5	5	3	2	5	4	1	3	2	2	5	3	4	3	3	3	2	4	2	3	2	5	5	4
+15	47.0	ouemo	True	10 ans	sjouault@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	5	5	3	5	4	4	3	4	4	4	4	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	3	3	3	3	3	3	3	4
+16	36.0	tina	True		gilamii@free.fr	True	3	4	2	3	5	4	5	5	5	2	4	4	4	4	2	3	3	5	5	4	4	1	5	4	5	4	4	4	3	3	3	4	5	5	5	5	5	5	3	5	5	5	1	5	5	5	3	5	3	3	5	3	5	2	3	3	5
+17	30.0	magenta	True	5		False	4	4	2	2	4	3	5	2	5	3	5	4	4	4	5	5	5	5	5	4	5	2	3	4	4	5	5	5	5	5	3	5	5	5	5	4	5	2	5	5	4	1	2	5	4	2	5	3	2	3	3	4	4	3	3	5	1
+18	35.0	pk7	True	9	caledoguide@gmail.com 	True	4	3	4	5	4	4	3	3	4	3	4	3	4	3	3	4	1	3	3	3	3	2	2	3	3	1	3	1	3	3	1	4	4	3	3	4	3	3	3	4	3	4	2	4	4	3	3	4	4	2	2	2	4	1	3	4	4
+19	36.0	pk7	True	8 ans	franck.dominici@gmail.com	True	5	5	5	5	5	5	5	5	5	5	5	4	5	4	4	5	4	5	5	5	4	5	5	5	5	3	3	3	3	3	3	5	3	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	5	4	4	4	5
+20	26.0		False		amd.brt@gmail.com	True	3	3	3	5	5	3	3	3	5	4	4	5	5	5	5	5	5	5	5	5	5	3	5	3	3	3	3	3	3	3	3	4	3	4	5	5	3	3	4	5	3	3	3	5	5	3	3	5	5	3	3	4	3	3	3	3	5
+21	31.0		False		sarltemad@gmail.com	False	4	4	4	4	2	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	4	4	4	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4
+22			False			False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	5	3	3	3	5	3	3	3	1	1	1	1	1	1	1	1	1
+23	30.0	vallée des colons	True	4 ans		False	4	1	4	2	4	3	3	1	5	1	5	4	3	2	4	2	4	4	4	4	4	3	3	4	5	2	2	4	3	3	1	5	5	5	5	4	4	4	4	3	2	3	3	5	5	5	4	1	3	1	3	1	4	2	2	1	3
+24	28.0	faubourg blanchot	True		Caroline.frickbaconnais@gmail.com 	False	2	2	3	3	3	3	3	3	4	2	5	4	4	5	5	4	3	3	1	3	4	2	5	4	2	3	3	1	2	1	1	5	3	3	5	4	3	3	2	3	3	3	1	5	5	3	1	2	2	3	3	3	3	3	3	3	3
+25	31.0	ouemo	True	3 ans	Chloelibaude69@gmail.com	False	4	3	2	4	2	4	5	5	2	3	5	1	4	1	1	3	3	3	3	3	3	3	4	4	4	2	3	3	4	4	3	4	3	4	3	1	1	3	3	1	3	3	3	3	3	3	1	3	1	4	4	4	4	4	2	2	1
+26	-59.0	ouémo	True	6 ans	niaouli@mls.nc	True	4	2	4	4	2	4	4	4	4	4	4	2	4	4	4	4	4	4	3	4	4	3	4	4	2	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	3	4	4	4	3	3	3	3	4	3	4	4	4	3	4
+27	27.0	vallée des colons	True	4	charlotte.daros@gmail.com	True	3	3	3	3	3	3	5	4	5	3	5	4	5	5	5	5	2	4	4	3	5	4	5	5	5	2	4	4	4	1	2	4	5	5	5	5	4	4	5	5	5	5	5	4	5	5	4	3	4	3	4	4	4	3	4	3	5
+28	26.0	pk4	True	1 an		False	3	3	1	1	1	3	5	5	2	3	5	5	1	5	2	2	5	5	5	2	2	5	5	1	5	5	5	5	3	5	5	5	5	5	5	5	5	5	5	5	1	1	5	5	5	5	5	1	1	1	5	5	5	5	3	5	5
+29	29.0		False		warrenmazoyer@hotmail.com	True	4	3	4	3	3	3	5	4	3	3	4	4	4	4	4	3	4	4	4	4	4	3	5	4	4	3	3	3	3	3	3	4	3	3	5	5	5	4	3	5	5	3	5	3	5	4	5	5	4	4	3	4	3	3	3	4	4
+30	44.0		False		abisson@nautile.nc	False	3	3	3	3	3	3	3	3	3	3	3	5	5	3	4	4	3	3	4	5	5	5	5	2	4	3	4	3	3	3	3	3	5	5	4	3	5	5	5	5	3	3	4	3	4	3	4	5	3	3	3	3	3	3	3	4	3
+31	52.0	magenta	True	50	jls@spo.nc	False	5	3	5	3	5	3	5	3	5	3	5	3	3	3	3	3	3	3	5	5	5	5	5	4	5	3	5	3	3	3	3	5	5	5	5	3	5	3	5	5	3	5	5	5	5	5	5	5	3	3	3	5	5	3	5	5	5
+32	32.0	vallée des colons	True	5 ans	lemesle.deb@gmail.com	True	5	3	3	5	4	4	4	4	4	3	5	3	4	4	5	4	3	5	5	5	4	3	5	4	4	5	4	4	3	4	4	5	3	3	5	5	5	5	5	5	5	5	4	5	5	5	5	4	5	5	4	4	4	3	3	3	4
+33	36.0	magenta	True		antoine.bantzhaff@gmail.com	True	5	2	3	1	2	2	3	2	4	1	4	4	4	2	1	3	3	3	3	5	3	3	4	3	2	3	3	3	3	3	3	4	4	3	4	5	2	5	3	4	4	3	2	4	3	4	1	1	4	1	3	1	3	1	4	2	5
+34	32.0		True	3		False	3	5	4	4	5	4	5	4	5	1	5	5	4	5	4	4	5	4	4	5	5	4	5	4	5	4	4	5	5	5	2	4	4	5	5	5	3	4	4	2	5	4	3	4	4	4	1	4	4	2	4	4	3	3	4	5	5
+35	24.0	anse vata	True	20 ans	itachialex@yahoo.fr	True	3	1	3	4	5	4	3	4	4	3	5	3	4	3	4	3	4	4	4	4	3	3	4	3	4	5	5	5	3	3	3	5	5	4	4	5	5	5	5	5	4	3	4	4	5	4	4	5	4	4	4	5	4	4	4	4	5
+36	37.0	magenta	True	1	guillaumecavelier@hotmail.fr	True	1	1	1	2	1	3	4	4	1	1	1	5	4	5	2	1	1	3	1	4	2	5	3	5	5	1	2	3	3	3	4	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	3	3	5	3	5	3	3	5	5
+37	43.0	vallée du genie	True	7 ans	domiapi@lagoon.nc	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	5	2	5	5	5	3	5	5	3	5	5	5	5	5	5	2	5	4	5	5	5	5	4	4	5	5
+38	47.0	quartier latin	True	1 ans	Fred.greg@live.com	False	2	4	4	2	4	4	4	4	5	4	5	5	5	5	1	3	5	2	4	4	4	1	5	2	5	5	5	5	5	5	3	5	5	5	5	2	4	5	3	4	2	5	2	4	4	5	5	4	5	4	2	5	5	2	2	5	5
+39	26.0	magenta	True	26	agence@immosud.nc	True	4	3	3	4	2	3	3	4	3	5	3	3	3	4	2	4	4	4	4	2	4	4	5	4	5	3	4	3	3	3	3	3	3	3	4	5	5	5	5	5	5	5	4	5	4	5	4	4	3	3	5	1	3	3	3	4	4
+40	30.0		False		kilcat@hotmail.com	True	3	3	4	3	4	4	4	4	4	2	4	4	4	3	3	3	3	4	4	4	4	3	4	3	3	3	2	3	3	4	3	4	4	3	4	4	3	4	3	3	4	3	3	3	4	4	4	3	3	3	3	3	3	3	3	3	4
+41	38.0	vallée des colons	True	5 ans		False	3	3	4	3	3	3	4	3	3	3	5	4	4	5	5	5	3	3	3	5	5	5	5	5	5	3	3	3	3	3	3	5	3	3	5	5	5	5	5	5	4	5	5	5	5	5	5	1	4	3	3	3	3	3	3	1	5
+42	36.0		False		Lacanitie@gmail.com	False	3	3	3	3	3	3	3	3	3	3	3	3	4	3	4	3	3	3	4	5	3	5	5	3	3	3	5	3	3	3	3	5	5	5	5	5	3	4	5	3	5	3	5	5	3	5	3	3	4	4	5	3	4	3	3	3	3
+43	39.0		False		nea_alessandro@hotmail.com	False	4	5	4	2	5	3	4	5	4	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	4	3	3	4	5	5	5	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	5	3	4	3	4
+44	31.0	vallée des colons	True	1 an	Sebastien@quidnovi.nc	True	4	5	4	3	5	4	3	4	4	3	5	4	4	3	5	5	5	4	4	4	5	4	5	4	4	5	5	5	5	5	5	5	5	4	5	5	5	3	5	5	5	5	4	5	5	5	5	5	5	4	5	4	5	4	4	5	4
+45	36.0	pk6	True	7 ans	aauriche@hotmail.com	True	4	2	4	2	4	4	4	4	4	2	4	2	4	4	3	4	4	4	4	4	4	4	4	3	3	4	4	2	2	2	4	4	4	4	4	4	4	4	4	3	4	4	2	4	4	4	2	3	4	2	4	2	4	2	4	4	4
+46	32.0		False			True	4	3	3	3	3	4	3	3	4	3	5	3	5	4	4	3	4	5	4	5	4	4	5	4	4	3	3	1	3	2	3	4	4	4	4	5	4	4	5	5	5	5	4	4	5	5	3	5	4	3	4	4	3	3	3	4	3
+47	30.0		False		audejouvenelle@hotmail.com	True	4	3	4	5	3	4	4	4	5	4	5	3	4	3	3	4	5	4	4	4	5	5	5	4	4	3	4	4	3	3	4	4	4	4	4	5	4	4	4	2	5	5	5	4	2	4	3	4	4	4	5	5	4	3	4	4	5
+48	34.0		False		Yaelle.hugues@gmail.com	False	5	3	4	3	4	4	4	4	4	4	5	4	5	5	4	3	5	4	4	5	5	3	5	4	5	3	3	3	3	3	3	3	3	5	3	5	4	4	5	5	5	5	4	5	5	5	5	4	3	3	3	3	3	3	3	3	3
+49	48.0	centre-ville	True	5 ans	Fpratelli@lagoon.nc 	True	4	4	4	4	2	3	3	3	5	3	5	5	5	5	2	4	4	4	5	5	5	2	5	5	5	3	4	3	5	5	3	5	4	5	4	5	5	4	4	4	4	4	1	4	4	4	4	4	4	4	2	5	5	4	4	4	4
+50	52.0	vallée des colons	True	6 ans	gillesgormond@yahoo.fr	True	3	3	3	3	3	3	3	3	3	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	3	3	3	3	3	3	3	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	3	3	3	3	3	3
+51	54.0	anse-vata	True	4 ans	linleq@lagoon.nc	True	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	1	5	1	5	5	1	5	5	5	1	1	4	3	1	5	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	5	5	5	1	5	1	1	1	2	4	5
+52	25.0	mont-coffyn	True	7 ans	tommydupuy@hotmail.com	True	4	3	4	4	3	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	3	5	5	5
+53	34.0		False		cperennes@hotmail.fr	True	2	2	3	3	1	2	3	4	1	3	4	4	4	3	1	3	4	4	4	5	4	1	2	1	3	1	4	3	4	4	2	4	3	3	3	4	4	1	4	1	3	2	1	3	4	4	4	4	1	3	4	4	3	4	3	4	4
+54	40.0		False		jasknky@gmail.com	True	3	2	1	3	1	3	4	2	3	1	4	3	2	3	2	3	1	2	2	3	2	1	3	3	5	3	3	3	3	2	3	5	4	4	3	4	4	4	4	1	4	3	1	4	2	3	4	3	3	2	3	3	1	4	3	4	2
+55	37.0	ouemo	True		ghost0408@gmail.com	True	3	1	4	1	1	2	4	1	4	4	5	5	5	5	4	4	2	1	1	4	4	4	5	5	5	3	4	2	2	1	1	5	5	5	5	5	5	5	5	5	2	4	4	5	5	5	5	4	2	2	1	2	4	1	2	1	1
+56	50.0	rivière salée	True	11		False	4	3	5	5	3	4	3	4	5	4	4	4	5	3	3	3	4	4	5	5	5	4	5	5	4	5	4	4	4	4	2	3	4	5	5	3	5	4	5	5	5	4	4	4	5	5	3	4	4	5	4	5	4	4	3	5	4
+57	34.0	orphelinat	True	3 ans	bibiana.jurado@gmail.com	True	4	3	4	4	3	4	4	2	5	2	5	5	5	5	4	4	4	4	4	4	5	3	5	5	5	3	5	3	3	3	3	5	5	5	5	5	3	5	4	5	5	5	4	5	5	5	3	3	5	1	5	1	2	2	5	3	4
+58	63.0	vallée du génie	True	30 ans	lagalla.b@mls.nc	True	4	5	5	3	4	3	3	3	4	3	4	3	4	2	1	3	5	4	3	4	4	4	5	5	3	3	3	5	4	4	3	5	5	5	5	5	3	4	4	4	4	5	5	5	5	4	3	4	4	3	3	3	3	3	3	4	4
+59	32.0	pont des francais	True	1 ans		False	3	3	4	2	3	3	2	3	4	3	5	2	4	2	3	4	3	3	3	4	4	5	4	4	4	3	3	3	3	3	3	3	3	3	3	5	2	5	4	3	4	3	4	5	4	4	3	4	3	3	3	4	4	3	3	4	4
+60	65.0	centre-ville	True	17 ans 	a.verheylewegen@nautile.nc	True	4	3	4	3	3	3	3	3	3	3	3	2	2	1	1	1	3	3	1	3	3	1	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+61	49.0	porte d'argent	True	25	ronan.lecalvez@gmail.com	True	2	4	4	5	5	3	5	5	5	4	2	2	4	2	1	1	4	5	5	3	4	3	5	4	3	2	3	5	3	3	3	2	4	4	5	5	3	5	5	2	1	4	3	5	5	5	1	5	4	3	3	4	3	3	3	5	5
+62	50.0	pk7	True	46 ans		False	4	5	3	5	3	3	4	4	3	3	5	2	3	2	3	3	4	5	4	3	5	2	5	4	2	2	3	4	3	4	3	3	4	4	4	3	5	3	4	3	4	3	3	4	3	3	2	2	3	3	3	2	4	2	3	2	3
+63	40.0	trianon	True	10	marevarg@hotmail.fr	True	1	2	4	4	2	3	4	4	4	2	5	4	4	4	4	4	1	1	1	5	4	1	4	1	3	5	1	1	1	1	1	1	5	5	5	5	5	5	5	4	3	3	1	4	4	5	2	5	3	1	3	1	1	1	1	2	4
+64	47.0	n'géa	True	6ans	florenthuard7@gmail.com	False	4	5	4	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+65	42.0	anse vata	True	2 ans		False	3	2	3	4	3	4	5	4	4	5	3	3	4	3	2	3	4	5	5	4	3	3	3	4	4	5	3	3	4	4	3	4	4	3	5	4	1	3	5	5	4	4	4	5	5	2	2	4	5	4	5	4	4	3	3	4	3
+66	28.0	magenta	True	23	j-valter@hotmail.fr	True	4	5	4	4	4	3	5	5	4	3	5	5	4	5	5	4	3	4	4	4	5	3	5	5	3	3	3	3	2	3	2	3	3	4	5	5	4	5	5	5	5	5	3	5	5	5	3	4	3	3	5	3	3	3	3	3	4
+67	33.0	pk6	True	33	juanita.railati@ville-noumea.nc	True	3	5	3	3	4	4	4	3	3	3	4	3	5	4	3	3	3	4	4	5	4	4	3	3	3	5	4	3	3	3	5	5	4	5	5	4	3	3	4	4	5	5	5	5	3	5	3	5	5	4	5	3	5	3	4	5	5
+68		ducos	True	21 ans		False	5	3	3	1	5	3	3	2	5	1	5	4	3	3	1	1	1	5	2	5	5	2	3	3	3	3	1	1	5	1	5	4	4	5	5	5	4	5	5	4	5	4	3	4	4	5	3	3	3	1	2	4	3	1	5	2	3
+69	42.0	rivière-salée	True	42	brendy@lagoon.nc	True	4	4	3	3	4	3	3	1	4	4	3	4	4	2	2	4	5	4	4	5	5	4	4	4	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+70	47.0	tina	True	15 ans		False	4	4	5	4	3	3	3	4	4	3	4	4	4	4	4	4	4	4	4	3	4	4	4	4	4	3	3	3	3	3	3	3	2	4	4	5	4	4	4	4	4	4	4	4	4	4	3	4	3	3	3	3	3	3	3	4	4
+71	60.0	val plaisance	True	33 ans	hbouziges@gmail.com	True	3	3	3	3	3	3	3	3	3	3	5	5	5	5	4	4	3	4	3	5	4	4	5	3	5	3	3	3	3	3	5	5	5	3	5	4	4	4	4	4	5	3	3	4	4	3	3	5	4	3	3	3	3	3	3	5	5
+72	50.0	faubourg blanchot	True	5 ans	nmontmarc@gmail.com	True	5	3	3	2	1	4	5	5	4	1	5	2	5	4	2	4	4	3	3	4	4	4	4	5	5	3	3	3	3	3	3	3	4	4	5	5	2	3	5	3	2	5	5	4	4	2	2	3	5	3	4	2	2	2	3	3	2
+73	37.0	n'géa	True	3	charpentierjul@gmail.com	False	3	1	4	3	3	4	4	3	4	3	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+74	69.0	vallée des colons	True	40	Jacqueline.legarion@yahoo.fr	True	4	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	2	3	4	2	4	4	2	3	4	3	3	3	3	3	3	3	4	4	4	4	4	4	4	4	3	4	4	3	2	3	3	3	3	3	3	3	3	3	3
+75	47.0		True			False	4	4	4	5	5	4	4	4	4	4	4	4	4	4	5	5	4	4	4	5	5	5	5	5	5	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+76	45.0	tuband	True	10 ans	fcleborgne@canl.nc	True	3	3	3	5	3	3	3	4	3	3	5	4	4	3	4	3	5	3	4	5	3	5	4	3	3	3	3	3	3	4	3	5	5	5	5	5	3	5	3	3	2	3	5	5	4	5	3	4	3	3	3	3	2	3	3	3	3
+77	27.0		False			False	4	3	4	4	2	3	4	2	4	2	4	4	4	4	4	4	2	2	2	4	4	2	4	4	4	3	4	2	3	2	3	2	2	2	4	4	5	4	3	3	3	3	3	3	3	4	4	4	2	4	2	2	3	3	3	3	3
+78	46.0	portes de fer	True		grandinisabelle@yahoo.fr	True	3	4	2	1	2	4	5	4	4	1	5	4	4	4	5	4	3	4	3	5	4	4	4	5	4	3	3	4	3	4	2	5	5	5	4	3	5	4	5	4	4	5	5	3	3	2	1	3	3	2	5	3	3	3	3	4	4
+79	21.0	portes de fer	True	3 ans 	ymelysabeth@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	4	5	5	5	5	1	3	4	4	2	1	4	4	2	5	5	5	5	5	3	4	4	4	4	4	3	1	3	4	3	3	4	4	4	3	1	3	2	3	4	4
+80	48.0	tina	True	12 ans	xavier.sevin@gmail.com	False	3	1	2	5	2	3	2	5	3	3	3	2	2	2	3	3	4	3	2	2	3	3	4	3	5	5	1	3	1	1	3	5	5	5	5	5	5	3	3	4	1	2	1	5	5	5	1	2	5	2	3	1	1	3	1	3	1
+81	36.0	receiving	True	4	superdadet@hotmail.fr	True	3	4	3	5	5	5	4	5	5	4	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	4	3	5	5	5	5	5	3	5	5	5	4	5	3	3	1	4	3	3	4	3
+82	20.0	magenta	True	15ans 	lea.giovannelli687@gmail.com	True	5	5	5	3	4	3	5	3	4	1	1	5	2	1	5	5	3	5	5	5	5	2	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	2	5	5	5	5	5	5	5	3	5	1	5	5	5	3	3	3	5
+83	31.0		False			False	3	3	2	4	4	3	4	4	4	3	4	2	3	4	2	3	3	3	3	3	3	3	4	3	4	2	4	5	4	3	3	3	4	3	4	4	2	3	4	3	4	4	4	5	3	3	2	3	4	3	3	3	3	3	4	3	3
+84	50.0	bais des pecheurs	True	3 ans	steftrompas@gmail.com	True	5	5	3	1	2	1	3	1	4	1	5	5	5	2	2	4	5	5	1	4	5	1	5	1	5	3	3	3	3	3	5	5	5	5	5	3	5	4	5	4	1	5	1	3	5	3	1	5	1	1	3	1	3	1	5	3	5
+85	35.0	portes de fer	True	3 ans		False	3	2	4	3	5	4	3	3	5	3	5	3	4	4	4	3	3	5	3	1	5	1	5	4	5	3	3	3	3	3	2	5	5	5	5	5	2	3	3	3	3	3	1	4	4	5	2	1	5	3	3	3	4	3	3	1	2
+86	40.0	anse vata	True	25	Beerfamily687@gmail.com	True	5	2	5	1	5	5	5	5	5	1	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	5	5	5	5	5	5	2	5	5	5	5	5	4	3	2	5	2	5	5	1	5	5	5	4	5	4	5
+87	54.0	quartier latin	True		fgh41162@gmail.com 	True	4	4	4	4	4	4	4	4	4	3	4	4	4	4	4	4	5	5	5	5	5	3	4	4	4	4	4	3	5	3	4	4	4	5	5	4	4	4	5	5	4	4	4	4	4	4	4	4	4	5	4	4	4	5	5	4	4
+88	60.0	baie des citrons	True	6 ans	pommeliane@lagoon.nc	True	4	5	5	4	4	3	5	4	4	2	4	3	5	5	5	5	4	4	4	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	4	4	4	3	3	5	4	5	3	5	4	5	3	3	3	2	3	4	4	4
+89	43.0	hlm	True	43		False	3	4	4	3	3	3	4	1	3	1	5	2	4	4	3	3	3	4	3	4	3	3	3	4	4	1	1	1	3	3	3	5	3	3	3	4	3	3	4	1	3	4	2	3	1	4	1	1	1	1	3	1	1	3	3	1	1
+90	35.0	pk4	True	3		False	4	3	4	3	3	5	5	3	5	3	5	4	3	4	5	5	3	3	3	5	4	3	5	3	5	3	3	3	3	3	3	4	4	3	5	5	4	5	4	4	3	4	3	5	3	5	3	3	3	3	3	3	3	3	4	3	3
+91	43.0	val plaisance	True	8 ans 	Soniamartucci@yahoo.fr	False	4	5	4	4	1	4	5	5	4	3	5	3	4	4	4	3	4	4	1	5	5	1	5	4	4	3	3	3	3	1	5	4	5	4	5	3	3	4	5	2	4	4	2	4	2	2	1	5	3	3	3	3	3	4	5	5	5
+92	38.0		False		mathieusteeve@hotmail.fr	True	3	2	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	2	3	3	3	3	3	2	3	1	1	1	3	3	1	2	3	3	1	1	1	1	3	3	3	3	3	3	3	3	3	1
+93		vallée des colons	True	60 ans	magma@lagoon.nc	True	3	4	4	3	3	3	3	3	4	3	4	5	4	5	3	3	5	4	4	5	4	5	5	3	4	4	3	4	4	4	4	5	5	5	5	5	4	4	4	3	4	3	4	5	4	4	3	4	3	4	3	4	3	3	3	4	5
+94	31.0	rivière-salée	True	31	gdavid@fsh.nc	True	3	5	3	3	3	3	3	4	1	3	3	3	4	3	1	3	5	3	3	3	1	2	5	2	4	3	4	4	3	4	3	4	2	1	4	5	1	4	4	1	2	3	1	4	1	3	1	4	4	3	3	2	5	3	3	4	5
+95	22.0	ducos	True	+ de 15 ans	theresesavea@hotmail.fr	True	5	3	3	3	3	3	4	4	3	3	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+96	42.0	magenta	True	3 ans		False	3	3	3	3	3	3	3	3	3	2	3	2	3	2	3	3	3	2	3	2	3	3	3	3	3	3	5	3	3	4	3	5	3	3	3	4	3	4	4	5	4	4	4	4	4	3	3	3	5	5	5	5	5	3	3	3	3
+97	48.0	trianon	True	10 ans	andre.ns@mls.nc	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3
+98	47.0	pk6	True	15ans	othman.joumady@ville-noumea.nc	True	4	3	4	5	4	4	5	3	5	3	5	5	4	5	5	5	3	4	3	5	5	5	5	3	4	5	3	3	3	3	5	5	3	5	5	5	5	5	4	5	4	4	5	5	3	5	4	3	5	4	5	3	3	4	5	3	4
+99	30.0	pk7	True	17	briault_lyvia@hotmail.fr	True	3	3	3	3	3	3	2	3	3	2	4	4	3	4	3	3	3	2	3	3	3	2	4	3	4	3	3	3	3	3	3	3	3	3	3	4	3	4	3	4	2	3	2	4	4	3	3	3	3	3	2	3	3	2	3	3	3
+100	46.0	magenta	True	j'y suis née	sercadjekic@lagoon.nc	True	4	3	4	3	4	3	4	4	3	2	5	4	4	1	1	4	5	4	1	4	5	1	5	5	5	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	3	4	1	5	5	5	1	5	5	2	5	5	5	1	4	5	5
+101	34.0		False		tania.vijeh@gmail.com	False	2	2	2	3	2	2	2	3	2	2	2	2	2	2	2	2	2	2	3	2	2	2	3	2	2	3	3	2	2	2	3	3	3	3	3	3	2	2	2	2	3	3	3	3	2	2	3	3	2	2	2	2	3	2	3	3	3
+102	33.0		False		sebastien.delor@smtu.nc	False	5	3	5	4	2	2	5	5	4	2	5	5	5	5	5	5	4	4	4	3	5	5	5	4	5	1	5	2	3	2	2	5	5	5	5	5	4	4	4	5	5	5	5	5	5	5	5	5	1	1	5	1	5	1	4	4	5
+103	38.0		False		sophie.chenel@laposte.net	True	1	3	1	2	2	1	1	1	3	2	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	3	2	1	2	1	1	2	2	1	2	1	2	1	1	1	2	1	1	1	1	1	1	1	1	1	2
+104	32.0	trianon	True	6 and	patrick.maillet@gouv.nc	False	3	5	5	4	4	4	4	5	3	5	5	2	5	4	4	4	2	4	4	4	4	2	5	3	4	4	4	1	2	2	4	3	5	5	5	4	3	4	5	5	5	4	5	5	4	4	2	4	4	5	4	5	3	4	4	5	5
+105	26.0	anse vata	True	7 mois		False	3	5	4	5	4	3	4	4	4	1	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	3	3	3	3	3	4	3	4	3	5	5	4	4	4	3	4	4	4	5	4	4	4	3	4	2	4	3	4	2	3	1	2
+106	25.0	quartier latin	True	1 an	zthivet@gmail.com	True	4	2	4	5	2	4	5	4	4	2	5	5	4	4	5	3	3	4	1	3	5	3	5	5	5	3	5	3	3	3	3	5	5	5	5	5	5	5	4	5	4	5	4	5	5	5	5	3	4	3	4	3	3	3	5	3	4
+107	36.0		False		romain.delisle@gmail.com	True	5	1	2	3	5	5	5	5	5	1	4	3	5	5	3	3	3	3	3	5	5	5	5	5	1	5	3	3	3	3	5	5	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	5
+108	44.0	baie des citrons	True	10 ans		False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	3	3	3	5	5	3	3	3	3	5	5	3	3	3	3	3	3	3	3	3	3	3
+109	46.0	vallée des colons	True	1 an		False	4	4	4	5	3	3	5	3	5	3	5	5	5	5	4	3	5	4	4	5	5	5	4	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5
+110	48.0		False		karin.mongeard@sic.nc	True	4	4	3	3	4	3	3	3	4	4	4	3	4	3	3	4	3	4	4	3	4	4	4	4	3	4	3	3	3	3	3	3	3	3	4	4	4	3	3	3	3	3	4	4	4	3	3	4	4	3	3	4	3	3	2	3	3
+111	59.0	anse vata	True	1 an	jammet.d@lagoon.nc	True	3	1	2	2	2	3	1	4	4	3	1	2	1	1	1	1	1	2	1	1	1	1	1	1	1	1	5	3	3	3	3	5	5	5	4	5	3	3	3	4	2	2	3	3	3	3	3	3	4	4	4	4	5	3	3	3	5
+112	25.0	magenta	True	25	jean-jacques.kabar@outlook.fr	True	4	5	2	4	4	2	4	4	4	1	5	4	4	4	4	2	4	5	2	4	4	2	5	4	5	5	2	2	2	2	2	4	5	5	5	5	4	4	4	4	4	4	2	4	5	5	2	4	4	2	4	2	2	2	2	4	4
+113	46.0	quartier latin	True		dionisos@nautile.nc	True	4	3	3	4	1	1	5	5	5	2	5	1	4	3	5	1	1	4	4	4	4	5	5	4	5	5	1	5	5	5	4	5	5	5	5	5	1	5	5	5	5	5	5	5	5	5	5	5	3	1	5	1	1	1	5	5	5
+114	45.0	haut-magenta	True	8 ans	alexandre.cugnot@ismac-nc.net	True	4	1	1	5	2	1	4	5	4	5	4	2	3	3	4	4	5	3	1	1	4	1	3	5	3	3	5	5	1	3	3	5	4	4	5	5	3	5	2	3	5	5	2	4	3	3	1	5	5	2	2	1	1	4	5	4	5
+115	49.0	haut magenta	True	8 ans 	valerieorsi@gmail.com 	True	3	3	3	4	4	3	4	4	4	2	5	3	4	2	2	2	5	4	2	4	4	1	4	3	1	3	4	3	3	5	3	3	3	3	5	3	3	3	4	5	3	3	3	4	4	3	3	3	3	3	4	4	1	3	3	3	3
+116	41.0	ouemo	True	12 ans	capri.serail@canl.nc	True	3	3	5	3	3	5	5	1	3	1	3	3	5	1	1	3	3	3	1	5	5	5	5	3	3	5	5	3	3	3	5	3	3	5	5	5	5	5	3	5	1	1	3	3	5	3	3	5	5	1	5	3	3	1	5	3	3
+117	54.0	n'géa	True	13	debiasiot@msn.com	True	3	1	5	1	4	3	3	4	5	1	4	3	4	4	3	4	5	1	1	1	4	1	5	4	4	5	5	5	5	5	3	5	5	3	5	5	5	5	5	5	2	4	1	5	5	5	3	5	5	1	2	1	1	1	3	3	5
+118	48.0	vallée des colons	True	11 ans	remi.lami@gmail.com	True	3	3	3	3	3	2	2	3	5	3	5	2	4	4	2	4	4	3	2	4	4	2	4	4	4	5	4	3	3	3	3	4	4	4	4	5	4	4	5	5	5	3	4	4	5	5	2	4	3	3	3	3	3	5	3	3	3
+119	51.0		False		henri.nc@hotmail.com	True	3	2	3	1	5	3	2	2	5	2	5	3	5	3	3	3	1	5	5	5	5	2	3	3	4	5	5	5	3	3	5	5	5	5	5	3	5	5	5	3	3	3	2	5	5	5	5	5	5	2	2	4	3	1	2	5	2
+120	41.0	rivière salée	True	41	barretteau.s@gmail.com	True	3	3	3	3	4	3	3	3	4	3	4	4	4	3	4	4	3	4	5	4	4	4	4	3	5	4	4	3	3	3	3	5	5	5	5	5	4	4	5	4	3	3	4	5	4	4	4	4	3	3	3	3	3	3	3	4	3
+121	44.0	centre-ville	True	1	Marien.jacob72@gmail.com	True	4	5	5	4	5	4	5	5	5	3	5	5	4	5	5	4	5	5	4	5	5	4	5	4	5	4	5	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5
+122	37.0	magenta	True	4ans		False	4	4	3	1	1	4	1	4	4	1	5	3	4	4	4	3	5	3	2	3	3	3	4	4	5	2	4	5	3	4	2	5	4	5	4	5	3	4	3	3	3	4	4	4	4	4	3	3	4	3	3	4	3	3	4	5	4
+123	60.0	portes de fer	True	16 ans	Marsximus@yahoo.fr 	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	3	3	1	5	5	5	5	3	3	3	3	3	3	3	3	3	3	5	3	3	4	2	5	3	3	3	5	5	5
+124	37.0	trianon	True	7	prisca.svt@hotmail.fr	True	3	3	3	3	3	3	3	3	3	3	3	4	4	3	3	4	3	3	4	4	3	3	5	5	3	4	3	3	3	3	3	5	3	3	5	3	5	5	3	3	4	5	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3
+125	40.0	quartier latin	True	5ans	Baroudeur1@gmail.com	False	4	3	4	2	2	4	2	4	3	2	5	5	4	5	4	4	4	4	5	2	4	4	5	4	2	3	5	4	2	2	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	3	5	3	5	2	4	2	4
+126	42.0	ouemo	True	1 an	devos.erwan@gmail.com	True	4	3	4	4	3	3	4	3	4	4	4	3	3	3	3	3	3	3	3	3	3	3	4	4	4	5	5	4	3	4	4	5	5	5	5	4	4	4	3	4	4	4	4	5	5	4	4	3	3	4	4	4	4	3	3	4	4
+127	41.0	tina	True	13	hatem@skazy.nc	True	4	3	2	4	2	3	4	4	3	4	3	3	4	4	4	4	4	4	3	4	4	2	4	5	5	4	4	4	4	4	4	5	5	4	4	4	2	4	2	4	4	2	2	4	4	4	5	5	4	4	5	3	4	3	3	4	4
+128	50.0		False		jcpon@hotmail.fr 	True	3	3	4	3	3	4	3	4	4	1	4	3	3	3	3	3	3	3	3	4	4	3	5	3	4	4	3	4	5	3	3	5	4	5	5	3	3	3	4	5	3	3	3	5	5	4	4	4	5	2	3	4	3	2	4	4	5
+129	37.0		True			False	4	2	3	2	3	3	2	2	4	3	4	3	2	2	3	3	3	2	3	2	3	4	4	4	2	3	3	3	3	3	3	4	4	3	3	2	4	3	2	2	3	3	4	3	3	4	3	2	3	2	2	3	3	3	2	2	2
+130	40.0	vallée du tir	True	8	crabault@hotmail.fr	True	3	3	4	3	3	3	3	3	4	3	4	2	1	1	1	2	4	4	2	5	1	4	5	5	1	1	1	4	4	4	5	5	5	5	5	1	2	5	5	1	4	4	4	2	1	4	4	4	4	1	1	4	2	4	4	5	2
+131	43.0	pk6	True	34	darked2@yahoo.fr	True	4	3	4	4	4	4	4	4	4	4	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	4	3	3	3	3	3	4	3	3	3	3	4	3	3	3	3	3	4	3	3	3	3	4	3	3	3	3	3	3
+132	47.0		False		steven.meriadec@ville-noumea.nc	True	4	5	5	4	3	5	5	3	5	4	4	4	4	2	4	3	4	3	3	5	4	4	3	4	5	5	1	4	4	4	4	4	5	5	5	5	3	4	4	5	5	5	5	5	5	5	3	5	4	4	4	1	4	4	4	4	5
+133	37.0	vallée des colons	True	6	aurelie_richard@yahoo.fr	True	5	3	4	4	4	3	3	3	2	3	5	5	4	4	3	3	3	5	2	5	4	4	5	4	5	4	5	5	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+134	30.0		False		marine_des_plp@hotmail.com	True	3	3	3	3	5	3	3	5	5	3	5	3	5	5	2	4	4	5	5	4	5	1	5	1	5	5	5	5	5	5	3	5	5	5	5	5	3	5	5	5	4	5	1	5	5	5	5	4	4	3	2	5	5	3	3	3	3
+135	37.0	pk7	True	7 ans		False	4	4	4	4	4	1	1	4	4	1	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	3	3	3	5	3	5	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	5	3	5	2	5	5	2
+136	35.0	motor pool	True	10	doudymix@hotmail.fr	True	3	3	3	3	4	3	4	4	4	4	5	5	5	5	5	4	4	4	4	5	4	3	5	5	5	3	4	3	3	3	3	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+137	24.0	centre-ville	True	3 ans	wadjahdi.jacques@gmail.com	True	4	4	4	1	4	3	2	2	5	1	5	5	5	5	3	5	1	5	5	3	2	5	5	4	5	4	4	1	1	1	2	5	5	5	5	5	1	5	5	5	5	4	4	5	5	3	4	3	3	3	1	3	1	4	3	4	4
+138	22.0		False			False	3	2	3	3	5	3	4	2	2	2	3	3	4	4	2	3	3	4	4	4	4	3	4	5	4	3	4	3	3	3	3	3	3	3	4	5	4	4	4	4	5	4	5	5	4	3	3	4	4	2	4	4	4	2	4	5	3
+139	24.0		False			False	3	1	3	3	3	1	4	2	2	1	5	4	1	5	5	5	1	1	1	4	5	5	5	5	4	1	2	1	1	1	1	5	5	5	5	5	3	3	3	3	3	3	3	4	5	2	2	1	1	1	1	1	3	1	3	1	1
+140	32.0	logicoop	True	5 ans	marie_tauze@hotmail.fr	True	4	2	3	3	1	3	4	3	4	3	5	5	5	5	5	3	3	1	1	4	4	4	5	5	5	3	5	3	3	3	3	5	5	5	5	5	3	5	5	5	5	5	5	5	5	5	3	3	4	1	3	1	3	1	3	3	4
+141	25.0		False		manon.bordaberry@orange.fr	False	5	4	5	4	4	4	5	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+142	26.0	val plaisance	True	1 an	So-saw@hotmail.fr	False	3	3	3	3	3	3	3	3	3	3	3	2	4	3	4	3	3	3	3	4	3	3	5	3	4	2	4	1	3	3	3	3	3	3	5	3	4	3	3	3	4	3	3	5	5	4	2	3	3	3	3	3	3	3	3	3	3
+143	42.0	sainte marie	True	10 ans	hugues.georgelin@gouv.nc	True	1	5	1	1	1	1	1	1	1	5	1	3	1	3	1	3	4	3	3	1	1	1	4	1	4	4	4	4	4	4	4	4	4	4	4	4	3	4	4	3	5	3	2	4	4	4	3	4	2	2	2	4	4	3	3	4	3
+144	365.0	portes de fer	True	12		False	5	3	4	4	2	4	2	3	4	2	5	4	3	5	4	4	4	3	2	4	4	3	4	1	5	3	5	3	3	3	3	5	5	5	5	3	2	5	5	5	2	2	4	5	5	5	3	3	4	3	2	2	4	2	4	3	2
+145	47.0	anse vata	True	13	rock.feyler@canl.nc	False	4	1	5	4	3	4	5	5	3	3	5	5	5	5	5	5	3	3	3	4	5	4	5	5	5	5	5	5	1	3	3	5	5	5	5	5	2	5	5	5	5	5	5	5	5	5	1	5	5	5	5	3	5	3	5	5	5
+146	34.0	motorpool	True		Bertille.jouan-ligne@province-sud.nc	True	3	3	3	4	1	2	3	3	4	4	4	1	4	2	2	2	5	3	4	1	3	3	3	3	4	3	4	1	4	2	3	2	2	2	2	1	4	2	3	1	4	3	3	2	1	4	1	4	2	4	1	4	4	4	2	5	4
+147	45.0		False		Fhenrybzh@hotmail.fr	True	4	4	3	3	3	3	3	3	4	3	4	4	3	3	2	3	3	4	4	3	3	2	3	2	3	5	4	4	3	3	3	4	4	4	3	5	4	4	4	3	5	2	2	4	3	4	4	3	4	3	2	3	3	4	3	3	4
+148	43.0		False		joben@canl.nc	True	4	3	3	4	3	3	3	3	4	3	5	3	5	3	3	3	3	4	3	5	3	3	5	3	3	5	3	4	3	3	3	5	4	3	5	5	5	5	3	4	3	4	3	5	3	4	5	4	5	4	3	2	5	2	5	5	3
+149	58.0	vallée des colons	True	4 ans	Manuel.bachet@gmail.com	True	4	3	3	4	1	3	4	4	4	4	5	5	5	5	5	5	3	4	4	5	5	5	5	4	5	5	5	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	3	3	1	2	2	3	4	4	4
+150	38.0		False			False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	1	3	1	1	1	1	3	5	5	1	5	5	1	5	1	5	1	5	1	1	5	5	3	5	1	1	5	1	1	1	5	5
+151	47.0	centre-ville	True	17ans	gege8506@laposte.net	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+152	33.0		False		tekurio.rangitea@hotmail.fr	True	5	4	5	2	2	3	2	5	5	5	5	5	3	5	5	3	1	3	1	5	3	3	5	3	3	3	3	2	2	2	2	2	5	5	5	5	5	3	3	2	5	3	1	5	5	5	3	3	1	1	1	1	5	1	2	5	5
+153	34.0	n'géa	True	12 ans	virginie.guillo@yahoo.fr	False	4	4	4	4	2	4	2	2	4	4	4	4	4	4	4	4	2	4	4	4	5	4	5	4	4	5	4	2	2	2	4	4	4	4	4	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	2	4	4	4	4	5
+154	50.0	vallée des colons	True	22 ans	lo.nc@hotmail.com	True	3	3	4	3	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	4	3	3	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	2	4	3	4	4	5
+155	53.0	baie des citrons	True	15		False	5	3	5	5	5	5	5	2	5	5	5	2	4	2	2	3	3	5	4	4	4	4	2	4	4	4	2	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	2	4	4	4	4	4	3	4	4	4	4
+156	45.0		False		bovibrato@gmail.com	False	5	1	4	3	5	4	2	2	4	2	5	1	4	2	4	4	4	4	4	4	4	5	4	4	5	5	5	4	4	2	2	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	4	4	4	4	4	4
+157	31.0	vallée du tir	True	31		False	4	5	5	3	4	2	2	2	5	2	5	4	4	4	2	4	1	5	3	5	5	2	4	1	3	5	4	3	3	1	4	4	5	5	5	5	4	5	5	3	5	4	2	4	4	4	2	3	3	1	3	2	3	1	4	4	4
+158	37.0	centre-ville	True	20	emveyret@hotmail.com	False	5	3	5	1	1	3	5	3	5	1	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	3	5	3	3	3	3	5	5	5	5	5	5	3	5	5	5	5	1	5	5	5	5	5	5	1	5	3	4	1	5	5	5
+159	33.0		False			False	4	4	4	4	3	3	3	3	3	2	5	3	4	3	3	4	4	3	3	3	3	3	4	3	5	5	4	4	3	3	3	5	5	5	5	5	5	5	5	4	3	4	4	5	5	5	5	4	4	4	3	4	4	3	4	4	4
+160	50.0	sainte marie	True	10 ANS	jmradiguet@gmail.com	True	4	4	4	4	4	4	4	4	4	4	4	3	4	4	4	4	4	4	4	4	4	4	4	3	3	4	4	4	3	4	4	5	4	4	3	4	4	4	5	4	4	4	4	3	4	4	3	4	4	4	4	4	4	4	4	4	4
+161	40.0	pk7	True	7 ans	nomshad@canl.nc	True	4	3	4	2	4	3	5	5	4	2	4	3	4	2	2	4	4	4	2	4	4	4	5	4	2	5	4	3	4	4	4	5	5	5	5	3	4	4	4	5	5	5	3	4	3	4	2	3	4	1	4	3	4	3	4	3	5
+162	39.0	anse vata	True	10 ans	ydominique@bioeko.nc	True	4	3	4	2	4	4	2	2	4	2	4	4	5	5	5	4	2	4	4	4	4	4	2	3	5	4	5	3	3	3	5	5	5	5	5	5	4	4	2	5	4	4	5	5	5	5	5	5	5	4	5	5	4	3	3	4	4
+163	34.0	ouemo	True	10		False	4	3	4	4	3	3	4	4	3	2	5	4	5	4	5	3	3	3	3	3	4	3	5	5	4	3	3	3	3	3	3	3	3	3	3	4	3	3	3	5	5	5	3	4	5	5	3	3	4	4	3	3	3	3	3	3	4
+164	61.0	ouemo	True	17 ans	noumea.confidentiel@gmail.com	False	5	3	3	5	4	4	2	3	4	3	3	4	4	3	3	3	1	3	2	3	3	2	4	2	4	1	3	3	3	3	3	2	3	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+165	30.0	artillerie	True	1 an et demi	ninai12@hotmail.com	True	3	4	2	3	2	2	3	3	2	3	2	3	3	1	1	1	3	3	3	1	3	1	3	3	1	3	4	3	3	3	3	3	3	4	3	4	2	3	3	1	1	3	3	3	1	3	1	3	2	2	4	2	4	3	3	2	3
+166	37.0	vallée du génie	True	2 ans	vincegris@hotmail.com	True	5	3	4	3	4	3	5	3	5	3	5	5	5	5	5	3	3	3	3	4	3	5	5	5	5	4	1	4	3	1	3	5	4	5	5	5	3	4	4	4	4	5	3	5	5	5	3	3	4	3	5	4	1	3	3	3	5
+167	40.0	ouémo	True	8 ans		False	4	1	2	2	3	4	3	3	3	3	3	4	4	4	1	4	3	4	2	4	4	4	4	3	4	2	3	2	2	3	3	4	5	5	3	3	5	4	5	2	3	3	3	3	3	3	3	3	4	3	2	2	1	3	4	3	4
+168	23.0	val plaisance	True	15 ans	a.henin@yahoo.fr	True	5	3	3	3	3	4	5	5	4	4	5	5	4	4	3	3	5	3	5	5	5	5	5	5	3	3	5	3	3	3	5	5	5	5	5	5	2	4	5	2	4	4	5	5	2	5	3	3	2	4	3	4	5	5	4	5	5
+169	26.0	faubourg blanchot	True	26		False	2	3	3	5	3	3	2	3	4	4	5	4	4	2	1	4	3	5	5	3	2	3	5	2	3	3	4	3	3	3	3	4	3	4	3	4	2	5	3	1	3	3	4	4	2	2	1	3	2	4	3	4	4	4	3	2	4
+170	45.0	noumea	True	16	valerie1208@live.fr	False	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	2	4	4	4	4	4	4	4	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	4	4	4	3	3	4	3
+171	25.0	quartier latin	True	1an	benjamin.piouffle@gmail.com	True	3	3	4	5	1	3	4	4	5	4	5	3	2	3	4	2	3	3	3	3	3	2	4	4	4	3	2	3	3	3	3	5	5	5	4	3	2	4	4	5	4	4	4	3	1	4	3	4	5	3	3	3	3	3	3	4	3
+172	53.0	pk7	True	10 ans 	ganethierry@yahoo.fr	False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	4	3	3	3	3	3	3	3	1	5	1	3	3	2	1	1	2	5	3	5	3	3	3	3	1	3	5	3	4	3	3	3	3	3	3	3	3	3	3	3
+173	29.0	pk7	True	1 an	precilia.blum@gmail.com	False	3	4	4	4	5	4	3	5	5	4	5	4	4	4	2	2	4	5	4	4	4	4	4	4	5	3	4	3	3	3	2	2	4	4	5	3	5	4	4	4	3	3	3	3	3	4	5	3	3	4	3	4	3	3	3	4	3
+174	62.0	motor pool	True	10	Fabien.lu@yahoo.fr	True	4	3	4	3	4	3	4	3	2	2	5	4	5	2	3	4	3	2	1	4	4	3	4	4	5	5	4	5	3	3	4	5	5	5	3	3	5	5	5	5	5	5	3	5	5	5	3	5	4	2	4	3	3	2	3	4	4
+175	54.0	ouemo	True	30 ans	brmanetti@hotmail.com	False	5	3	3	3	5	5	5	2	1	1	4	3	5	5	4	5	5	4	4	2	5	1	5	5	5	5	2	3	3	3	3	4	3	4	5	3	5	5	5	5	5	2	2	5	5	2	4	5	5	2	4	2	2	2	2	2	4
+176	46.0	trianon	True	6 ans		False	4	3	5	3	2	3	4	4	4	2	5	5	4	5	4	5	4	5	3	3	5	4	4	5	5	4	4	5	3	3	3	4	5	5	4	5	5	5	3	2	5	4	4	5	5	3	3	3	4	3	3	3	5	3	4	4	4
+177	29.0	faubourg blanchot	True	29 ans	n.napoleon@live.fr	False	5	2	3	5	4	5	5	5	5	4	5	4	4	4	3	3	2	5	4	5	5	5	5	5	5	3	5	2	2	2	5	5	5	5	5	3	5	5	5	3	3	3	5	5	5	5	2	5	4	3	4	2	4	4	4	5	4
+178	40.0	vallée des colons	True	15 ans	emmanuelle.pedeutour@sic.nc	True	3	3	4	3	3	3	3	4	3	4	3	3	3	3	3	3	3	3	3	3	3	3	4	4	3	5	3	3	3	3	3	3	4	4	3	3	3	4	3	4	3	3	3	3	4	3	3	4	4	4	4	4	3	3	3	4	3
+179	29.0	centre-ville	True	2		False	3	2	2	5	4	4	2	5	3	4	3	2	3	1	1	3	3	2	2	3	3	3	3	1	3	4	1	3	3	3	1	4	3	3	4	5	3	3	3	3	1	5	1	4	5	3	3	3	4	4	4	4	4	3	3	3	3
+180	26.0	tina	True	1 ans		False	4	3	4	4	4	3	4	4	4	4	5	2	4	3	2	3	3	4	4	4	3	2	5	4	4	4	4	4	4	4	4	5	4	5	5	5	4	4	4	3	4	5	4	5	5	5	2	3	5	4	3	3	3	3	3	3	4
+181	32.0	ouémo	True	3 ans	calmettes_charles@yahoo.fr	True	3	1	4	3	2	4	1	4	4	5	4	5	4	5	3	4	4	4	4	4	4	4	5	3	4	5	4	4	4	4	3	5	4	4	4	5	4	5	4	2	4	4	5	5	4	5	2	4	4	4	4	4	4	4	4	4	4
+182	59.0	vallée des colons	True	10	yvesscussel@lagoon.nc	True	4	3	3	5	5	5	1	5	4	3	5	3	5	2	2	5	3	4	5	4	5	1	5	2	4	4	5	4	4	3	2	5	4	4	5	5	5	5	5	5	3	1	2	5	5	5	2	4	5	2	2	5	5	1	5	3	5
+183	67.0	moselle	True	16	borgnefesse4@hotmail.com	True	3	3	3	3	3	3	1	3	3	3	3	3	3	1	1	3	3	3	1	3	3	3	3	1	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	2	3	3	1	3	3	3	3	3	2	3	3	3	3	3	4
+184	40.0	vallée des colons	True	3 ans	grafeuillea@yahoo.fr	False	3	3	3	3	3	3	1	3	4	3	4	4	3	4	1	3	3	4	4	3	3	3	4	2	4	4	4	3	3	3	4	4	4	4	4	4	3	4	4	1	3	2	3	4	4	3	3	3	3	3	3	3	3	3	3	3	3
+185	29.0		False		agalleron@hotmail.fr	False	4	3	4	2	2	3	4	4	4	3	5	4	4	5	3	3	3	2	2	4	4	3	5	3	4	3	4	3	3	3	3	4	4	4	4	4	2	4	4	2	3	3	3	4	4	4	2	2	3	3	3	2	4	3	3	2	3
+186	37.0	rivière-salée	True	5ans	yannick.lenoc@hotmail.fr	True	5	3	5	5	5	3	5	5	5	5	5	5	5	5	1	3	3	5	5	5	5	1	5	5	5	5	5	5	3	3	3	5	5	5	5	5	5	5	3	5	5	5	3	5	5	5	5	5	5	3	4	4	3	4	4	4	4
+187		magenta	True	17 ans	cottin988@gmail.com	True	5	3	3	5	3	3	3	3	5	3	3	3	3	3	3	3	5	5	3	5	3	3	5	3	3	5	3	3	4	3	3	5	5	5	3	3	3	3	3	3	3	3	2	1	5	3	3	5	3	3	3	3	3	3	3	3	3
+188	67.0	rivière salée	True	36 ans	maraychal@live.fr	True	4	5	5	3	3	4	4	5	5	3	5	4	4	4	2	4	3	5	3	4	4	4	5	5	5	5	4	3	3	3	4	5	5	5	5	5	5	4	5	3	5	4	3	5	4	5	4	4	4	4	3	3	5	4	4	4	5
+189	27.0	tina	True	27 ans	florian.delpias@ens-cachan.fr	False	4	3	3	4	2	3	4	4	4	3	5	4	3	5	2	3	4	4	4	4	4	4	5	3	5	3	3	3	3	3	3	3	3	3	4	5	3	3	4	3	3	4	4	4	5	4	3	3	4	4	4	4	4	3	4	3	3
+190	53.0	val plaisance	True	Huit ans		False	3	3	3	4	4	4	4	4	4	4	5	4	4	4	3	3	3	4	4	4	4	4	4	3	3	4	5	3	3	4	3	5	5	5	5	4	4	4	4	4	3	3	4	4	4	4	3	4	3	4	4	4	4	4	3	4	3
+191	53.0	haut magenta	True	20 ans	liohottin@gmail.com	False	5	3	5	2	4	3	5	5	5	2	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	2	5	5	5	2	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	3	5	2	5	5	5
+192	44.0	anse vata	True	7	mopetshow@gmail.com	True	4	3	3	2	4	3	4	3	3	3	5	4	5	5	3	3	4	4	4	3	4	4	5	4	4	5	4	4	3	4	3	5	5	5	5	5	5	5	5	5	4	4	4	5	5	5	4	5	3	2	4	4	4	3	3	4	4
+193	45.0		False		guyannick@me.com	True	5	4	5	3	5	4	5	5	5	1	5	4	5	5	5	5	2	5	5	5	5	5	5	5	5	5	5	5	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	1	1	3	5	3	5	5	5
+194	54.0		False		Cathy_lbx@hotmail.fr	False	3	3	4	3	3	3	3	3	3	3	3	5	4	5	3	3	3	3	3	4	4	3	5	5	5	3	3	3	3	3	4	4	5	3	4	3	4	5	5	5	5	5	4	5	3	4	3	3	5	3	4	3	3	3	3	3	3
+195	60.0	artillerie	True	3 ans	cococessio@yahoo.fr	True	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	4	4	4	4	4	4	4	5	4	4	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	5	1	3	5	5	3	3
+196	27.0	pk7	True	26	kerdel18@gmail.com	True	5	3	3	3	4	4	3	5	4	3	5	4	5	4	3	3	5	4	4	4	4	3	5	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	4	3	3	4	5	3	5	3	3
+197	-38.0	n'géa	True		institut.noumea@gmail.com	False	3	3	3	4	3	3	3	3	3	3	5	3	4	3	3	3	3	3	3	4	4	4	5	5	4	3	5	3	3	3	3	5	5	3	5	3	5	3	3	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	3
+198	27.0	rivière salée	True	13 ans	florianne.wahnyamalla@yahoo.com	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	5	5	3	5	5	5	5	3	5	4	5	5	5	5	5	5	5	5	5	4
+199	21.0	logicoop	True	4 ans	Ninatyal@gmail.com	True	3	4	5	2	4	4	5	4	5	2	5	5	4	5	5	2	2	5	5	2	2	2	5	5	5	4	5	1	2	2	1	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	4	4	4	3	5	4	5	3	5	4	5
+200	24.0	normandie	True	24		False	3	2	4	4	5	4	4	4	2	4	4	5	3	4	2	3	4	4	5	4	4	4	5	4	4	4	5	4	4	2	4	4	5	4	5	5	4	4	4	4	4	4	4	5	5	5	4	5	4	1	4	2	3	3	3	3	4
+201	78.0	tina	True	24 ans	mariefranceroy@lagoon.nc	True	4	3	3	3	3	3	3	3	3	1	3	3	4	3	2	3	3	3	1	3	3	3	4	2	4	3	3	3	3	3	3	3	3	4	4	4	3	3	4	4	3	4	3	4	4	3	3	3	4	2	3	4	3	3	3	4	3
+202	53.0		False		Castel.suzanne.cs@gmail.com	True	4	3	3	4	3	4	3	5	3	3	5	4	5	5	5	3	3	3	3	3	3	3	5	3	5	3	4	4	4	4	2	5	5	5	4	4	3	4	3	4	5	4	3	5	5	3	3	3	5	2	3	2	3	3	5	3	3
+203	60.0	ouen toro	True	17	bermau0lagoon.nc	True	2	3	3	3	3	3	3	3	1	3	3	3	3	1	2	2	3	3	3	3	3	2	5	3	1	3	3	3	3	3	3	3	3	4	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	3	3	3	4	3
+204	32.0		False			False	4	5	3	3	3	3	2	3	4	3	5	3	3	2	2	3	3	4	4	2	2	2	3	3	4	1	3	4	3	3	3	3	1	3	4	4	4	5	4	4	3	2	2	5	4	4	4	4	3	3	3	4	3	3	3	4	3
+205	50.0	tina	True	16 ans	anne.wilkowski@yahoo.fr	True	3	3	4	4	4	3	4	4	4	4	4	2	3	2	2	2	3	4	3	2	4	4	4	2	2	3	3	3	3	3	3	3	4	4	3	3	3	3	4	3	3	2	2	2	2	3	2	3	4	3	3	3	3	3	3	4	4
+206	22.0	anse vata	True	2 ans		False	3	3	3	3	3	3	3	3	3	3	3	2	3	2	2	3	3	3	3	3	3	3	3	3	3	3	3	2	2	2	3	3	3	3	3	3	3	3	2	1	3	2	2	2	1	3	2	2	3	3	3	3	3	3	3	3	3
+207	40.0	tina	True	1	h.naoi-bracq@outlook.com	True	4	3	3	5	4	4	4	5	5	4	5	4	5	5	5	4	4	4	3	3	3	3	3	3	4	4	3	4	4	4	4	5	5	5	5	4	4	4	3	3	4	4	3	4	4	5	4	4	5	4	3	3	3	3	3	3	3
+208	32.0	centre-ville	True	4 ans		False	3	3	3	3	3	3	3	3	3	3	3	4	5	5	5	5	5	4	2	5	5	2	5	5	5	4	4	4	3	3	3	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+209	37.0	faubourg blanchot	True	7 ans	anneleroy77@gmail.com	True	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	3	3	5	5	3	3	5	3	3	3	3	3	3	3	5	3	3	1	3	3	4	3	3	3	3	3	3	3
+210	32.0		False			False	3	3	3	3	3	3	4	3	3	3	3	4	3	3	3	3	3	3	3	3	4	4	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	3	4	3	3
+211	49.0	vallée des colons	True	3	granger.bruno@free.fr	True	4	1	4	5	1	4	5	2	5	3	5	1	5	1	1	4	4	4	4	4	1	1	4	1	3	5	2	5	5	4	2	5	4	4	4	3	4	5	4	4	3	4	1	2	4	4	1	1	4	1	4	1	1	1	4	1	4
+212	26.0	faubourg blanchot	True	8 ans	keko7480@yahoo.fr	True	5	2	4	5	2	3	4	3	3	3	5	5	5	5	4	4	1	3	3	4	4	3	5	3	4	5	5	3	4	4	1	5	5	5	5	5	4	5	5	5	3	4	4	5	4	5	2	2	4	2	4	2	3	5	4	2	3
+213	32.0	artillerie	True	3 ans	kanzaki74@hotmail.fr	False	4	3	5	2	2	4	4	4	3	2	5	5	5	5	5	3	1	4	4	5	5	4	5	4	4	5	5	3	4	4	1	5	5	5	5	5	3	4	5	5	3	3	3	5	5	5	4	2	4	2	3	3	5	2	4	2	3
+214	42.0	ouemo	True	42 ans	dldr@lagoon.nc	True	4	2	2	5	2	2	4	2	4	1	5	4	5	5	5	3	3	1	1	3	4	3	4	3	3	3	3	3	3	3	3	5	5	3	4	5	4	3	3	5	2	2	3	3	5	3	5	3	4	3	3	3	3	3	5	3	3
+215	44.0	ouemo	True	12 ans	Glaselve@gmail.com	True	4	5	3	3	4	3	4	4	3	3	4	3	1	5	1	3	5	3	1	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	5	3	3	3	3	4	4	3	3	5	4
+216	51.0	pk6	True	14 ans	danielsan66@hotmail.fr	True	4	3	1	4	4	4	5	5	1	4	4	4	4	4	2	4	4	4	2	4	4	4	4	4	4	3	3	3	4	4	4	4	4	3	4	4	3	3	4	3	4	4	4	3	4	4	4	4	2	2	4	3	3	3	3	4	3
+217			False			False	3	3	3	4	3	3	2	5	5	4	5	5	5	3	5	3	5	5	5	5	1	5	5	3	5	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	2	1	5	5	5	5	5	3	3	3	3	3	3	3	3	3	3
+218	45.0		False		Corinne.chauveau@canl.nc 	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	5	5	5	5	5	5	5	5	5	5	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	1	5
+219	33.0	orphelinat	True		giulianana@gmail.com	True	4	2	5	4	2	4	4	4	3	2	5	4	4	5	3	3	4	2	2	4	4	5	5	5	5	3	5	4	3	3	2	5	5	5	5	5	4	3	5	3	3	5	5	5	3	5	3	2	4	2	3	1	3	1	5	1	3
+220	32.0	orphelinat	True	1 an	rahan2001@yahoo.fr	False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	5	5	3	5	4	4	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
+221	34.0	val plaisance	True	1 an		False	1	5	4	1	1	1	4	4	3	3	4	1	3	1	1	1	3	1	3	1	1	3	1	3	1	3	3	3	3	3	3	3	5	3	3	3	1	3	3	1	3	3	3	3	1	3	3	3	1	3	3	3	3	3	3	3	3
+222	28.0	val plaisance	True		thome.laurie@gmail.com 	True	3	4	4	4	4	3	4	5	4	3	5	4	4	4	4	4	4	5	2	4	4	4	5	3	4	4	4	4	3	3	3	4	3	4	5	4	4	4	4	5	4	4	4	4	5	4	4	5	3	3	4	3	3	3	3	3	3
+223	31.0	ouemo	True	2 ans	martinchailloux@gmail.com	True	4	3	4	3	1	4	4	4	4	3	5	4	4	5	4	4	3	5	4	4	5	3	5	5	5	5	3	4	3	3	3	5	5	5	5	5	5	5	4	5	5	3	5	5	5	4	4	3	5	3	4	2	3	3	4	3	4
+224	36.0	portes de fer	True	9	f.chatelin@mls.nc	True	1	2	1	1	1	2	1	3	2	1	2	2	2	1	1	1	3	2	1	2	2	1	2	1	1	1	5	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	3	1	1	4	1	1	1	1	5	1	1	5	3
+225	37.0	haut magenta	True	6 ans	tim_dutoit@hotmail.com 	True	2	3	3	3	3	3	3	4	4	3	2	3	3	2	3	4	5	3	4	3	5	3	4	4	4	3	5	4	3	3	3	4	5	4	5	5	4	4	4	5	4	3	4	4	5	4	5	3	4	4	4	4	5	3	3	3	3
+226	51.0	trianon	True	2 ans	Philippe.jusiak@gmail.com	True	4	4	4	3	4	3	5	5	4	2	5	4	3	5	3	5	3	4	4	4	4	3	5	4	4	5	5	3	4	4	3	4	4	5	5	5	3	4	4	3	5	4	4	5	4	5	2	4	4	3	4	4	5	2	3	4	3
+227	33.0	trianon	True	5	peillon.amaury@gmail.com	True	3	3	2	5	2	3	5	3	5	4	5	1	2	1	5	5	1	3	3	3	4	3	4	4	3	5	4	5	1	1	1	3	4	4	5	2	4	4	5	5	4	5	5	1	4	4	2	4	5	4	4	4	2	2	4	5	5
+228	32.0		False		Naneu84@hotmail.com	True	3	3	3	1	3	3	3	3	3	3	3	2	1	2	3	3	4	3	3	3	4	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	3	3	3	3	3	3	4	4	3	3	3	3	3	3	3	5	3	3	3
+229	51.0	pk6	True	4	vincentp@mls.nc	True	5	5	5	5	3	3	4	3	5	5	4	5	5	1	5	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	5	5	5	3	5	5	5	3	5	5
+230	45.0	trianon	True	1 an	gilles.enee@gmail.com	True	3	4	2	3	2	4	4	5	2	3	4	3	3	4	2	2	4	4	2	3	4	4	4	5	4	4	3	3	3	3	3	4	4	3	5	4	4	3	4	2	3	4	3	4	4	4	5	4	3	3	2	3	4	3	3	4	4
+231	33.0	centre-ville	True	5 ans		False	4	2	4	4	4	4	4	4	4	3	2	3	3	3	3	3	3	4	4	4	4	3	4	4	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	4	3	3	3	3	3	3	4	3	3
+232	24.0	motorpool	True	10ans	laura.nourtier@gmail.com	True	3	3	3	4	3	3	3	3	3	2	4	3	4	4	4	4	3	3	3	3	2	4	3	2	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	5	4	5	4	3	3	3	3	3	4	5	3	4	5	3	3	5	5
+233	33.0	anse vata	True	4 ans		False	3	1	3	4	3	2	3	2	1	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	4	4	5	5	5	5	4	5	5	5	3	4	5	5	5	3	3	3	3	5	5
+234	35.0		False		Fannyjugy@hotmail.com 	True	4	3	3	3	4	4	4	4	4	3	4	3	5	3	3	4	3	3	3	5	5	5	5	4	5	3	5	3	3	3	4	5	5	5	5	5	3	3	4	3	4	4	3	5	5	5	3	3	3	3	3	3	3	3	4	3	3
+235	27.0	centre-ville	True	17 ans		False	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5
+236	45.0	rivière salée	True	45	soniasorel972@gmail.com 	True	5	5	4	5	1	3	5	5	3	5	5	5	5	3	3	3	5	5	5	5	5	5	5	5	4	3	4	5	3	3	4	3	4	4	4	5	1	1	4	1	5	4	4	3	5	5	1	4	5	4	5	3	3	3	4	5	4
+237	35.0	ouemo	True	5		False	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	4	3	3	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	4	3	4	4	3	4	4	4	4	4	4	4	5	3	3	3	4	2	4	3	3	5	5
+238	54.0	centre-ville	True	17 ans	karuhele@hotmail.com	False	4	3	2	2	3	3	1	2	3	2	2	1	3	1	1	1	2	1	3	1	1	1	1	1	1	2	2	2	2	2	1	2	2	2	2	3	1	1	1	1	1	1	1	1	2	2	2	2	2	2	2	3	3	3	3	3	2
+239	61.0		False		klace1@hotmail.com	True	3	3	5	1	5	3	4	1	5	1	4	3	5	5	5	5	5	5	3	5	5	1	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	5	5	5	5	5	5	2	3	5	5	1	2	5	5
+240	49.0	vallée des colons	True	1 an	diver03@hotmail.com	True	4	1	1	5	2	4	1	4	4	4	4	4	5	5	5	5	1	5	5	5	5	1	5	1	1	5	5	1	1	1	5	5	5	5	5	5	3	4	4	4	5	5	1	5	5	5	1	5	5	4	4	4	4	1	1	4	5
+241	48.0	vallée des colons	True	20 ans	Lagabrielle.nc@gmail.com	True	4	4	4	4	3	4	5	4	4	4	5	3	4	4	2	4	4	3	4	4	4	4	5	4	5	4	4	4	4	4	4	5	4	4	5	5	3	5	4	4	5	4	4	4	5	4	4	4	4	4	4	4	4	4	3	4	4
+242	27.0	port plaisance	True	4 ans	maxime.boisrame@orange.fr	True	2	3	4	3	4	3	3	4	4	4	4	4	4	4	1	4	4	4	4	4	4	1	4	3	4	4	4	4	4	4	4	5	3	4	4	4	4	4	5	5	4	4	4	4	5	5	3	4	4	4	2	4	4	4	4	4	4
+243	57.0	baie des citrons	True	14 ans	s.cyrille@hotmail.fr	True	3	3	4	2	4	3	3	2	4	2	4	4	5	3	5	5	2	4	4	4	5	1	3	5	3	3	5	4	3	2	4	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	5	5	4	1	3	2	3	1	3	3	3
+244	60.0		False			True	4	3	3	2	5	3	3	3	5	2	5	4	3	3	1	3	2	3	3	3	4	2	5	4	5	4	3	3	3	3	3	4	4	4	5	5	5	5	5	5	5	5	3	5	5	5	5	4	4	3	3	3	3	3	3	3	3
+245	30.0	magenta	True	5 ans		False	3	1	3	1	1	3	1	4	2	1	5	4	4	5	4	1	3	1	1	4	3	3	4	4	5	3	3	3	3	3	3	4	5	5	5	5	3	4	4	3	4	4	3	4	4	4	3	3	3	1	3	1	3	1	3	2	4
+246	36.0	portes de fer	True	6 mois	Mrs_choco@hotmail.com	False	5	3	2	4	5	4	2	5	5	4	5	4	5	5	4	4	3	4	2	3	3	3	3	3	3	3	4	3	3	3	3	1	5	5	5	5	5	2	5	4	5	4	3	5	5	5	3	3	3	3	3	5	5	3	3	3	3
+247	48.0	logicoop	True	20 ans 	Isabelle.capart.nc@gmail.com	True	3	4	4	1	4	3	4	4	4	2	5	3	4	4	3	3	4	4	2	5	5	5	4	4	5	3	5	3	3	3	3	3	3	3	5	5	3	3	4	1	3	2	3	5	5	5	4	3	3	2	4	4	5	2	3	4	3
+248	44.0	orphelinat	True	11	Tiki.sharky@me.com	True	4	1	1	1	2	3	2	1	5	2	3	3	4	3	3	3	3	5	3	4	4	4	3	2	4	3	4	3	2	2	4	4	4	3	5	4	4	4	4	4	4	2	4	5	5	4	5	3	4	2	2	2	3	2	2	3	4
+249	23.0	pk7	True	6	J. Letourneur@me.com	False	5	4	4	3	4	4	5	5	3	3	5	3	3	5	3	4	4	4	4	4	4	2	5	4	3	3	3	3	3	5	4	3	3	3	3	5	3	4	4	5	4	4	4	5	4	3	3	4	4	3	3	3	3	3	3	3	3
+250	35.0		False		kamadja@gmail.com	True	5	5	5	5	5	5	5	5	5	5	5	3	5	2	3	3	5	4	4	4	3	3	2	3	5	5	5	5	5	5	3	5	5	5	1	3	5	5	5	1	4	2	3	2	5	5	3	5	3	5	2	5	5	5	3	5	3
+251	51.0	magenta	True	14	Chimentia@yahoo.fr 	True	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	5	4	4	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5
+252	28.0	centre-ville	True		clemence.gleizes@yahoo.fr	False	5	3	3	3	3	5	4	3	4	2	5	5	4	5	3	5	3	2	2	5	4	4	5	4	5	2	5	3	2	2	2	5	5	5	5	5	1	5	4	1	2	4	4	5	4	5	2	1	4	2	2	1	3	2	4	1	4
+253	43.0	ouémo	True	10	com.tdi@mls.nc	True	3	5	3	4	3	3	5	5	3	3	5	4	5	5	4	4	5	3	3	4	3	3	5	3	5	3	5	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	2	5	5	4	4	3	5	3	5	5	3
+254	30.0	port plaisance	True	7 ans	emmanuelle.molnar@gmail.com	True	3	1	5	3	4	4	5	3	5	2	5	3	5	4	3	2	5	4	4	5	4	3	5	4	5	4	5	4	4	4	1	5	4	4	5	5	5	3	5	4	5	4	3	5	5	4	5	5	5	3	3	4	4	4	4	5	5
+255	34.0	motor pool	True	15ans	karen_champsavoir@hotmail.com	False	4	3	3	4	4	3	3	4	4	4	4	3	4	3	2	4	5	4	4	3	3	4	5	4	4	4	4	4	4	4	4	4	4	4	5	4	2	4	4	3	4	3	4	4	3	4	2	4	3	4	4	4	4	4	4	4	5
+256	30.0	ouemo	True		milly86@hotmail.fr	False	3	3	2	3	4	3	2	5	2	3	2	4	1	2	1	2	3	2	3	3	2	1	3	3	3	3	3	3	3	3	3	3	2	3	3	2	1	3	3	3	2	2	2	2	3	1	1	3	2	3	3	3	3	2	3	3	3
+257	34.0		False		battamiguel@hotmail.com	True	3	3	3	3	3	3	3	3	3	3	5	5	3	5	3	3	5	3	3	5	3	3	5	3	5	3	5	3	3	3	3	5	5	5	5	5	3	5	5	5	3	5	5	5	5	5	3	3	3	3	3	3	5	3	3	3	3
+258	34.0		False		thomas_auger@hotmail.fr	True	4	3	3	4	4	4	5	4	3	3	5	5	5	5	5	5	3	3	3	5	5	5	5	5	5	5	5	4	4	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+259	43.0	faubourg blanchot	True	5		False	5	5	4	4	4	3	4	4	5	3	5	5	4	5	4	5	5	4	5	5	5	5	5	5	5	5	5	5	5	2	3	5	5	3	5	5	5	5	5	4	5	5	5	5	5	5	3	5	5	5	5	4	5	3	3	5	5
+260	38.0		False		sabnoumea@yahoo.fr	False	3	3	4	4	4	3	3	3	4	4	3	4	4	3	4	3	2	4	4	4	5	4	5	4	3	3	3	3	3	3	3	4	2	3	3	4	4	4	4	5	4	4	4	4	4	4	4	4	5	4	5	4	3	4	4	4	4
+261	55.0	centre-ville	True	5 ans		False	3	3	3	3	3	3	3	3	3	3	3	3	2	3	1	3	3	2	1	3	3	1	3	3	2	1	1	2	2	2	2	3	3	3	1	2	2	3	2	2	1	1	1	3	3	3	3	3	1	1	1	1	1	2	2	2	1
+262	33.0	centre-ville	True	5ans	yliard@mls.nc	True	3	3	3	3	1	3	3	3	1	5	5	4	5	5	1	1	3	1	1	3	3	3	5	3	3	3	4	3	3	3	3	4	4	1	1	4	4	4	4	4	4	3	1	4	4	4	4	4	3	3	1	1	3	3	3	4	4
+263	42.0	vallée des colons	True	7 ans	luneivy@hotmail.fr	True	3	4	5	4	5	3	5	3	5	2	5	3	5	3	3	3	3	5	5	5	5	5	3	4	5	4	3	2	3	3	4	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	2	3	5	3	4	4	3	3	3	3	5
+264		val plaisance	True	19 ans	clarafrance.valet@hotmail.fr	True	3	4	2	2	2	3	4	4	3	1	4	4	2	4	2	4	3	3	2	3	2	2	4	3	3	2	3	3	3	3	1	5	4	5	2	4	2	3	3	1	3	2	2	3	1	3	1	2	3	2	2	3	3	2	3	2	3
+265	37.0	pk6	True	11 ans		False	4	5	4	4	4	3	5	3	4	3	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	3	5	3	3	3	3	3	3	5	5	5	5	3	5	4	5	3	4	4	5	5	3	4	5	5	5	5	3	3	5	4	2
+266	38.0	kaméré	True	6 ans	rudy.lorenzini@gmail.com	True	3	5	3	1	4	5	3	1	5	1	2	1	2	1	1	1	5	4	5	4	2	1	5	2	2	1	5	3	2	3	1	1	1	1	1	2	1	1	4	1	4	2	1	1	4	4	1	5	2	1	1	4	5	1	1	5	4
+267	26.0		False		jvayssiere@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	1	3	3	3	5	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
+268	18.0	magenta	True	18		False	3	3	4	3	3	3	3	3	4	3	5	5	5	5	5	3	3	5	5	3	4	2	4	4	4	3	3	3	3	3	3	5	5	5	5	5	4	5	4	3	5	4	3	5	5	5	2	3	4	3	3	3	3	3	4	4	4
+269	29.0	centre-ville	True			False	3	1	3	5	5	4	4	5	2	2	5	5	5	5	3	5	3	5	5	1	1	1	5	5	3	1	1	1	1	1	3	1	1	1	1	3	5	5	5	1	3	3	3	3	5	5	5	3	3	3	3	3	3	3	3	5	3
+270	31.0		False		julie.mazeaud@hotmail.fr	True	4	3	3	3	4	3	3	3	4	2	5	4	4	4	5	4	4	4	4	4	5	4	5	4	4	3	4	3	3	3	4	5	5	5	5	5	4	4	4	5	5	3	3	4	4	3	4	3	4	3	4	4	4	3	4	4	5
+271	31.0	n'géa	True	2 ans	lucien.pommiez@gmail.com	True	4	4	1	5	1	2	5	5	5	3	5	5	2	5	3	5	5	5	1	3	4	5	5	2	4	5	3	5	1	5	3	5	5	5	5	5	4	3	5	4	5	4	5	5	5	2	1	5	4	5	3	4	3	2	3	4	3
+272	25.0	magenta	True	toujours	melissa.keanou@gmail.com	False	4	2	3	4	2	4	5	4	4	2	5	4	5	3	4	4	1	3	3	4	4	4	5	4	5	5	3	1	4	1	4	5	5	5	5	5	1	4	4	4	4	4	4	4	4	4	1	3	4	2	4	4	4	4	5	3	3
+273	25.0	trianon	True	1 an	quentfahrner@gmail.com	True	4	3	3	4	4	4	2	3	5	2	5	5	3	4	5	3	3	3	3	3	4	3	4	4	5	4	3	4	3	3	3	5	5	4	5	5	3	4	3	3	4	3	3	5	5	4	4	3	4	3	3	4	3	3	3	4	4
+274	27.0	pk7	True	26 ans	laura.quinquis@gmail.com	True	4	3	3	1	2	3	4	3	3	1	5	4	4	5	4	3	2	4	1	4	3	3	5	4	5	3	5	3	3	3	3	5	5	5	5	4	3	4	3	3	4	4	3	4	4	4	4	3	3	1	3	2	3	1	4	1	3
+275	34.0	quartier latin	True	10	Wpouillen@nautile.nc 	True	2	2	4	3	4	4	3	4	5	5	5	3	5	3	2	4	4	4	3	3	3	3	4	4	5	3	5	3	4	3	3	5	4	3	5	4	5	4	4	4	4	4	4	5	5	5	5	5	4	3	3	4	3	3	3	5	3
+276	34.0	faubourg blanchot	True	2 ans	damien.daly@free.fr	True	3	2	3	4	4	4	2	4	4	4	4	4	3	4	1	3	3	3	2	2	3	1	4	2	4	3	4	3	3	3	3	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	3	4	4	3	2	4	4	3	4	4
+277	32.0	haut magenta	True	8 ans		False	3	3	3	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	4	3	4	3	5	3	4	2	3	2	3	3	3	3	4	2	3	3	3	3	3	3	3	3	3	3
+278	52.0	anse vata	True	19	neenah007@hotmail.com	False	3	3	3	3	4	3	3	3	4	3	3	3	3	3	3	3	3	4	4	2	4	2	5	3	4	3	4	3	3	3	3	3	4	5	5	5	4	5	4	4	4	4	4	5	5	5	3	4	3	3	3	3	3	3	3	3	4
+279	30.0	magenta	True	20	djcotexyo@hotmail.com 	True	4	5	4	3	4	4	4	1	1	3	4	4	3	2	4	3	1	3	3	4	4	5	5	1	4	2	4	3	3	3	1	3	3	3	4	5	5	4	3	1	2	2	4	5	4	5	3	4	2	3	3	3	3	3	3	4	5
+280	31.0	ouemo	True	3 ans	antoinephilippe.simoni@gmail.com	False	3	3	3	3	4	3	3	3	4	3	4	4	4	3	2	3	3	4	4	3	3	3	4	3	3	3	3	3	3	3	3	4	3	4	5	5	3	3	5	3	5	4	4	4	5	5	3	3	5	3	3	4	3	3	3	3	3
+281	-50.0	rivière-salée	True	6ANS	dugue1967@gmail.com	True	4	3	3	4	4	5	5	5	3	5	5	5	5	5	3	5	4	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	3	4	5	5	4	4	4	4	4	5	5	5	5	5
+282	50.0	ouemo	True	20 ans	saubot.isabelle@gmail.com	True	3	3	4	4	2	3	3	3	5	3	3	4	4	3	2	3	3	3	4	2	4	3	3	3	3	3	3	3	2	2	3	3	4	4	3	4	4	3	3	3	4	4	4	3	3	3	2	4	3	3	4	4	3	3	3	4	3
+283	35.0		False			False	3	4	4	3	3	3	3	4	4	4	4	4	5	4	3	4	5	4	5	4	5	3	4	2	4	2	5	2	2	2	3	5	3	5	5	4	3	4	4	4	4	4	3	4	4	4	4	4	3	3	3	3	4	3	3	3	3
+284	33.0		False		amatnelson@gmail.com	False	4	3	3	3	4	2	3	5	4	2	5	2	3	5	3	3	3	3	4	4	1	3	5	3	4	4	5	4	3	3	3	3	4	4	5	5	3	3	3	3	4	4	3	5	5	4	3	1	5	2	4	4	5	3	3	1	3
+285	44.0		False			False	4	2	5	2	4	4	2	2	4	2	5	5	5	5	2	3	3	5	5	5	5	3	5	5	5	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	5	5	2	5	5	3	5	4	4	3	4	4	4	3	4	3	3
+286	33.0	pk7	True		Snowawe@gmail.com	True	4	3	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	3	3	4	4	5	5	4	4	5	4	5	5	5	3	5	5	5	5	5	4	5	5	5	4	4	4	5	5	4	4	4	5	5	5	5	5	4	5	5	5
+287	42.0		False		karine.ezzine@secal.nc	True	4	1	4	3	4	3	4	3	3	2	3	4	4	3	3	3	2	3	3	4	4	4	3	4	3	4	4	3	2	2	4	4	4	4	5	4	4	4	4	4	5	4	4	4	4	4	2	4	5	2	4	2	4	2	4	4	2
+288	50.0		False		christophe.andre@province-sud.nc	True	4	3	3	3	3	3	3	3	3	3	4	4	4	4	3	4	3	4	4	3	4	3	4	4	4	5	4	3	3	3	3	3	3	1	4	4	3	4	4	3	4	4	4	4	4	4	1	3	4	3	3	4	3	3	3	4	3
+289	46.0	tuband	True	15 ans	valerie.klein-vervaele@province-sud.nc	True	3	2	3	3	2	3	2	4	3	3	4	3	4	4	3	4	2	3	3	3	3	4	4	3	3	2	5	2	2	2	3	5	5	5	5	5	2	4	4	3	4	4	4	4	4	4	3	3	2	4	2	4	4	4	4	4	4
+290	60.0	vallée des colons	True	10		False	4	3	3	4	5	2	2	4	2	4	2	1	3	1	1	3	1	1	1	5	4	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	1	1	3	1	5	1	5	3	3	3	3	3	3	3	3	3
+291	68.0	tina	True	11 ans	lemomic@canl.nc	True	4	4	4	3	2	5	4	2	4	2	5	3	4	4	3	4	3	5	4	5	5	3	5	4	5	3	4	3	3	3	4	4	5	5	5	5	5	5	5	5	5	4	3	4	5	4	4	4	5	3	4	4	4	3	4	4	5
+292			True			False	2	4	3	4	4	3	2	5	4	4	5	3	4	3	1	2	3	4	4	3	1	1	5	1	4	4	5	4	4	4	4	4	4	5	5	4	2	3	3	4	4	3	1	4	3	3	1	4	3	4	3	4	4	3	3	4	3
