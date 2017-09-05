@@ -1,309 +1,309 @@
-	id	age	neighbourhood	lives_in_noumea	months_lived_in_noumea	email	enable_receive_emails	Étages: espaces educatifs	Bâtiments fermés au public pour réhabilitation	Maison du projet (accueil/ exposition)	Bureaux co-working (bureaux partagés)	Commerces	Espace à usage pluriel	Friche artistique-studios	Espace recherche scientifique	Café	Bureaux	Espaces verts et jardins potagers	q2-1	q2-10	q2-11	q2-12	q2-13	q2-14	q2-2	q2-3	q2-4	q2-5	q2-6	q2-7	q2-8	q2-9	q3-1	q3-10	q3-2	q3-3	q3-4	q3-5	q3-6	q3-7	q3-8	q3-9	q4-1	q4-10	q4-11	q4-12	q4-13	q4-2	q4-3	q4-4	q4-5	q4-6	q4-7	q4-8	q4-9	q5-1	q5-2	q5-3	q5-4	q5-5	q5-6	q5-7	q5-8	q5-9
-4	1	26.0	pk6	True	2 ans	jonathan.rebouillon@gmail.com	True	5	4	5	5	5	3	5	4	5	2	5	4	4	3	4	5	3	5	5	3	5	5	4	5	5	3	5	3	3	3	3	5	5	5	5	5	5	5	3	5	3	5	5	4	5	3	5	4	5	1	3	2	5	5	4	5	5
-5	2	30.0	magenta	True	30	Olivia.kurt@gmail.com	False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	5	3	3	3	3	4	4	4	4	4
-7	3	32.0	trianon	True	22	ornc44@gmail.com	False	1	1	1	1	2	1	1	2	1	1	5	3	4	5	1	1	3	3	3	5	4	1	5	1	2	1	1	1	1	1	1	5	4	4	3	3	3	3	1	5	2	2	1	4	5	4	4	5	3	1	1	1	1	1	1	5	3
-8	4	28.0		False		e.launay@live.fr	True	3	3	4	4	3	3	3	3	5	3	5	3	5	3	2	4	4	5	5	5	5	5	5	5	5	2	3	4	1	1	3	5	5	5	5	4	5	5	5	3	5	5	5	5	5	5	3	5	3	3	4	3	3	3	1	5	5
-9	5	26.0	baie des citrons	True	26 ans	haguet.megane@gmail.com	True	4	3	4	3	4	4	4	4	5	3	5	4	4	3	3	4	4	5	4	4	4	5	5	3	5	4	4	4	3	3	3	5	5	5	5	5	4	4	4	4	3	3	3	4	4	4	3	4	3	3	4	2	3	3	3	4	4
-10	6	29.0	magenta	True	4		False	3	3	3	3	2	3	3	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	2	4	3	4	4	3	4	4	4	5	3	3	4	4	3	4	4	3	1	3	3	3	4	3	3	3	4
-11	7	46.0	tuband	True	10	fgambarotto@yahoo.fr	False	3	3	3	3	3	3	4	4	2	2	2	2	4	4	4	4	3	4	4	4	4	5	5	5	4	4	3	3	3	3	3	2	3	3	3	4	2	2	3	4	4	4	4	3	3	3	3	3	4	3	3	4	4	3	3	3	3
-12	8	46.0	tuband	True	10	fgambarotto@yahoo.fr	True	3	3	3	3	3	3	4	4	2	2	2	2	4	4	4	4	3	4	4	4	4	5	5	5	4	4	3	3	3	3	3	2	3	3	3	4	2	2	3	4	4	4	4	3	3	3	3	3	4	3	3	4	4	3	3	3	3
-13	9	37.0	trianon	True	3 ans	marie.brenon@lagoon.nc	True	5	5	4	2	2	4	4	2	4	2	5	3	3	5	1	3	3	4	5	5	5	4	5	5	5	3	3	3	3	3	3	5	5	5	3	5	2	4	4	5	4	5	4	3	3	3	3	3	5	4	4	4	3	3	5	4	3
-15	10	29.0	faubourg blanchot	True	1	marie.c.22@hotmail.fr	True	3	3	3	4	4	4	3	3	4	3	4	4	4	4	4	4	4	4	4	4	1	3	5	3	4	3	4	4	4	3	3	5	5	3	5	5	5	4	5	4	5	5	3	5	5	3	3	5	4	3	3	3	3	3	4	4	4
-16	11	63.0	trianon	True	12	micalonc@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	3	3	5	4	3	4	4	3	3	3	4	4	5	3	3	3	3	3	3	3	3	3	3	3	3
-17	12	48.0	vallée des colons	True	14	hregimbe@yahoo.fr	True	3	2	2	5	2	4	5	2	5	2	5	3	3	5	3	5	1	1	1	3	3	3	5	5	3	3	5	1	1	1	1	5	5	5	5	3	3	3	5	5	3	3	5	3	5	5	5	3	5	3	5	3	3	3	3	3	3
-18	13	25.0	ouémo	True	25 ans	boris.valin@gmail.com	True	2	3	2	4	4	4	3	3	5	5	3	3	4	3	5	3	4	4	4	3	5	4	5	5	5	5	5	4	3	3	3	4	4	5	5	5	5	5	5	5	4	3	2	4	5	3	5	5	5	5	5	5	5	5	5	5	5
-20	14	31.0	koutio	True		hnatrsnj@hotmail.com	False	3	3	3	3	3	3	3	3	3	3	4	5	4	5	3	3	3	3	2	3	3	2	5	3	5	3	4	3	3	3	3	5	5	5	5	3	2	5	4	1	3	2	2	5	3	4	3	3	3	2	4	2	3	2	5	5	4
-21	15	47.0	ouémo	True	10 ans	sjouault@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	5	5	3	5	4	4	3	4	4	4	4	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	3	3	3	3	3	3	3	4
-22	16	36.0	tina	True		gilamii@free.fr	True	3	4	2	3	5	4	5	5	5	2	4	4	4	4	2	3	3	5	5	4	4	1	5	4	5	4	4	4	3	3	3	4	5	5	5	5	5	5	3	5	5	5	1	5	5	5	3	5	3	3	5	3	5	2	3	3	5
-23	17	30.0	magenta	True	5		False	4	4	2	2	4	3	5	2	5	3	5	4	4	4	5	5	5	5	5	4	5	2	3	4	4	5	5	5	5	5	3	5	5	5	5	4	5	2	5	5	4	1	2	5	4	2	5	3	2	3	3	4	4	3	3	5	1
-24	18	35.0	pk7	True	9	caledoguide@gmail.com 	True	4	3	4	5	4	4	3	3	4	3	4	3	4	3	3	4	1	3	3	3	3	2	2	3	3	1	3	1	3	3	1	4	4	3	3	4	3	3	3	4	3	4	2	4	4	3	3	4	4	2	2	2	4	1	3	4	4
-25	19	36.0	pk7	True	8 ans	franck.dominici@gmail.com	True	5	5	5	5	5	5	5	5	5	5	5	4	5	4	4	5	4	5	5	5	4	5	5	5	5	3	3	3	3	3	3	5	3	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	5	4	4	4	5
-26	20	26.0		False		amd.brt@gmail.com	True	3	3	3	5	5	3	3	3	5	4	4	5	5	5	5	5	5	5	5	5	5	3	5	3	3	3	3	3	3	3	3	4	3	4	5	5	3	3	4	5	3	3	3	5	5	3	3	5	5	3	3	4	3	3	3	3	5
-27	21	31.0		False		sarltemad@gmail.com	False	4	4	4	4	2	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	4	4	4	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4
-28	22			False			False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	5	3	3	3	5	3	3	3	1	1	1	1	1	1	1	1	1
-29	23	30.0	vallée des colons	True	4 ans		False	4	1	4	2	4	3	3	1	5	1	5	4	3	2	4	2	4	4	4	4	4	3	3	4	5	2	2	4	3	3	1	5	5	5	5	4	4	4	4	3	2	3	3	5	5	5	4	1	3	1	3	1	4	2	2	1	3
-30	24	28.0	faubourg blanchot	True		Caroline.frickbaconnais@gmail.com 	False	2	2	3	3	3	3	3	3	4	2	5	4	4	5	5	4	3	3	1	3	4	2	5	4	2	3	3	1	2	1	1	5	3	3	5	4	3	3	2	3	3	3	1	5	5	3	1	2	2	3	3	3	3	3	3	3	3
-31	25	31.0	ouémo	True	3 ans	Chloelibaude69@gmail.com	False	4	3	2	4	2	4	5	5	2	3	5	1	4	1	1	3	3	3	3	3	3	3	4	4	4	2	3	3	4	4	3	4	3	4	3	1	1	3	3	1	3	3	3	3	3	3	1	3	1	4	4	4	4	4	2	2	1
-32	26	-59.0	ouémo	True	6 ans	niaouli@mls.nc	True	4	2	4	4	2	4	4	4	4	4	4	2	4	4	4	4	4	4	3	4	4	3	4	4	2	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	3	4	4	4	3	3	3	3	4	3	4	4	4	3	4
-33	27	27.0	vallée des colons	True	4	charlotte.daros@gmail.com	True	3	3	3	3	3	3	5	4	5	3	5	4	5	5	5	5	2	4	4	3	5	4	5	5	5	2	4	4	4	1	2	4	5	5	5	5	4	4	5	5	5	5	5	4	5	5	4	3	4	3	4	4	4	3	4	3	5
-34	28	26.0	pk4	True	1 an		False	3	3	1	1	1	3	5	5	2	3	5	5	1	5	2	2	5	5	5	2	2	5	5	1	5	5	5	5	3	5	5	5	5	5	5	5	5	5	5	5	1	1	5	5	5	5	5	1	1	1	5	5	5	5	3	5	5
-35	29	29.0		False		warrenmazoyer@hotmail.com	True	4	3	4	3	3	3	5	4	3	3	4	4	4	4	4	3	4	4	4	4	4	3	5	4	4	3	3	3	3	3	3	4	3	3	5	5	5	4	3	5	5	3	5	3	5	4	5	5	4	4	3	4	3	3	3	4	4
-36	30	44.0		False		abisson@nautile.nc	False	3	3	3	3	3	3	3	3	3	3	3	5	5	3	4	4	3	3	4	5	5	5	5	2	4	3	4	3	3	3	3	3	5	5	4	3	5	5	5	5	3	3	4	3	4	3	4	5	3	3	3	3	3	3	3	4	3
-37	31	52.0	magenta	True	50	jls@spo.nc	False	5	3	5	3	5	3	5	3	5	3	5	3	3	3	3	3	3	3	5	5	5	5	5	4	5	3	5	3	3	3	3	5	5	5	5	3	5	3	5	5	3	5	5	5	5	5	5	5	3	3	3	5	5	3	5	5	5
-38	32	32.0	vallée des colons	True	5 ans	lemesle.deb@gmail.com	True	5	3	3	5	4	4	4	4	4	3	5	3	4	4	5	4	3	5	5	5	4	3	5	4	4	5	4	4	3	4	4	5	3	3	5	5	5	5	5	5	5	5	4	5	5	5	5	4	5	5	4	4	4	3	3	3	4
-39	33	36.0	magenta	True		antoine.bantzhaff@gmail.com	True	5	2	3	1	2	2	3	2	4	1	4	4	4	2	1	3	3	3	3	5	3	3	4	3	2	3	3	3	3	3	3	4	4	3	4	5	2	5	3	4	4	3	2	4	3	4	1	1	4	1	3	1	3	1	4	2	5
-40	34	32.0		True	3		False	3	5	4	4	5	4	5	4	5	1	5	5	4	5	4	4	5	4	4	5	5	4	5	4	5	4	4	5	5	5	2	4	4	5	5	5	3	4	4	2	5	4	3	4	4	4	1	4	4	2	4	4	3	3	4	5	5
-41	35	24.0	anse vata	True	20 ans	itachialex@yahoo.fr	True	3	1	3	4	5	4	3	4	4	3	5	3	4	3	4	3	4	4	4	4	3	3	4	3	4	5	5	5	3	3	3	5	5	4	4	5	5	5	5	5	4	3	4	4	5	4	4	5	4	4	4	5	4	4	4	4	5
-42	36	37.0	magenta	True	1	guillaumecavelier@hotmail.fr	True	1	1	1	2	1	3	4	4	1	1	1	5	4	5	2	1	1	3	1	4	2	5	3	5	5	1	2	3	3	3	4	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	3	3	5	3	5	3	3	5	5
-43	37	43.0	vallée du genie	True	7 ans	domiapi@lagoon.nc	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	5	2	5	5	5	3	5	5	3	5	5	5	5	5	5	2	5	4	5	5	5	5	4	4	5	5
-44	38	47.0	quartier latin	True	1 ans	Fred.greg@live.com	False	2	4	4	2	4	4	4	4	5	4	5	5	5	5	1	3	5	2	4	4	4	1	5	2	5	5	5	5	5	5	3	5	5	5	5	2	4	5	3	4	2	5	2	4	4	5	5	4	5	4	2	5	5	2	2	5	5
-45	39	26.0	magenta	True	26	agence@immosud.nc	True	4	3	3	4	2	3	3	4	3	5	3	3	3	4	2	4	4	4	4	2	4	4	5	4	5	3	4	3	3	3	3	3	3	3	4	5	5	5	5	5	5	5	4	5	4	5	4	4	3	3	5	1	3	3	3	4	4
-46	40	30.0		False		kilcat@hotmail.com	True	3	3	4	3	4	4	4	4	4	2	4	4	4	3	3	3	3	4	4	4	4	3	4	3	3	3	2	3	3	4	3	4	4	3	4	4	3	4	3	3	4	3	3	3	4	4	4	3	3	3	3	3	3	3	3	3	4
-47	41	38.0	vallée des colons	True	5 ans		False	3	3	4	3	3	3	4	3	3	3	5	4	4	5	5	5	3	3	3	5	5	5	5	5	5	3	3	3	3	3	3	5	3	3	5	5	5	5	5	5	4	5	5	5	5	5	5	1	4	3	3	3	3	3	3	1	5
-48	42	36.0		False		Lacanitie@gmail.com	False	3	3	3	3	3	3	3	3	3	3	3	3	4	3	4	3	3	3	4	5	3	5	5	3	3	3	5	3	3	3	3	5	5	5	5	5	3	4	5	3	5	3	5	5	3	5	3	3	4	4	5	3	4	3	3	3	3
-49	43	39.0		False		nea_alessandro@hotmail.com	False	4	5	4	2	5	3	4	5	4	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	4	3	3	4	5	5	5	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	5	3	4	3	4
-50	44	31.0	vallée des colons	True	1 an	Sebastien@quidnovi.nc	True	4	5	4	3	5	4	3	4	4	3	5	4	4	3	5	5	5	4	4	4	5	4	5	4	4	5	5	5	5	5	5	5	5	4	5	5	5	3	5	5	5	5	4	5	5	5	5	5	5	4	5	4	5	4	4	5	4
-51	45	36.0	pk6	True	7 ans	aauriche@hotmail.com	True	4	2	4	2	4	4	4	4	4	2	4	2	4	4	3	4	4	4	4	4	4	4	4	3	3	4	4	2	2	2	4	4	4	4	4	4	4	4	4	3	4	4	2	4	4	4	2	3	4	2	4	2	4	2	4	4	4
-52	46	32.0		False			True	4	3	3	3	3	4	3	3	4	3	5	3	5	4	4	3	4	5	4	5	4	4	5	4	4	3	3	1	3	2	3	4	4	4	4	5	4	4	5	5	5	5	4	4	5	5	3	5	4	3	4	4	3	3	3	4	3
-53	47	30.0		False		audejouvenelle@hotmail.com	True	4	3	4	5	3	4	4	4	5	4	5	3	4	3	3	4	5	4	4	4	5	5	5	4	4	3	4	4	3	3	4	4	4	4	4	5	4	4	4	2	5	5	5	4	2	4	3	4	4	4	5	5	4	3	4	4	5
-54	48	34.0		False		Yaelle.hugues@gmail.com	False	5	3	4	3	4	4	4	4	4	4	5	4	5	5	4	3	5	4	4	5	5	3	5	4	5	3	3	3	3	3	3	3	3	5	3	5	4	4	5	5	5	5	4	5	5	5	5	4	3	3	3	3	3	3	3	3	3
-55	49	48.0	centre-ville	True	5 ans	Fpratelli@lagoon.nc 	True	4	4	4	4	2	3	3	3	5	3	5	5	5	5	2	4	4	4	5	5	5	2	5	5	5	3	4	3	5	5	3	5	4	5	4	5	5	4	4	4	4	4	1	4	4	4	4	4	4	4	2	5	5	4	4	4	4
-56	50	52.0	vallée des colons	True	6 ans	gillesgormond@yahoo.fr	True	3	3	3	3	3	3	3	3	3	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	3	3	3	3	3	3	3	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	3	3	3	3	3	3
-57	51	54.0	anse-vata	True	4 ans	linleq@lagoon.nc	True	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	1	5	1	5	5	1	5	5	5	1	1	4	3	1	5	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	5	5	5	1	5	1	1	1	2	4	5
-58	52	25.0	mont-coffyn	True	7 ans	tommydupuy@hotmail.com	True	4	3	4	4	3	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	3	5	5	5
-59	53	34.0		False		cperennes@hotmail.fr	True	2	2	3	3	1	2	3	4	1	3	4	4	4	3	1	3	4	4	4	5	4	1	2	1	3	1	4	3	4	4	2	4	3	3	3	4	4	1	4	1	3	2	1	3	4	4	4	4	1	3	4	4	3	4	3	4	4
-61	54	40.0		False		jasknky@gmail.com	True	3	2	1	3	1	3	4	2	3	1	4	3	2	3	2	3	1	2	2	3	2	1	3	3	5	3	3	3	3	2	3	5	4	4	3	4	4	4	4	1	4	3	1	4	2	3	4	3	3	2	3	3	1	4	3	4	2
-62	55	37.0	ouémo	True		ghost0408@gmail.com	True	3	1	4	1	1	2	4	1	4	4	5	5	5	5	4	4	2	1	1	4	4	4	5	5	5	3	4	2	2	1	1	5	5	5	5	5	5	5	5	5	2	4	4	5	5	5	5	4	2	2	1	2	4	1	2	1	1
-63	56	50.0	rivière salée	True	11		False	4	3	5	5	3	4	3	4	5	4	4	4	5	3	3	3	4	4	5	5	5	4	5	5	4	5	4	4	4	4	2	3	4	5	5	3	5	4	5	5	5	4	4	4	5	5	3	4	4	5	4	5	4	4	3	5	4
-64	57	34.0	orphelinat	True	3 ans	bibiana.jurado@gmail.com	True	4	3	4	4	3	4	4	2	5	2	5	5	5	5	4	4	4	4	4	4	5	3	5	5	5	3	5	3	3	3	3	5	5	5	5	5	3	5	4	5	5	5	4	5	5	5	3	3	5	1	5	1	2	2	5	3	4
-65	58	63.0	vallée du génie	True	30 ans	lagalla.b@mls.nc	True	4	5	5	3	4	3	3	3	4	3	4	3	4	2	1	3	5	4	3	4	4	4	5	5	3	3	3	5	4	4	3	5	5	5	5	5	3	4	4	4	4	5	5	5	5	4	3	4	4	3	3	3	3	3	3	4	4
-66	59	32.0	pont des francais	True	1 ans		False	3	3	4	2	3	3	2	3	4	3	5	2	4	2	3	4	3	3	3	4	4	5	4	4	4	3	3	3	3	3	3	3	3	3	3	5	2	5	4	3	4	3	4	5	4	4	3	4	3	3	3	4	4	3	3	4	4
-67	60	65.0	centre-ville	True	17 ans 	a.verheylewegen@nautile.nc	True	4	3	4	3	3	3	3	3	3	3	3	2	2	1	1	1	3	3	1	3	3	1	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
-68	61	49.0	porte d'argent	True	25	ronan.lecalvez@gmail.com	True	2	4	4	5	5	3	5	5	5	4	2	2	4	2	1	1	4	5	5	3	4	3	5	4	3	2	3	5	3	3	3	2	4	4	5	5	3	5	5	2	1	4	3	5	5	5	1	5	4	3	3	4	3	3	3	5	5
-69	62	50.0	pk7	True	46 ans		False	4	5	3	5	3	3	4	4	3	3	5	2	3	2	3	3	4	5	4	3	5	2	5	4	2	2	3	4	3	4	3	3	4	4	4	3	5	3	4	3	4	3	3	4	3	3	2	2	3	3	3	2	4	2	3	2	3
-70	63	40.0	trianon	True	10	marevarg@hotmail.fr	True	1	2	4	4	2	3	4	4	4	2	5	4	4	4	4	4	1	1	1	5	4	1	4	1	3	5	1	1	1	1	1	1	5	5	5	5	5	5	5	4	3	3	1	4	4	5	2	5	3	1	3	1	1	1	1	2	4
-71	64	47.0	n'géa	True	6ans	florenthuard7@gmail.com	False	4	5	4	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
-72	65	42.0	anse vata	True	2 ans		False	3	2	3	4	3	4	5	4	4	5	3	3	4	3	2	3	4	5	5	4	3	3	3	4	4	5	3	3	4	4	3	4	4	3	5	4	1	3	5	5	4	4	4	5	5	2	2	4	5	4	5	4	4	3	3	4	3
-73	66	28.0	magenta	True	23	j-valter@hotmail.fr	True	4	5	4	4	4	3	5	5	4	3	5	5	4	5	5	4	3	4	4	4	5	3	5	5	3	3	3	3	2	3	2	3	3	4	5	5	4	5	5	5	5	5	3	5	5	5	3	4	3	3	5	3	3	3	3	3	4
-74	67	33.0	pk6	True	33	juanita.railati@ville-noumea.nc	True	3	5	3	3	4	4	4	3	3	3	4	3	5	4	3	3	3	4	4	5	4	4	3	3	3	5	4	3	3	3	5	5	4	5	5	4	3	3	4	4	5	5	5	5	3	5	3	5	5	4	5	3	5	3	4	5	5
-75	68		ducos	True	21 ans		False	5	3	3	1	5	3	3	2	5	1	5	4	3	3	1	1	1	5	2	5	5	2	3	3	3	3	1	1	5	1	5	4	4	5	5	5	4	5	5	4	5	4	3	4	4	5	3	3	3	1	2	4	3	1	5	2	3
-76	69	42.0	rivière-salée	True	42	brendy@lagoon.nc	True	4	4	3	3	4	3	3	1	4	4	3	4	4	2	2	4	5	4	4	5	5	4	4	4	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
-77	70	47.0	tina	True	15 ans		False	4	4	5	4	3	3	3	4	4	3	4	4	4	4	4	4	4	4	4	3	4	4	4	4	4	3	3	3	3	3	3	3	2	4	4	5	4	4	4	4	4	4	4	4	4	4	3	4	3	3	3	3	3	3	3	4	4
-78	71	60.0	val plaisance	True	33 ans	hbouziges@gmail.com	True	3	3	3	3	3	3	3	3	3	3	5	5	5	5	4	4	3	4	3	5	4	4	5	3	5	3	3	3	3	3	5	5	5	3	5	4	4	4	4	4	5	3	3	4	4	3	3	5	4	3	3	3	3	3	3	5	5
-79	72	50.0	faubourg blanchot	True	5 ans	nmontmarc@gmail.com	True	5	3	3	2	1	4	5	5	4	1	5	2	5	4	2	4	4	3	3	4	4	4	4	5	5	3	3	3	3	3	3	3	4	4	5	5	2	3	5	3	2	5	5	4	4	2	2	3	5	3	4	2	2	2	3	3	2
-80	73	37.0	n'géa	True	3	charpentierjul@gmail.com	False	3	1	4	3	3	4	4	3	4	3	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
-81	74	69.0	vallée des colons	True	40	Jacqueline.legarion@yahoo.fr	True	4	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	2	3	4	2	4	4	2	3	4	3	3	3	3	3	3	3	4	4	4	4	4	4	4	4	3	4	4	3	2	3	3	3	3	3	3	3	3	3	3
-82	75	47.0		True			False	4	4	4	5	5	4	4	4	4	4	4	4	4	4	5	5	4	4	4	5	5	5	5	5	5	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
-83	76	45.0	tuband	True	10 ans	fcleborgne@canl.nc	True	3	3	3	5	3	3	3	4	3	3	5	4	4	3	4	3	5	3	4	5	3	5	4	3	3	3	3	3	3	4	3	5	5	5	5	5	3	5	3	3	2	3	5	5	4	5	3	4	3	3	3	3	2	3	3	3	3
-85	77	27.0		False			False	4	3	4	4	2	3	4	2	4	2	4	4	4	4	4	4	2	2	2	4	4	2	4	4	4	3	4	2	3	2	3	2	2	2	4	4	5	4	3	3	3	3	3	3	3	4	4	4	2	4	2	2	3	3	3	3	3
-86	78	46.0	portes de fer	True		grandinisabelle@yahoo.fr	True	3	4	2	1	2	4	5	4	4	1	5	4	4	4	5	4	3	4	3	5	4	4	4	5	4	3	3	4	3	4	2	5	5	5	4	3	5	4	5	4	4	5	5	3	3	2	1	3	3	2	5	3	3	3	3	4	4
-87	79	21.0	portes de fer	True	3 ans 	ymelysabeth@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	4	5	5	5	5	1	3	4	4	2	1	4	4	2	5	5	5	5	5	3	4	4	4	4	4	3	1	3	4	3	3	4	4	4	3	1	3	2	3	4	4
-88	80	48.0	tina	True	12 ans	xavier.sevin@gmail.com	False	3	1	2	5	2	3	2	5	3	3	3	2	2	2	3	3	4	3	2	2	3	3	4	3	5	5	1	3	1	1	3	5	5	5	5	5	5	3	3	4	1	2	1	5	5	5	1	2	5	2	3	1	1	3	1	3	1
-89	81	36.0	receiving	True	4	superdadet@hotmail.fr	True	3	4	3	5	5	5	4	5	5	4	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	4	3	5	5	5	5	5	3	5	5	5	4	5	3	3	1	4	3	3	4	3
-90	82	20.0	magenta	True	15ans 	lea.giovannelli687@gmail.com	True	5	5	5	3	4	3	5	3	4	1	1	5	2	1	5	5	3	5	5	5	5	2	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	2	5	5	5	5	5	5	5	3	5	1	5	5	5	3	3	3	5
-91	83	31.0		False			False	3	3	2	4	4	3	4	4	4	3	4	2	3	4	2	3	3	3	3	3	3	3	4	3	4	2	4	5	4	3	3	3	4	3	4	4	2	3	4	3	4	4	4	5	3	3	2	3	4	3	3	3	3	3	4	3	3
-92	84	50.0	bais des pecheurs	True	3 ans	steftrompas@gmail.com	True	5	5	3	1	2	1	3	1	4	1	5	5	5	2	2	4	5	5	1	4	5	1	5	1	5	3	3	3	3	3	5	5	5	5	5	3	5	4	5	4	1	5	1	3	5	3	1	5	1	1	3	1	3	1	5	3	5
-93	85	35.0	portes de fer	True	3 ans		False	3	2	4	3	5	4	3	3	5	3	5	3	4	4	4	3	3	5	3	1	5	1	5	4	5	3	3	3	3	3	2	5	5	5	5	5	2	3	3	3	3	3	1	4	4	5	2	1	5	3	3	3	4	3	3	1	2
-96	86	40.0	anse vata	True	25	Beerfamily687@gmail.com	True	5	2	5	1	5	5	5	5	5	1	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	5	5	5	5	5	5	2	5	5	5	5	5	4	3	2	5	2	5	5	1	5	5	5	4	5	4	5
-97	87	54.0	quartier latin	True		fgh41162@gmail.com 	True	4	4	4	4	4	4	4	4	4	3	4	4	4	4	4	4	5	5	5	5	5	3	4	4	4	4	4	3	5	3	4	4	4	5	5	4	4	4	5	5	4	4	4	4	4	4	4	4	4	5	4	4	4	5	5	4	4
-98	88	60.0	baie des citrons	True	6 ans	pommeliane@lagoon.nc	True	4	5	5	4	4	3	5	4	4	2	4	3	5	5	5	5	4	4	4	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	4	4	4	3	3	5	4	5	3	5	4	5	3	3	3	2	3	4	4	4
-99	89	43.0	hlm	True	43		False	3	4	4	3	3	3	4	1	3	1	5	2	4	4	3	3	3	4	3	4	3	3	3	4	4	1	1	1	3	3	3	5	3	3	3	4	3	3	4	1	3	4	2	3	1	4	1	1	1	1	3	1	1	3	3	1	1
-100	90	35.0	pk4	True	3		False	4	3	4	3	3	5	5	3	5	3	5	4	3	4	5	5	3	3	3	5	4	3	5	3	5	3	3	3	3	3	3	4	4	3	5	5	4	5	4	4	3	4	3	5	3	5	3	3	3	3	3	3	3	3	4	3	3
-101	91	43.0	val plaisance	True	8 ans 	Soniamartucci@yahoo.fr	False	4	5	4	4	1	4	5	5	4	3	5	3	4	4	4	3	4	4	1	5	5	1	5	4	4	3	3	3	3	1	5	4	5	4	5	3	3	4	5	2	4	4	2	4	2	2	1	5	3	3	3	3	3	4	5	5	5
-102	92	38.0		False		mathieusteeve@hotmail.fr	True	3	2	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	2	3	3	3	3	3	2	3	1	1	1	3	3	1	2	3	3	1	1	1	1	3	3	3	3	3	3	3	3	3	1
-103	93		vallée des colons	True	60 ans	magma@lagoon.nc	True	3	4	4	3	3	3	3	3	4	3	4	5	4	5	3	3	5	4	4	5	4	5	5	3	4	4	3	4	4	4	4	5	5	5	5	5	4	4	4	3	4	3	4	5	4	4	3	4	3	4	3	4	3	3	3	4	5
-104	94	31.0	rivière-salée	True	31	gdavid@fsh.nc	True	3	5	3	3	3	3	3	4	1	3	3	3	4	3	1	3	5	3	3	3	1	2	5	2	4	3	4	4	3	4	3	4	2	1	4	5	1	4	4	1	2	3	1	4	1	3	1	4	4	3	3	2	5	3	3	4	5
-105	95	22.0	ducos	True	+ de 15 ans	theresesavea@hotmail.fr	True	5	3	3	3	3	3	4	4	3	3	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
-106	96	42.0	magenta	True	3 ans		False	3	3	3	3	3	3	3	3	3	2	3	2	3	2	3	3	3	2	3	2	3	3	3	3	3	3	5	3	3	4	3	5	3	3	3	4	3	4	4	5	4	4	4	4	4	3	3	3	5	5	5	5	5	3	3	3	3
-107	97	48.0	trianon	True	10 ans	andre.ns@mls.nc	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3
-108	98	47.0	pk6	True	15ans	othman.joumady@ville-noumea.nc	True	4	3	4	5	4	4	5	3	5	3	5	5	4	5	5	5	3	4	3	5	5	5	5	3	4	5	3	3	3	3	5	5	3	5	5	5	5	5	4	5	4	4	5	5	3	5	4	3	5	4	5	3	3	4	5	3	4
-109	99	30.0	pk7	True	17	briault_lyvia@hotmail.fr	True	3	3	3	3	3	3	2	3	3	2	4	4	3	4	3	3	3	2	3	3	3	2	4	3	4	3	3	3	3	3	3	3	3	3	3	4	3	4	3	4	2	3	2	4	4	3	3	3	3	3	2	3	3	2	3	3	3
-110	100	46.0	magenta	True	j'y suis née	sercadjekic@lagoon.nc	True	4	3	4	3	4	3	4	4	3	2	5	4	4	1	1	4	5	4	1	4	5	1	5	5	5	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	3	4	1	5	5	5	1	5	5	2	5	5	5	1	4	5	5
-111	101	34.0		False		tania.vijeh@gmail.com	False	2	2	2	3	2	2	2	3	2	2	2	2	2	2	2	2	2	2	3	2	2	2	3	2	2	3	3	2	2	2	3	3	3	3	3	3	2	2	2	2	3	3	3	3	2	2	3	3	2	2	2	2	3	2	3	3	3
-112	102	33.0		False		sebastien.delor@smtu.nc	False	5	3	5	4	2	2	5	5	4	2	5	5	5	5	5	5	4	4	4	3	5	5	5	4	5	1	5	2	3	2	2	5	5	5	5	5	4	4	4	5	5	5	5	5	5	5	5	5	1	1	5	1	5	1	4	4	5
-113	103	38.0		False		sophie.chenel@laposte.net	True	1	3	1	2	2	1	1	1	3	2	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	3	2	1	2	1	1	2	2	1	2	1	2	1	1	1	2	1	1	1	1	1	1	1	1	1	2
-114	104	32.0	trianon	True	6 and	patrick.maillet@gouv.nc	False	3	5	5	4	4	4	4	5	3	5	5	2	5	4	4	4	2	4	4	4	4	2	5	3	4	4	4	1	2	2	4	3	5	5	5	4	3	4	5	5	5	4	5	5	4	4	2	4	4	5	4	5	3	4	4	5	5
-115	105	26.0	anse vata	True	7 mois		False	3	5	4	5	4	3	4	4	4	1	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	3	3	3	3	3	4	3	4	3	5	5	4	4	4	3	4	4	4	5	4	4	4	3	4	2	4	3	4	2	3	1	2
-116	106	25.0	quartier latin	True	1 an	zthivet@gmail.com	True	4	2	4	5	2	4	5	4	4	2	5	5	4	4	5	3	3	4	1	3	5	3	5	5	5	3	5	3	3	3	3	5	5	5	5	5	5	5	4	5	4	5	4	5	5	5	5	3	4	3	4	3	3	3	5	3	4
-117	107	36.0		False		romain.delisle@gmail.com	True	5	1	2	3	5	5	5	5	5	1	4	3	5	5	3	3	3	3	3	5	5	5	5	5	1	5	3	3	3	3	5	5	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	5
-118	108	44.0	baie des citrons	True	10 ans		False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	3	3	3	5	5	3	3	3	3	5	5	3	3	3	3	3	3	3	3	3	3	3
-119	109	46.0	vallée des colons	True	1 an		False	4	4	4	5	3	3	5	3	5	3	5	5	5	5	4	3	5	4	4	5	5	5	4	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5
-120	110	48.0		False		karin.mongeard@sic.nc	True	4	4	3	3	4	3	3	3	4	4	4	3	4	3	3	4	3	4	4	3	4	4	4	4	3	4	3	3	3	3	3	3	3	3	4	4	4	3	3	3	3	3	4	4	4	3	3	4	4	3	3	4	3	3	2	3	3
-121	111	59.0	anse vata	True	1 an	jammet.d@lagoon.nc	True	3	1	2	2	2	3	1	4	4	3	1	2	1	1	1	1	1	2	1	1	1	1	1	1	1	1	5	3	3	3	3	5	5	5	4	5	3	3	3	4	2	2	3	3	3	3	3	3	4	4	4	4	5	3	3	3	5
-122	112	25.0	magenta	True	25	jean-jacques.kabar@outlook.fr	True	4	5	2	4	4	2	4	4	4	1	5	4	4	4	4	2	4	5	2	4	4	2	5	4	5	5	2	2	2	2	2	4	5	5	5	5	4	4	4	4	4	4	2	4	5	5	2	4	4	2	4	2	2	2	2	4	4
-123	113	46.0	quartier latin	True		dionisos@nautile.nc	True	4	3	3	4	1	1	5	5	5	2	5	1	4	3	5	1	1	4	4	4	4	5	5	4	5	5	1	5	5	5	4	5	5	5	5	5	1	5	5	5	5	5	5	5	5	5	5	5	3	1	5	1	1	1	5	5	5
-124	114	45.0	haut-magenta	True	8 ans	alexandre.cugnot@ismac-nc.net	True	4	1	1	5	2	1	4	5	4	5	4	2	3	3	4	4	5	3	1	1	4	1	3	5	3	3	5	5	1	3	3	5	4	4	5	5	3	5	2	3	5	5	2	4	3	3	1	5	5	2	2	1	1	4	5	4	5
-125	115	49.0	haut magenta	True	8 ans 	valerieorsi@gmail.com 	True	3	3	3	4	4	3	4	4	4	2	5	3	4	2	2	2	5	4	2	4	4	1	4	3	1	3	4	3	3	5	3	3	3	3	5	3	3	3	4	5	3	3	3	4	4	3	3	3	3	3	4	4	1	3	3	3	3
-126	116	41.0	ouémo	True	12 ans	capri.serail@canl.nc	True	3	3	5	3	3	5	5	1	3	1	3	3	5	1	1	3	3	3	1	5	5	5	5	3	3	5	5	3	3	3	5	3	3	5	5	5	5	5	3	5	1	1	3	3	5	3	3	5	5	1	5	3	3	1	5	3	3
-127	117	54.0	n'géa	True	13	debiasiot@msn.com	True	3	1	5	1	4	3	3	4	5	1	4	3	4	4	3	4	5	1	1	1	4	1	5	4	4	5	5	5	5	5	3	5	5	3	5	5	5	5	5	5	2	4	1	5	5	5	3	5	5	1	2	1	1	1	3	3	5
-128	118	48.0	vallée des colons	True	11 ans	remi.lami@gmail.com	True	3	3	3	3	3	2	2	3	5	3	5	2	4	4	2	4	4	3	2	4	4	2	4	4	4	5	4	3	3	3	3	4	4	4	4	5	4	4	5	5	5	3	4	4	5	5	2	4	3	3	3	3	3	5	3	3	3
-129	119	51.0		False		henri.nc@hotmail.com	True	3	2	3	1	5	3	2	2	5	2	5	3	5	3	3	3	1	5	5	5	5	2	3	3	4	5	5	5	3	3	5	5	5	5	5	3	5	5	5	3	3	3	2	5	5	5	5	5	5	2	2	4	3	1	2	5	2
-130	120	41.0	rivière salée	True	41	barretteau.s@gmail.com	True	3	3	3	3	4	3	3	3	4	3	4	4	4	3	4	4	3	4	5	4	4	4	4	3	5	4	4	3	3	3	3	5	5	5	5	5	4	4	5	4	3	3	4	5	4	4	4	4	3	3	3	3	3	3	3	4	3
-131	121	44.0	centre-ville	True	1	Marien.jacob72@gmail.com	True	4	5	5	4	5	4	5	5	5	3	5	5	4	5	5	4	5	5	4	5	5	4	5	4	5	4	5	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5
-132	122	37.0	magenta	True	4ans		False	4	4	3	1	1	4	1	4	4	1	5	3	4	4	4	3	5	3	2	3	3	3	4	4	5	2	4	5	3	4	2	5	4	5	4	5	3	4	3	3	3	4	4	4	4	4	3	3	4	3	3	4	3	3	4	5	4
-133	123	60.0	portes de fer	True	16 ans	Marsximus@yahoo.fr 	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	3	3	1	5	5	5	5	3	3	3	3	3	3	3	3	3	3	5	3	3	4	2	5	3	3	3	5	5	5
-134	124	37.0	trianon	True	7	prisca.svt@hotmail.fr	True	3	3	3	3	3	3	3	3	3	3	3	4	4	3	3	4	3	3	4	4	3	3	5	5	3	4	3	3	3	3	3	5	3	3	5	3	5	5	3	3	4	5	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3
-135	125	40.0	quartier latin	True	5ans	Baroudeur1@gmail.com	False	4	3	4	2	2	4	2	4	3	2	5	5	4	5	4	4	4	4	5	2	4	4	5	4	2	3	5	4	2	2	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	3	5	3	5	2	4	2	4
-136	126	42.0	ouémo	True	1 an	devos.erwan@gmail.com	True	4	3	4	4	3	3	4	3	4	4	4	3	3	3	3	3	3	3	3	3	3	3	4	4	4	5	5	4	3	4	4	5	5	5	5	4	4	4	3	4	4	4	4	5	5	4	4	3	3	4	4	4	4	3	3	4	4
-137	127	41.0	tina	True	13	hatem@skazy.nc	True	4	3	2	4	2	3	4	4	3	4	3	3	4	4	4	4	4	4	3	4	4	2	4	5	5	4	4	4	4	4	4	5	5	4	4	4	2	4	2	4	4	2	2	4	4	4	5	5	4	4	5	3	4	3	3	4	4
-138	128	50.0		False		jcpon@hotmail.fr 	True	3	3	4	3	3	4	3	4	4	1	4	3	3	3	3	3	3	3	3	4	4	3	5	3	4	4	3	4	5	3	3	5	4	5	5	3	3	3	4	5	3	3	3	5	5	4	4	4	5	2	3	4	3	2	4	4	5
-139	129	37.0		True			False	4	2	3	2	3	3	2	2	4	3	4	3	2	2	3	3	3	2	3	2	3	4	4	4	2	3	3	3	3	3	3	4	4	3	3	2	4	3	2	2	3	3	4	3	3	4	3	2	3	2	2	3	3	3	2	2	2
-140	130	40.0	vallée du tir	True	8	crabault@hotmail.fr	True	3	3	4	3	3	3	3	3	4	3	4	2	1	1	1	2	4	4	2	5	1	4	5	5	1	1	1	4	4	4	5	5	5	5	5	1	2	5	5	1	4	4	4	2	1	4	4	4	4	1	1	4	2	4	4	5	2
-141	131	43.0	pk6	True	34 	darked2@yahoo.fr	True	4	3	4	4	4	4	4	4	4	4	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	4	3	3	3	3	3	4	3	3	3	3	4	3	3	3	3	3	4	3	3	3	3	4	3	3	3	3	3	3
-142	132	47.0		False		steven.meriadec@ville-noumea.nc	True	4	5	5	4	3	5	5	3	5	4	4	4	4	2	4	3	4	3	3	5	4	4	3	4	5	5	1	4	4	4	4	4	5	5	5	5	3	4	4	5	5	5	5	5	5	5	3	5	4	4	4	1	4	4	4	4	5
-143	133	37.0	vallée des colons	True	6	aurelie_richard@yahoo.fr	True	5	3	4	4	4	3	3	3	2	3	5	5	4	4	3	3	3	5	2	5	4	4	5	4	5	4	5	5	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
-144	134	30.0		False		marine_des_plp@hotmail.com	True	3	3	3	3	5	3	3	5	5	3	5	3	5	5	2	4	4	5	5	4	5	1	5	1	5	5	5	5	5	5	3	5	5	5	5	5	3	5	5	5	4	5	1	5	5	5	5	4	4	3	2	5	5	3	3	3	3
-145	135	37.0	pk7	True	7 ans		False	4	4	4	4	4	1	1	4	4	1	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	3	3	3	5	3	5	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	5	3	5	2	5	5	2
-146	136	35.0	motor pool	True	10	doudymix@hotmail.fr	True	3	3	3	3	4	3	4	4	4	4	5	5	5	5	5	4	4	4	4	5	4	3	5	5	5	3	4	3	3	3	3	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
-147	137	24.0	centre-ville	True	3 ans	wadjahdi.jacques@gmail.com	True	4	4	4	1	4	3	2	2	5	1	5	5	5	5	3	5	1	5	5	3	2	5	5	4	5	4	4	1	1	1	2	5	5	5	5	5	1	5	5	5	5	4	4	5	5	3	4	3	3	3	1	3	1	4	3	4	4
-148	138	22.0		False			False	3	2	3	3	5	3	4	2	2	2	3	3	4	4	2	3	3	4	4	4	4	3	4	5	4	3	4	3	3	3	3	3	3	3	4	5	4	4	4	4	5	4	5	5	4	3	3	4	4	2	4	4	4	2	4	5	3
-149	139	24.0		False			False	3	1	3	3	3	1	4	2	2	1	5	4	1	5	5	5	1	1	1	4	5	5	5	5	4	1	2	1	1	1	1	5	5	5	5	5	3	3	3	3	3	3	3	4	5	2	2	1	1	1	1	1	3	1	3	1	1
-150	140	32.0	logicoop	True	5 ans	marie_tauze@hotmail.fr	True	4	2	3	3	1	3	4	3	4	3	5	5	5	5	5	3	3	1	1	4	4	4	5	5	5	3	5	3	3	3	3	5	5	5	5	5	3	5	5	5	5	5	5	5	5	5	3	3	4	1	3	1	3	1	3	3	4
-151	141	25.0		False		manon.bordaberry@orange.fr	False	5	4	5	4	4	4	5	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
-152	142	26.0	val plaisance	True	1 an	So-saw@hotmail.fr	False	3	3	3	3	3	3	3	3	3	3	3	2	4	3	4	3	3	3	3	4	3	3	5	3	4	2	4	1	3	3	3	3	3	3	5	3	4	3	3	3	4	3	3	5	5	4	2	3	3	3	3	3	3	3	3	3	3
-153	143	42.0	sainte marie	True	10 ans	hugues.georgelin@gouv.nc	True	1	5	1	1	1	1	1	1	1	5	1	3	1	3	1	3	4	3	3	1	1	1	4	1	4	4	4	4	4	4	4	4	4	4	4	4	3	4	4	3	5	3	2	4	4	4	3	4	2	2	2	4	4	3	3	4	3
-154	144	365.0	portes de fer	True	12		False	5	3	4	4	2	4	2	3	4	2	5	4	3	5	4	4	4	3	2	4	4	3	4	1	5	3	5	3	3	3	3	5	5	5	5	3	2	5	5	5	2	2	4	5	5	5	3	3	4	3	2	2	4	2	4	3	2
-155	145	47.0	anse vata	True	13 	rock.feyler@canl.nc	False	4	1	5	4	3	4	5	5	3	3	5	5	5	5	5	5	3	3	3	4	5	4	5	5	5	5	5	5	1	3	3	5	5	5	5	5	2	5	5	5	5	5	5	5	5	5	1	5	5	5	5	3	5	3	5	5	5
-156	146	34.0	motor pool	True		Bertille.jouan-ligne@province-sud.nc	True	3	3	3	4	1	2	3	3	4	4	4	1	4	2	2	2	5	3	4	1	3	3	3	3	4	3	4	1	4	2	3	2	2	2	2	1	4	2	3	1	4	3	3	2	1	4	1	4	2	4	1	4	4	4	2	5	4
-157	147	45.0		False		Fhenrybzh@hotmail.fr	True	4	4	3	3	3	3	3	3	4	3	4	4	3	3	2	3	3	4	4	3	3	2	3	2	3	5	4	4	3	3	3	4	4	4	3	5	4	4	4	3	5	2	2	4	3	4	4	3	4	3	2	3	3	4	3	3	4
-159	148	43.0		False		joben@canl.nc	True	4	3	3	4	3	3	3	3	4	3	5	3	5	3	3	3	3	4	3	5	3	3	5	3	3	5	3	4	3	3	3	5	4	3	5	5	5	5	3	4	3	4	3	5	3	4	5	4	5	4	3	2	5	2	5	5	3
-160	149	58.0	vallée des colons	True	4 ans	Manuel.bachet@gmail.com	True	4	3	3	4	1	3	4	4	4	4	5	5	5	5	5	5	3	4	4	5	5	5	5	4	5	5	5	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	3	3	1	2	2	3	4	4	4
-161	150	38.0		False			False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	1	3	1	1	1	1	3	5	5	1	5	5	1	5	1	5	1	5	1	1	5	5	3	5	1	1	5	1	1	1	5	5
-162	151	47.0	centre-ville	True	17ans	gege8506@laposte.net	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
-163	152	33.0		False		tekurio.rangitea@hotmail.fr	True	5	4	5	2	2	3	2	5	5	5	5	5	3	5	5	3	1	3	1	5	3	3	5	3	3	3	3	2	2	2	2	2	5	5	5	5	5	3	3	2	5	3	1	5	5	5	3	3	1	1	1	1	5	1	2	5	5
-165	153	34.0	n'géa	True	12 ans	virginie.guillo@yahoo.fr	False	4	4	4	4	2	4	2	2	4	4	4	4	4	4	4	4	2	4	4	4	5	4	5	4	4	5	4	2	2	2	4	4	4	4	4	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	2	4	4	4	4	5
-166	154	50.0	vallée des colons	True	22 ans	lo.nc@hotmail.com	True	3	3	4	3	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	4	3	3	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	2	4	3	4	4	5
-167	155	53.0	baie des citrons	True	15		False	5	3	5	5	5	5	5	2	5	5	5	2	4	2	2	3	3	5	4	4	4	4	2	4	4	4	2	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	2	4	4	4	4	4	3	4	4	4	4
-168	156	45.0		False		bovibrato@gmail.com	False	5	1	4	3	5	4	2	2	4	2	5	1	4	2	4	4	4	4	4	4	4	5	4	4	5	5	5	4	4	2	2	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	4	4	4	4	4	4
-169	157	31.0	vallée du tir	True	31		False	4	5	5	3	4	2	2	2	5	2	5	4	4	4	2	4	1	5	3	5	5	2	4	1	3	5	4	3	3	1	4	4	5	5	5	5	4	5	5	3	5	4	2	4	4	4	2	3	3	1	3	2	3	1	4	4	4
-170	158	37.0	centre-ville	True	20	emveyret@hotmail.com	False	5	3	5	1	1	3	5	3	5	1	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	3	5	3	3	3	3	5	5	5	5	5	5	3	5	5	5	5	1	5	5	5	5	5	5	1	5	3	4	1	5	5	5
-171	159	33.0		False			False	4	4	4	4	3	3	3	3	3	2	5	3	4	3	3	4	4	3	3	3	3	3	4	3	5	5	4	4	3	3	3	5	5	5	5	5	5	5	5	4	3	4	4	5	5	5	5	4	4	4	3	4	4	3	4	4	4
-172	160	50.0	sainte marie	True	10 ANS	jmradiguet@gmail.com	True	4	4	4	4	4	4	4	4	4	4	4	3	4	4	4	4	4	4	4	4	4	4	4	3	3	4	4	4	3	4	4	5	4	4	3	4	4	4	5	4	4	4	4	3	4	4	3	4	4	4	4	4	4	4	4	4	4
-173	161	40.0	pk7	True	7 ans	nomshad@canl.nc	True	4	3	4	2	4	3	5	5	4	2	4	3	4	2	2	4	4	4	2	4	4	4	5	4	2	5	4	3	4	4	4	5	5	5	5	3	4	4	4	5	5	5	3	4	3	4	2	3	4	1	4	3	4	3	4	3	5
-174	162	39.0	anse vata	True	10 ans	ydominique@bioeko.nc	True	4	3	4	2	4	4	2	2	4	2	4	4	5	5	5	4	2	4	4	4	4	4	2	3	5	4	5	3	3	3	5	5	5	5	5	5	4	4	2	5	4	4	5	5	5	5	5	5	5	4	5	5	4	3	3	4	4
-175	163	34.0	ouémo	True	10		False	4	3	4	4	3	3	4	4	3	2	5	4	5	4	5	3	3	3	3	3	4	3	5	5	4	3	3	3	3	3	3	3	3	3	3	4	3	3	3	5	5	5	3	4	5	5	3	3	4	4	3	3	3	3	3	3	4
-176	164	61.0	ouémo	True	17 ans	noumea.confidentiel@gmail.com	False	5	3	3	5	4	4	2	3	4	3	3	4	4	3	3	3	1	3	2	3	3	2	4	2	4	1	3	3	3	3	3	2	3	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
-177	165	30.0	artillerie	True	1 an et demi	ninai12@hotmail.com	True	3	4	2	3	2	2	3	3	2	3	2	3	3	1	1	1	3	3	3	1	3	1	3	3	1	3	4	3	3	3	3	3	3	4	3	4	2	3	3	1	1	3	3	3	1	3	1	3	2	2	4	2	4	3	3	2	3
-178	166	37.0	vallée du génie	True	2 ans	vincegris@hotmail.com	True	5	3	4	3	4	3	5	3	5	3	5	5	5	5	5	3	3	3	3	4	3	5	5	5	5	4	1	4	3	1	3	5	4	5	5	5	3	4	4	4	4	5	3	5	5	5	3	3	4	3	5	4	1	3	3	3	5
-179	167	40.0	ouémo	True	8 ans		False	4	1	2	2	3	4	3	3	3	3	3	4	4	4	1	4	3	4	2	4	4	4	4	3	4	2	3	2	2	3	3	4	5	5	3	3	5	4	5	2	3	3	3	3	3	3	3	3	4	3	2	2	1	3	4	3	4
-180	168	23.0	val plaisance	True	15 ans	a.henin@yahoo.fr	True	5	3	3	3	3	4	5	5	4	4	5	5	4	4	3	3	5	3	5	5	5	5	5	5	3	3	5	3	3	3	5	5	5	5	5	5	2	4	5	2	4	4	5	5	2	5	3	3	2	4	3	4	5	5	4	5	5
-181	169	26.0	faubourg blanchot	True	26		False	2	3	3	5	3	3	2	3	4	4	5	4	4	2	1	4	3	5	5	3	2	3	5	2	3	3	4	3	3	3	3	4	3	4	3	4	2	5	3	1	3	3	4	4	2	2	1	3	2	4	3	4	4	4	3	2	4
-182	170	45.0	noumea	True	16	valerie1208@live.fr	False	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	2	4	4	4	4	4	4	4	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	4	4	4	3	3	4	3
-183	171	25.0	quartier latin	True	1an	benjamin.piouffle@gmail.com	True	3	3	4	5	1	3	4	4	5	4	5	3	2	3	4	2	3	3	3	3	3	2	4	4	4	3	2	3	3	3	3	5	5	5	4	3	2	4	4	5	4	4	4	3	1	4	3	4	5	3	3	3	3	3	3	4	3
-184	172	53.0	pk7	True	10 ans 	ganethierry@yahoo.fr	False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	4	3	3	3	3	3	3	3	1	5	1	3	3	2	1	1	2	5	3	5	3	3	3	3	1	3	5	3	4	3	3	3	3	3	3	3	3	3	3	3
-185	173	29.0	pk7	True	1 an	precilia.blum@gmail.com	False	3	4	4	4	5	4	3	5	5	4	5	4	4	4	2	2	4	5	4	4	4	4	4	4	5	3	4	3	3	3	2	2	4	4	5	3	5	4	4	4	3	3	3	3	3	4	5	3	3	4	3	4	3	3	3	4	3
-186	174	62.0	motor pool	True	10	Fabien.lu@yahoo.fr	True	4	3	4	3	4	3	4	3	2	2	5	4	5	2	3	4	3	2	1	4	4	3	4	4	5	5	4	5	3	3	4	5	5	5	3	3	5	5	5	5	5	5	3	5	5	5	3	5	4	2	4	3	3	2	3	4	4
-187	175	54.0	ouémo	True	30 ans	brmanetti@hotmail.com	False	5	3	3	3	5	5	5	2	1	1	4	3	5	5	4	5	5	4	4	2	5	1	5	5	5	5	2	3	3	3	3	4	3	4	5	3	5	5	5	5	5	2	2	5	5	2	4	5	5	2	4	2	2	2	2	2	4
-188	176	46.0	trianon	True	6 ans		False	4	3	5	3	2	3	4	4	4	2	5	5	4	5	4	5	4	5	3	3	5	4	4	5	5	4	4	5	3	3	3	4	5	5	4	5	5	5	3	2	5	4	4	5	5	3	3	3	4	3	3	3	5	3	4	4	4
-189	177	29.0	faubourg blanchot	True	29 ans	n.napoleon@live.fr	False	5	2	3	5	4	5	5	5	5	4	5	4	4	4	3	3	2	5	4	5	5	5	5	5	5	3	5	2	2	2	5	5	5	5	5	3	5	5	5	3	3	3	5	5	5	5	2	5	4	3	4	2	4	4	4	5	4
-190	178	40.0	vallée des colons	True	15 ans	emmanuelle.pedeutour@sic.nc	True	3	3	4	3	3	3	3	4	3	4	3	3	3	3	3	3	3	3	3	3	3	3	4	4	3	5	3	3	3	3	3	3	4	4	3	3	3	4	3	4	3	3	3	3	4	3	3	4	4	4	4	4	3	3	3	4	3
-191	179	29.0	centre-ville	True	2		False	3	2	2	5	4	4	2	5	3	4	3	2	3	1	1	3	3	2	2	3	3	3	3	1	3	4	1	3	3	3	1	4	3	3	4	5	3	3	3	3	1	5	1	4	5	3	3	3	4	4	4	4	4	3	3	3	3
-192	180	26.0	tina	True	1 ans		False	4	3	4	4	4	3	4	4	4	4	5	2	4	3	2	3	3	4	4	4	3	2	5	4	4	4	4	4	4	4	4	5	4	5	5	5	4	4	4	3	4	5	4	5	5	5	2	3	5	4	3	3	3	3	3	3	4
-193	181	32.0	ouémo	True	3 ans	calmettes_charles@yahoo.fr	True	3	1	4	3	2	4	1	4	4	5	4	5	4	5	3	4	4	4	4	4	4	4	5	3	4	5	4	4	4	4	3	5	4	4	4	5	4	5	4	2	4	4	5	5	4	5	2	4	4	4	4	4	4	4	4	4	4
-194	182	59.0	vallée des colons	True	10	yvesscussel@lagoon.nc	True	4	3	3	5	5	5	1	5	4	3	5	3	5	2	2	5	3	4	5	4	5	1	5	2	4	4	5	4	4	3	2	5	4	4	5	5	5	5	5	5	3	1	2	5	5	5	2	4	5	2	2	5	5	1	5	3	5
-195	183	67.0	moselle	True	16	borgnefesse4@hotmail.com	True	3	3	3	3	3	3	1	3	3	3	3	3	3	1	1	3	3	3	1	3	3	3	3	1	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	2	3	3	1	3	3	3	3	3	2	3	3	3	3	3	4
-196	184	40.0	vallée des colons	True	3 ans	grafeuillea@yahoo.fr	False	3	3	3	3	3	3	1	3	4	3	4	4	3	4	1	3	3	4	4	3	3	3	4	2	4	4	4	3	3	3	4	4	4	4	4	4	3	4	4	1	3	2	3	4	4	3	3	3	3	3	3	3	3	3	3	3	3
-197	185	29.0		False		agalleron@hotmail.fr	False	4	3	4	2	2	3	4	4	4	3	5	4	4	5	3	3	3	2	2	4	4	3	5	3	4	3	4	3	3	3	3	4	4	4	4	4	2	4	4	2	3	3	3	4	4	4	2	2	3	3	3	2	4	3	3	2	3
-198	186	37.0	rivière-salée	True	5ans	yannick.lenoc@hotmail.fr	True	5	3	5	5	5	3	5	5	5	5	5	5	5	5	1	3	3	5	5	5	5	1	5	5	5	5	5	5	3	3	3	5	5	5	5	5	5	5	3	5	5	5	3	5	5	5	5	5	5	3	4	4	3	4	4	4	4
-199	187		magenta	True	17 ans	cottin988@gmail.com	True	5	3	3	5	3	3	3	3	5	3	3	3	3	3	3	3	5	5	3	5	3	3	5	3	3	5	3	3	4	3	3	5	5	5	3	3	3	3	3	3	3	3	2	1	5	3	3	5	3	3	3	3	3	3	3	3	3
-200	188	67.0	rivière salée	True	36 ans	maraychal@live.fr	True	4	5	5	3	3	4	4	5	5	3	5	4	4	4	2	4	3	5	3	4	4	4	5	5	5	5	4	3	3	3	4	5	5	5	5	5	5	4	5	3	5	4	3	5	4	5	4	4	4	4	3	3	5	4	4	4	5
-201	189	27.0	tina	True	27 ans	florian.delpias@ens-cachan.fr	False	4	3	3	4	2	3	4	4	4	3	5	4	3	5	2	3	4	4	4	4	4	4	5	3	5	3	3	3	3	3	3	3	3	3	4	5	3	3	4	3	3	4	4	4	5	4	3	3	4	4	4	4	4	3	4	3	3
-202	190	53.0	val plaisance	True	Huit ans		False	3	3	3	4	4	4	4	4	4	4	5	4	4	4	3	3	3	4	4	4	4	4	4	3	3	4	5	3	3	4	3	5	5	5	5	4	4	4	4	4	3	3	4	4	4	4	3	4	3	4	4	4	4	4	3	4	3
-203	191	53.0	haut magenta	True	20 ans	liohottin@gmail.com	False	5	3	5	2	4	3	5	5	5	2	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	2	5	5	5	2	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	3	5	2	5	5	5
-204	192	44.0	anse vata	True	7	mopetshow@gmail.com	True	4	3	3	2	4	3	4	3	3	3	5	4	5	5	3	3	4	4	4	3	4	4	5	4	4	5	4	4	3	4	3	5	5	5	5	5	5	5	5	5	4	4	4	5	5	5	4	5	3	2	4	4	4	3	3	4	4
-205	193	45.0		False		guyannick@me.com	True	5	4	5	3	5	4	5	5	5	1	5	4	5	5	5	5	2	5	5	5	5	5	5	5	5	5	5	5	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	1	1	3	5	3	5	5	5
-206	194	54.0		False		Cathy_lbx@hotmail.fr	False	3	3	4	3	3	3	3	3	3	3	3	5	4	5	3	3	3	3	3	4	4	3	5	5	5	3	3	3	3	3	4	4	5	3	4	3	4	5	5	5	5	5	4	5	3	4	3	3	5	3	4	3	3	3	3	3	3
-208	195	60.0	artillerie	True	3 ans	cococessio@yahoo.fr	True	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	4	4	4	4	4	4	4	5	4	4	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	5	1	3	5	5	3	3
-209	196	27.0	pk7	True	26	kerdel18@gmail.com	True	5	3	3	3	4	4	3	5	4	3	5	4	5	4	3	3	5	4	4	4	4	3	5	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	4	3	3	4	5	3	5	3	3
-210	197	-38.0	n'géa	True		institut.noumea@gmail.com	False	3	3	3	4	3	3	3	3	3	3	5	3	4	3	3	3	3	3	3	4	4	4	5	5	4	3	5	3	3	3	3	5	5	3	5	3	5	3	3	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	3
-212	198	27.0	rivière salée	True	13 ans	florianne.wahnyamalla@yahoo.com	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	5	5	3	5	5	5	5	3	5	4	5	5	5	5	5	5	5	5	5	4
-214	199	21.0	logicoop	True	4 ans	Ninatyal@gmail.com	True	3	4	5	2	4	4	5	4	5	2	5	5	4	5	5	2	2	5	5	2	2	2	5	5	5	4	5	1	2	2	1	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	4	4	4	3	5	4	5	3	5	4	5
-215	200	24.0	normandie	True	24		False	3	2	4	4	5	4	4	4	2	4	4	5	3	4	2	3	4	4	5	4	4	4	5	4	4	4	5	4	4	2	4	4	5	4	5	5	4	4	4	4	4	4	4	5	5	5	4	5	4	1	4	2	3	3	3	3	4
-216	201	78.0	tina	True	24 ans	mariefranceroy@lagoon.nc	True	4	3	3	3	3	3	3	3	3	1	3	3	4	3	2	3	3	3	1	3	3	3	4	2	4	3	3	3	3	3	3	3	3	4	4	4	3	3	4	4	3	4	3	4	4	3	3	3	4	2	3	4	3	3	3	4	3
-217	202	53.0		False		Castel.suzanne.cs@gmail.com	True	4	3	3	4	3	4	3	5	3	3	5	4	5	5	5	3	3	3	3	3	3	3	5	3	5	3	4	4	4	4	2	5	5	5	4	4	3	4	3	4	5	4	3	5	5	3	3	3	5	2	3	2	3	3	5	3	3
-218	203	60.0	ouen toro	True	17	bermau0lagoon.nc	True	2	3	3	3	3	3	3	3	1	3	3	3	3	1	2	2	3	3	3	3	3	2	5	3	1	3	3	3	3	3	3	3	3	4	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	3	3	3	4	3
-219	204	32.0		False			False	4	5	3	3	3	3	2	3	4	3	5	3	3	2	2	3	3	4	4	2	2	2	3	3	4	1	3	4	3	3	3	3	1	3	4	4	4	5	4	4	3	2	2	5	4	4	4	4	3	3	3	4	3	3	3	4	3
-220	205	50.0	tina	True	16 ans	anne.wilkowski@yahoo.fr	True	3	3	4	4	4	3	4	4	4	4	4	2	3	2	2	2	3	4	3	2	4	4	4	2	2	3	3	3	3	3	3	3	4	4	3	3	3	3	4	3	3	2	2	2	2	3	2	3	4	3	3	3	3	3	3	4	4
-221	206	22.0	anse vata	True	2 ans		False	3	3	3	3	3	3	3	3	3	3	3	2	3	2	2	3	3	3	3	3	3	3	3	3	3	3	3	2	2	2	3	3	3	3	3	3	3	3	2	1	3	2	2	2	1	3	2	2	3	3	3	3	3	3	3	3	3
-222	207	40.0	tina	True	1	h.naoi-bracq@outlook.com	True	4	3	3	5	4	4	4	5	5	4	5	4	5	5	5	4	4	4	3	3	3	3	3	3	4	4	3	4	4	4	4	5	5	5	5	4	4	4	3	3	4	4	3	4	4	5	4	4	5	4	3	3	3	3	3	3	3
-223	208	32.0	centre-ville	True	4 ans		False	3	3	3	3	3	3	3	3	3	3	3	4	5	5	5	5	5	4	2	5	5	2	5	5	5	4	4	4	3	3	3	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
-225	209	37.0	faubourg blanchot	True	7 ans	anneleroy77@gmail.com	True	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	3	3	5	5	3	3	5	3	3	3	3	3	3	3	5	3	3	1	3	3	4	3	3	3	3	3	3	3
-227	210	32.0		False			False	3	3	3	3	3	3	4	3	3	3	3	4	3	3	3	3	3	3	3	3	4	4	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	3	4	3	3
-228	211	49.0	vallée des colons	True	3	granger.bruno@free.fr	True	4	1	4	5	1	4	5	2	5	3	5	1	5	1	1	4	4	4	4	4	1	1	4	1	3	5	2	5	5	4	2	5	4	4	4	3	4	5	4	4	3	4	1	2	4	4	1	1	4	1	4	1	1	1	4	1	4
-229	212	26.0	faubourg blanchot	True	8 ans	keko7480@yahoo.fr	True	5	2	4	5	2	3	4	3	3	3	5	5	5	5	4	4	1	3	3	4	4	3	5	3	4	5	5	3	4	4	1	5	5	5	5	5	4	5	5	5	3	4	4	5	4	5	2	2	4	2	4	2	3	5	4	2	3
-230	213	32.0	artillerie	True	3 ans	kanzaki74@hotmail.fr	False	4	3	5	2	2	4	4	4	3	2	5	5	5	5	5	3	1	4	4	5	5	4	5	4	4	5	5	3	4	4	1	5	5	5	5	5	3	4	5	5	3	3	3	5	5	5	4	2	4	2	3	3	5	2	4	2	3
-231	214	42.0	ouémo	True	42 ans	dldr@lagoon.nc	True	4	2	2	5	2	2	4	2	4	1	5	4	5	5	5	3	3	1	1	3	4	3	4	3	3	3	3	3	3	3	3	5	5	3	4	5	4	3	3	5	2	2	3	3	5	3	5	3	4	3	3	3	3	3	5	3	3
-232	215	44.0	ouémo	True	12 ans	Glaselve@gmail.com	True	4	5	3	3	4	3	4	4	3	3	4	3	1	5	1	3	5	3	1	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	5	3	3	3	3	4	4	3	3	5	4
-233	216	51.0	pk6	True	14 ans	danielsan66@hotmail.fr	True	4	3	1	4	4	4	5	5	1	4	4	4	4	4	2	4	4	4	2	4	4	4	4	4	4	3	3	3	4	4	4	4	4	3	4	4	3	3	4	3	4	4	4	3	4	4	4	4	2	2	4	3	3	3	3	4	3
-234	217			False			False	3	3	3	4	3	3	2	5	5	4	5	5	5	3	5	3	5	5	5	5	1	5	5	3	5	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	2	1	5	5	5	5	5	3	3	3	3	3	3	3	3	3	3
-235	218	45.0		False		Corinne.chauveau@canl.nc 	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	5	5	5	5	5	5	5	5	5	5	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	1	5
-236	219	33.0	orphelinat	True		giulianana@gmail.com	True	4	2	5	4	2	4	4	4	3	2	5	4	4	5	3	3	4	2	2	4	4	5	5	5	5	3	5	4	3	3	2	5	5	5	5	5	4	3	5	3	3	5	5	5	3	5	3	2	4	2	3	1	3	1	5	1	3
-237	220	32.0	orphelinat	True	1 an	rahan2001@yahoo.fr	False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	5	5	3	5	4	4	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3
-238	221	34.0	val plaisance	True	1 an		False	1	5	4	1	1	1	4	4	3	3	4	1	3	1	1	1	3	1	3	1	1	3	1	3	1	3	3	3	3	3	3	3	5	3	3	3	1	3	3	1	3	3	3	3	1	3	3	3	1	3	3	3	3	3	3	3	3
-239	222	28.0	val plaisance	True		thome.laurie@gmail.com 	True	3	4	4	4	4	3	4	5	4	3	5	4	4	4	4	4	4	5	2	4	4	4	5	3	4	4	4	4	3	3	3	4	3	4	5	4	4	4	4	5	4	4	4	4	5	4	4	5	3	3	4	3	3	3	3	3	3
-240	223	31.0	ouémo	True	2 ans	martinchailloux@gmail.com	True	4	3	4	3	1	4	4	4	4	3	5	4	4	5	4	4	3	5	4	4	5	3	5	5	5	5	3	4	3	3	3	5	5	5	5	5	5	5	4	5	5	3	5	5	5	4	4	3	5	3	4	2	3	3	4	3	4
-241	224	36.0	portes de fer	True	9	f.chatelin@mls.nc	True	1	2	1	1	1	2	1	3	2	1	2	2	2	1	1	1	3	2	1	2	2	1	2	1	1	1	5	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	3	1	1	4	1	1	1	1	5	1	1	5	3
-242	225	37.0	haut magenta	True	6 ans	tim_dutoit@hotmail.com 	True	2	3	3	3	3	3	3	4	4	3	2	3	3	2	3	4	5	3	4	3	5	3	4	4	4	3	5	4	3	3	3	4	5	4	5	5	4	4	4	5	4	3	4	4	5	4	5	3	4	4	4	4	5	3	3	3	3
-243	226	51.0	trianon	True	2 ans	Philippe.jusiak@gmail.com	True	4	4	4	3	4	3	5	5	4	2	5	4	3	5	3	5	3	4	4	4	4	3	5	4	4	5	5	3	4	4	3	4	4	5	5	5	3	4	4	3	5	4	4	5	4	5	2	4	4	3	4	4	5	2	3	4	3
-244	227	33.0	trianon	True	5	peillon.amaury@gmail.com	True	3	3	2	5	2	3	5	3	5	4	5	1	2	1	5	5	1	3	3	3	4	3	4	4	3	5	4	5	1	1	1	3	4	4	5	2	4	4	5	5	4	5	5	1	4	4	2	4	5	4	4	4	2	2	4	5	5
-245	228	32.0		False		Naneu84@hotmail.com	True	3	3	3	1	3	3	3	3	3	3	3	2	1	2	3	3	4	3	3	3	4	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	3	3	3	3	3	3	4	4	3	3	3	3	3	3	3	5	3	3	3
-246	229	51.0	pk6	True	4	vincentp@mls.nc	True	5	5	5	5	3	3	4	3	5	5	4	5	5	1	5	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	5	5	5	3	5	5	5	3	5	5
-247	230	45.0	trianon	True	1 an	gilles.enee@gmail.com	True	3	4	2	3	2	4	4	5	2	3	4	3	3	4	2	2	4	4	2	3	4	4	4	5	4	4	3	3	3	3	3	4	4	3	5	4	4	3	4	2	3	4	3	4	4	4	5	4	3	3	2	3	4	3	3	4	4
-248	231	33.0	centre-ville	True	5 ans		False	4	2	4	4	4	4	4	4	4	3	2	3	3	3	3	3	3	4	4	4	4	3	4	4	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	4	3	3	3	3	3	3	4	3	3
-250	232	24.0	motor pool	True	10ans	laura.nourtier@gmail.com	True	3	3	3	4	3	3	3	3	3	2	4	3	4	4	4	4	3	3	3	3	2	4	3	2	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	5	4	5	4	3	3	3	3	3	4	5	3	4	5	3	3	5	5
-251	233	33.0	anse vata	True	4 ans		False	3	1	3	4	3	2	3	2	1	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	4	4	5	5	5	5	4	5	5	5	3	4	5	5	5	3	3	3	3	5	5
-252	234	35.0		False		Fannyjugy@hotmail.com 	True	4	3	3	3	4	4	4	4	4	3	4	3	5	3	3	4	3	3	3	5	5	5	5	4	5	3	5	3	3	3	4	5	5	5	5	5	3	3	4	3	4	4	3	5	5	5	3	3	3	3	3	3	3	3	4	3	3
-253	235	27.0	centre-ville	True	17 ans		False	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5
-254	236	45.0	rivière salée	True	45	soniasorel972@gmail.com 	True	5	5	4	5	1	3	5	5	3	5	5	5	5	3	3	3	5	5	5	5	5	5	5	5	4	3	4	5	3	3	4	3	4	4	4	5	1	1	4	1	5	4	4	3	5	5	1	4	5	4	5	3	3	3	4	5	4
-255	237	35.0	ouémo	True	5		False	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	4	3	3	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	4	3	4	4	3	4	4	4	4	4	4	4	5	3	3	3	4	2	4	3	3	5	5
-256	238	54.0	centre-ville	True	17 ans	karuhele@hotmail.com	False	4	3	2	2	3	3	1	2	3	2	2	1	3	1	1	1	2	1	3	1	1	1	1	1	1	2	2	2	2	2	1	2	2	2	2	3	1	1	1	1	1	1	1	1	2	2	2	2	2	2	2	3	3	3	3	3	2
-257	239	61.0		False		klace1@hotmail.com	True	3	3	5	1	5	3	4	1	5	1	4	3	5	5	5	5	5	5	3	5	5	1	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	5	5	5	5	5	5	2	3	5	5	1	2	5	5
-258	240	49.0	vallée des colons	True	1 an	diver03@hotmail.com	True	4	1	1	5	2	4	1	4	4	4	4	4	5	5	5	5	1	5	5	5	5	1	5	1	1	5	5	1	1	1	5	5	5	5	5	5	3	4	4	4	5	5	1	5	5	5	1	5	5	4	4	4	4	1	1	4	5
-259	241	48.0	vallée des colons	True	20 ans	Lagabrielle.nc@gmail.com	True	4	4	4	4	3	4	5	4	4	4	5	3	4	4	2	4	4	3	4	4	4	4	5	4	5	4	4	4	4	4	4	5	4	4	5	5	3	5	4	4	5	4	4	4	5	4	4	4	4	4	4	4	4	4	3	4	4
-260	242	27.0	port plaisance	True	4 ans	maxime.boisrame@orange.fr	True	2	3	4	3	4	3	3	4	4	4	4	4	4	4	1	4	4	4	4	4	4	1	4	3	4	4	4	4	4	4	4	5	3	4	4	4	4	4	5	5	4	4	4	4	5	5	3	4	4	4	2	4	4	4	4	4	4
-261	243	57.0	baie des citrons	True	14 ans	s.cyrille@hotmail.fr	True	3	3	4	2	4	3	3	2	4	2	4	4	5	3	5	5	2	4	4	4	5	1	3	5	3	3	5	4	3	2	4	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	5	5	4	1	3	2	3	1	3	3	3
-262	244	60.0		False			True	4	3	3	2	5	3	3	3	5	2	5	4	3	3	1	3	2	3	3	3	4	2	5	4	5	4	3	3	3	3	3	4	4	4	5	5	5	5	5	5	5	5	3	5	5	5	5	4	4	3	3	3	3	3	3	3	3
-263	245	30.0	magenta	True	5 ans		False	3	1	3	1	1	3	1	4	2	1	5	4	4	5	4	1	3	1	1	4	3	3	4	4	5	3	3	3	3	3	3	4	5	5	5	5	3	4	4	3	4	4	3	4	4	4	3	3	3	1	3	1	3	1	3	2	4
-264	246	36.0	portes de fer	True	6 mois	Mrs_choco@hotmail.com	False	5	3	2	4	5	4	2	5	5	4	5	4	5	5	4	4	3	4	2	3	3	3	3	3	3	3	4	3	3	3	3	1	5	5	5	5	5	2	5	4	5	4	3	5	5	5	3	3	3	3	3	5	5	3	3	3	3
-265	247	48.0	logicoop	True	20 ans 	Isabelle.capart.nc@gmail.com	True	3	4	4	1	4	3	4	4	4	2	5	3	4	4	3	3	4	4	2	5	5	5	4	4	5	3	5	3	3	3	3	3	3	3	5	5	3	3	4	1	3	2	3	5	5	5	4	3	3	2	4	4	5	2	3	4	3
-266	248	44.0	orphelinat	True	11	Tiki.sharky@me.com	True	4	1	1	1	2	3	2	1	5	2	3	3	4	3	3	3	3	5	3	4	4	4	3	2	4	3	4	3	2	2	4	4	4	3	5	4	4	4	4	4	4	2	4	5	5	4	5	3	4	2	2	2	3	2	2	3	4
-267	249	23.0	pk7	True	6	J. Letourneur@me.com	False	5	4	4	3	4	4	5	5	3	3	5	3	3	5	3	4	4	4	4	4	4	2	5	4	3	3	3	3	3	5	4	3	3	3	3	5	3	4	4	5	4	4	4	5	4	3	3	4	4	3	3	3	3	3	3	3	3
-268	250	35.0		False		kamadja@gmail.com	True	5	5	5	5	5	5	5	5	5	5	5	3	5	2	3	3	5	4	4	4	3	3	2	3	5	5	5	5	5	5	3	5	5	5	1	3	5	5	5	1	4	2	3	2	5	5	3	5	3	5	2	5	5	5	3	5	3
-269	251	51.0	magenta	True	14	Chimentia@yahoo.fr 	True	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	5	4	4	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5
-270	252	28.0	centre-ville	True		clemence.gleizes@yahoo.fr	False	5	3	3	3	3	5	4	3	4	2	5	5	4	5	3	5	3	2	2	5	4	4	5	4	5	2	5	3	2	2	2	5	5	5	5	5	1	5	4	1	2	4	4	5	4	5	2	1	4	2	2	1	3	2	4	1	4
-271	253	43.0	ouémo	True	10	com.tdi@mls.nc	True	3	5	3	4	3	3	5	5	3	3	5	4	5	5	4	4	5	3	3	4	3	3	5	3	5	3	5	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	2	5	5	4	4	3	5	3	5	5	3
-272	254	30.0	port plaisance	True	7 ans	emmanuelle.molnar@gmail.com	True	3	1	5	3	4	4	5	3	5	2	5	3	5	4	3	2	5	4	4	5	4	3	5	4	5	4	5	4	4	4	1	5	4	4	5	5	5	3	5	4	5	4	3	5	5	4	5	5	5	3	3	4	4	4	4	5	5
-273	255	34.0	motor pool	True	15ans	karen_champsavoir@hotmail.com	False	4	3	3	4	4	3	3	4	4	4	4	3	4	3	2	4	5	4	4	3	3	4	5	4	4	4	4	4	4	4	4	4	4	4	5	4	2	4	4	3	4	3	4	4	3	4	2	4	3	4	4	4	4	4	4	4	5
-274	256	30.0	ouémo	True		milly86@hotmail.fr	False	3	3	2	3	4	3	2	5	2	3	2	4	1	2	1	2	3	2	3	3	2	1	3	3	3	3	3	3	3	3	3	3	2	3	3	2	1	3	3	3	2	2	2	2	3	1	1	3	2	3	3	3	3	2	3	3	3
-275	257	34.0		False		battamiguel@hotmail.com	True	3	3	3	3	3	3	3	3	3	3	5	5	3	5	3	3	5	3	3	5	3	3	5	3	5	3	5	3	3	3	3	5	5	5	5	5	3	5	5	5	3	5	5	5	5	5	3	3	3	3	3	3	5	3	3	3	3
-276	258	34.0		False		thomas_auger@hotmail.fr	True	4	3	3	4	4	4	5	4	3	3	5	5	5	5	5	5	3	3	3	5	5	5	5	5	5	5	5	4	4	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
-278	259	43.0	faubourg blanchot	True	5		False	5	5	4	4	4	3	4	4	5	3	5	5	4	5	4	5	5	4	5	5	5	5	5	5	5	5	5	5	5	2	3	5	5	3	5	5	5	5	5	4	5	5	5	5	5	5	3	5	5	5	5	4	5	3	3	5	5
-279	260	38.0		False		sabnoumea@yahoo.fr	False	3	3	4	4	4	3	3	3	4	4	3	4	4	3	4	3	2	4	4	4	5	4	5	4	3	3	3	3	3	3	3	4	2	3	3	4	4	4	4	5	4	4	4	4	4	4	4	4	5	4	5	4	3	4	4	4	4
-281	261	55.0	centre-ville	True	5 ans		False	3	3	3	3	3	3	3	3	3	3	3	3	2	3	1	3	3	2	1	3	3	1	3	3	2	1	1	2	2	2	2	3	3	3	1	2	2	3	2	2	1	1	1	3	3	3	3	3	1	1	1	1	1	2	2	2	1
-282	262	33.0	centre-ville	True	5ans	yliard@mls.nc	True	3	3	3	3	1	3	3	3	1	5	5	4	5	5	1	1	3	1	1	3	3	3	5	3	3	3	4	3	3	3	3	4	4	1	1	4	4	4	4	4	4	3	1	4	4	4	4	4	3	3	1	1	3	3	3	4	4
-283	263	42.0	vallée des colons	True	7 ans	luneivy@hotmail.fr	True	3	4	5	4	5	3	5	3	5	2	5	3	5	3	3	3	3	5	5	5	5	5	3	4	5	4	3	2	3	3	4	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	2	3	5	3	4	4	3	3	3	3	5
-285	264		val plaisance	True	19 ans	clarafrance.valet@hotmail.fr	True	3	4	2	2	2	3	4	4	3	1	4	4	2	4	2	4	3	3	2	3	2	2	4	3	3	2	3	3	3	3	1	5	4	5	2	4	2	3	3	1	3	2	2	3	1	3	1	2	3	2	2	3	3	2	3	2	3
-287	265	37.0	pk6	True	11 ans		False	4	5	4	4	4	3	5	3	4	3	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	3	5	3	3	3	3	3	3	5	5	5	5	3	5	4	5	3	4	4	5	5	3	4	5	5	5	5	3	3	5	4	2
-288	266	38.0	kaméré	True	6 ans	rudy.lorenzini@gmail.com	True	3	5	3	1	4	5	3	1	5	1	2	1	2	1	1	1	5	4	5	4	2	1	5	2	2	1	5	3	2	3	1	1	1	1	1	2	1	1	4	1	4	2	1	1	4	4	1	5	2	1	1	4	5	1	1	5	4
-289	267	26.0		False		jvayssiere@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	1	3	3	3	5	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5
-290	268	18.0	magenta	True	18		False	3	3	4	3	3	3	3	3	4	3	5	5	5	5	5	3	3	5	5	3	4	2	4	4	4	3	3	3	3	3	3	5	5	5	5	5	4	5	4	3	5	4	3	5	5	5	2	3	4	3	3	3	3	3	4	4	4
-291	269	29.0	centre-ville	True			False	3	1	3	5	5	4	4	5	2	2	5	5	5	5	3	5	3	5	5	1	1	1	5	5	3	1	1	1	1	1	3	1	1	1	1	3	5	5	5	1	3	3	3	3	5	5	5	3	3	3	3	3	3	3	3	5	3
-292	270	31.0		False		julie.mazeaud@hotmail.fr	True	4	3	3	3	4	3	3	3	4	2	5	4	4	4	5	4	4	4	4	4	5	4	5	4	4	3	4	3	3	3	4	5	5	5	5	5	4	4	4	5	5	3	3	4	4	3	4	3	4	3	4	4	4	3	4	4	5
-293	271	31.0	n'géa	True	2 ans	lucien.pommiez@gmail.com	True	4	4	1	5	1	2	5	5	5	3	5	5	2	5	3	5	5	5	1	3	4	5	5	2	4	5	3	5	1	5	3	5	5	5	5	5	4	3	5	4	5	4	5	5	5	2	1	5	4	5	3	4	3	2	3	4	3
-294	272	25.0	magenta	True	toujours	melissa.keanou@gmail.com	False	4	2	3	4	2	4	5	4	4	2	5	4	5	3	4	4	1	3	3	4	4	4	5	4	5	5	3	1	4	1	4	5	5	5	5	5	1	4	4	4	4	4	4	4	4	4	1	3	4	2	4	4	4	4	5	3	3
-295	273	25.0	trianon	True	1 an	quentfahrner@gmail.com	True	4	3	3	4	4	4	2	3	5	2	5	5	3	4	5	3	3	3	3	3	4	3	4	4	5	4	3	4	3	3	3	5	5	4	5	5	3	4	3	3	4	3	3	5	5	4	4	3	4	3	3	4	3	3	3	4	4
-296	274	27.0	pk7	True	26 ans	laura.quinquis@gmail.com	True	4	3	3	1	2	3	4	3	3	1	5	4	4	5	4	3	2	4	1	4	3	3	5	4	5	3	5	3	3	3	3	5	5	5	5	4	3	4	3	3	4	4	3	4	4	4	4	3	3	1	3	2	3	1	4	1	3
-297	275	34.0	quartier latin	True	10	Wpouillen@nautile.nc 	True	2	2	4	3	4	4	3	4	5	5	5	3	5	3	2	4	4	4	3	3	3	3	4	4	5	3	5	3	4	3	3	5	4	3	5	4	5	4	4	4	4	4	4	5	5	5	5	5	4	3	3	4	3	3	3	5	3
-298	276	34.0	faubourg blanchot	True	2 ans	damien.daly@free.fr	True	3	2	3	4	4	4	2	4	4	4	4	4	3	4	1	3	3	3	2	2	3	1	4	2	4	3	4	3	3	3	3	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	3	4	4	3	2	4	4	3	4	4
-299	277	32.0	haut magenta	True	8 ans		False	3	3	3	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	4	3	4	3	5	3	4	2	3	2	3	3	3	3	4	2	3	3	3	3	3	3	3	3	3	3
-301	278	52.0	anse vata	True	19	neenah007@hotmail.com	False	3	3	3	3	4	3	3	3	4	3	3	3	3	3	3	3	3	4	4	2	4	2	5	3	4	3	4	3	3	3	3	3	4	5	5	5	4	5	4	4	4	4	4	5	5	5	3	4	3	3	3	3	3	3	3	3	4
-302	279	30.0	magenta	True	20	djcotexyo@hotmail.com 	True	4	5	4	3	4	4	4	1	1	3	4	4	3	2	4	3	1	3	3	4	4	5	5	1	4	2	4	3	3	3	1	3	3	3	4	5	5	4	3	1	2	2	4	5	4	5	3	4	2	3	3	3	3	3	3	4	5
-303	280	31.0	ouémo	True	3 ans	antoinephilippe.simoni@gmail.com	False	3	3	3	3	4	3	3	3	4	3	4	4	4	3	2	3	3	4	4	3	3	3	4	3	3	3	3	3	3	3	3	4	3	4	5	5	3	3	5	3	5	4	4	4	5	5	3	3	5	3	3	4	3	3	3	3	3
-304	281	-50.0	rivière-salée	True	6ANS	dugue1967@gmail.com	True	4	3	3	4	4	5	5	5	3	5	5	5	5	5	3	5	4	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	3	4	5	5	4	4	4	4	4	5	5	5	5	5
-305	282	50.0	ouémo	True	20 ans	saubot.isabelle@gmail.com	True	3	3	4	4	2	3	3	3	5	3	3	4	4	3	2	3	3	3	4	2	4	3	3	3	3	3	3	3	2	2	3	3	4	4	3	4	4	3	3	3	4	4	4	3	3	3	2	4	3	3	4	4	3	3	3	4	3
-306	283	35.0		False			False	3	4	4	3	3	3	3	4	4	4	4	4	5	4	3	4	5	4	5	4	5	3	4	2	4	2	5	2	2	2	3	5	3	5	5	4	3	4	4	4	4	4	3	4	4	4	4	4	3	3	3	3	4	3	3	3	3
-307	284	33.0		False		amatnelson@gmail.com	False	4	3	3	3	4	2	3	5	4	2	5	2	3	5	3	3	3	3	4	4	1	3	5	3	4	4	5	4	3	3	3	3	4	4	5	5	3	3	3	3	4	4	3	5	5	4	3	1	5	2	4	4	5	3	3	1	3
-308	285	44.0		False			False	4	2	5	2	4	4	2	2	4	2	5	5	5	5	2	3	3	5	5	5	5	3	5	5	5	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	5	5	2	5	5	3	5	4	4	3	4	4	4	3	4	3	3
-309	286	33.0	pk7	True		Snowawe@gmail.com	True	4	3	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	3	3	4	4	5	5	4	4	5	4	5	5	5	3	5	5	5	5	5	4	5	5	5	4	4	4	5	5	4	4	4	5	5	5	5	5	4	5	5	5
-311	287	42.0		False		karine.ezzine@secal.nc	True	4	1	4	3	4	3	4	3	3	2	3	4	4	3	3	3	2	3	3	4	4	4	3	4	3	4	4	3	2	2	4	4	4	4	5	4	4	4	4	4	5	4	4	4	4	4	2	4	5	2	4	2	4	2	4	4	2
-312	288	50.0		False		christophe.andre@province-sud.nc	True	4	3	3	3	3	3	3	3	3	3	4	4	4	4	3	4	3	4	4	3	4	3	4	4	4	5	4	3	3	3	3	3	3	1	4	4	3	4	4	3	4	4	4	4	4	4	1	3	4	3	3	4	3	3	3	4	3
-313	289	46.0	tuband	True	15 ans	valerie.klein-vervaele@province-sud.nc	True	3	2	3	3	2	3	2	4	3	3	4	3	4	4	3	4	2	3	3	3	3	4	4	3	3	2	5	2	2	2	3	5	5	5	5	5	2	4	4	3	4	4	4	4	4	4	3	3	2	4	2	4	4	4	4	4	4
-314	290	60.0	vallée des colons	True	10		False	4	3	3	4	5	2	2	4	2	4	2	1	3	1	1	3	1	1	1	5	4	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	1	1	3	1	5	1	5	3	3	3	3	3	3	3	3	3
-315	291	68.0	tina	True	11 ans	lemomic@canl.nc	True	4	4	4	3	2	5	4	2	4	2	5	3	4	4	3	4	3	5	4	5	5	3	5	4	5	3	4	3	3	3	4	4	5	5	5	5	5	5	5	5	5	4	3	4	5	4	4	4	5	3	4	4	4	3	4	4	5
-316	292			True			False	2	4	3	4	4	3	2	5	4	4	5	3	4	3	1	2	3	4	4	3	1	1	5	1	4	4	5	4	4	4	4	4	4	5	5	4	2	3	3	4	4	3	1	4	3	3	1	4	3	4	3	4	4	3	3	4	3
-317	293	40.0	vallée des colons	True			False	4	1	4	4	3	3	4	3	3	4	5	5	5	4	4	4	4	5	5	4	4	4	5	5	4	4	5	5	3	4	4	5	5	3	4	5	3	5	3	5	5	4	3	5	4	4	5	4	4	3	3	3	3	3	3	5	5
-318	294	29.0		False			False	4	4	4	4	2	3	4	3	2	2	4	3	4	3	3	3	3	3	3	4	3	4	5	4	4	5	2	3	2	3	1	3	3	4	5	4	3	3	2	2	4	4	4	5	4	4	1	2	3	2	4	3	3	3	3	1	3
-319	295	35.0		False			False	1	3	3	3	3	2	2	3	2	3	3	2	3	3	2	3	3	3	3	3	3	3	3	1	3	2	3	2	3	3	2	4	4	4	3	5	2	4	4	1	2	2	4	3	4	4	1	3	2	3	2	3	3	3	3	3	3
-321	296	51.0	kaméré	True	25 ans	rousselot.sonia@yahoo.fr	False	5	5	5	1	1	5	5	2	5	1	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	1	5	5	5	5	5	5	1	5	1	1	3	1	5	1	5	5	5
-322	297	51.0	kaméré	True	25 ans	rousselot.sonia@yahoo.fr	True	5	5	5	1	1	5	5	2	5	1	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	1	5	5	5	5	5	5	1	5	1	1	3	1	5	1	5	5	5
-323	298	45.0	baie des citrons	True	10 ans		False	5	3	3	3	4	3	4	3	3	4	5	5	5	5	3	4	3	4	3	5	5	5	5	4	5	4	5	3	3	3	3	3	5	5	5	5	5	5	4	5	5	5	5	5	5	5	3	3	5	3	4	4	3	3	3	3	4
-324	299	56.0	faubourg blanchot	True	29 ans	evilous27@outlook.fr	False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	2	3	2	3	3	3	3	3	2	3
-326	300	50.0	val plaisance	True	5 ans	apeytaving@yahoo.fr	True	4	5	5	5	4	3	5	5	5	3	5	5	3	5	5	4	4	4	2	4	4	4	5	5	5	3	4	3	3	3	3	5	5	4	5	5	5	5	5	5	5	5	3	5	4	5	4	4	5	4	5	5	4	3	3	5	5
-327	301	29.0	ouémo	True	3	audrey.bastonero@province-sud.nc	True	4	3	3	3	4	4	4	4	4	4	4	3	4	3	3	4	4	4	4	3	4	2	4	4	4	3	4	3	3	3	3	4	4	4	5	4	3	4	4	3	3	4	4	3	3	4	3	3	5	4	3	4	4	4	3	3	4
-328	302	29.0	ouémo	True	2 ans		False	2	3	3	3	2	3	4	4	3	4	5	4	4	5	4	3	3	4	1	3	2	2	4	4	5	5	2	5	1	1	1	4	5	5	5	5	2	3	4	4	5	5	4	4	2	4	3	1	4	2	4	2	2	3	3	3	4
-329	303	30.0	rivière salée	True		a.bonnefond@gmail.com	True	4	2	3	5	5	3	4	3	4	3	5	5	5	2	5	5	5	5	5	5	5	4	5	4	5	3	5	3	3	3	3	5	5	3	4	5	5	5	5	5	5	5	2	5	5	5	3	3	4	3	4	4	4	3	3	3	3
-330	304	19.0	magenta	True	19 ans		False	2	3	3	3	4	2	3	4	2	3	4	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	4	3	3	5	3	3	4	4	4	3	3	3	3	3	4	3	3	3	3	3	3
-331	305	71.0	sud	True	10 ans	franfonba@corail.nc	True	3	2	3	2	2	3	2	2	3	2	3	3	3	3	2	4	3	2	2	3	3	2	4	3	4	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	2	4	3	4	3	4	2	2	3	2	4	2	3	2	3	3	4
-332	306	33.0	tindu	True	33 ANS	monia.diri@hotmail.com	False	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	4	4	4	3	4	4	4	4	4	3	3	3	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	4	4	3	3	3	3
-333	307			False		ymelysabeth@gmail.com	True	2	4	5	2	4	4	3	5	4	4	4	3	5	5	5	5	5	5	5	5	5	1	4	4	5	4	4	4	4	4	5	5	5	5	5	3	5	3	5	5	5	3	1	3	5	5	5	3	1	1	4	1	4	3	5	5	5
-335	308	30.0		False		jenna.tual@gmail.com	False	3	3	3	4	3	3	3	3	3	3	5	3	5	5	5	5	2	3	3	5	5	3	5	3	5	2	5	3	1	2	3	3	2	3	5	5	5	5	5	5	4	4	3	5	5	5	5	4	4	3	3	3	4	3	2	4	4
+	id	age	neighbourhood	lives_in_noumea	months_lived_in_noumea	email	enable_receive_emails	Étages: espaces educatifs	Bâtiments fermés au public pour réhabilitation	Maison du projet (accueil/ exposition)	Bureaux co-working (bureaux partagés)	Commerces	Espace à usage pluriel	Friche artistique-studios	Espace recherche scientifique	Café	Bureaux	Espaces verts et jardins potagers	q2-1	q2-10	q2-11	q2-12	q2-13	q2-14	q2-2	q2-3	q2-4	q2-5	q2-6	q2-7	q2-8	q2-9	q3-1	q3-10	q3-2	q3-3	q3-4	q3-5	q3-6	q3-7	q3-8	q3-9	q4-1	q4-10	q4-11	q4-12	q4-13	q4-2	q4-3	q4-4	q4-5	q4-6	q4-7	q4-8	q4-9	q5-1	q5-2	q5-3	q5-4	q5-5	q5-6	q5-7	q5-8	q5-9	longitude	latitude
+4	1	26.0	pk6	True	24	jonathan.rebouillon@gmail.com	True	5	4	5	5	5	3	5	4	5	2	5	4	4	3	4	5	3	5	5	3	5	5	4	5	5	3	5	3	3	3	3	5	5	5	5	5	5	5	3	5	3	5	5	4	5	3	5	4	5	1	3	2	5	5	4	5	5	166.469435	-22.245529
+5	2	30.0	magenta	True	30	Olivia.kurt@gmail.com	False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	5	3	3	3	3	4	4	4	4	4	166.4729372	-22.2599055
+7	3	32.0	trianon	True	22	ornc44@gmail.com	False	1	1	1	1	2	1	1	2	1	1	5	3	4	5	1	1	3	3	3	5	4	1	5	1	2	1	1	1	1	1	1	5	4	4	3	3	3	3	1	5	2	2	1	4	5	4	4	5	3	1	1	1	1	1	1	5	3	166.4498013	-22.2842354
+8	4	28.0		False	nan	e.launay@live.fr	True	3	3	4	4	3	3	3	3	5	3	5	3	5	3	2	4	4	5	5	5	5	5	5	5	5	2	3	4	1	1	3	5	5	5	5	4	5	5	5	3	5	5	5	5	5	5	3	5	3	3	4	3	3	3	1	5	5	null	null
+9	5	26.0	baie des citrons	True	312	haguet.megane@gmail.com	True	4	3	4	3	4	4	4	4	5	3	5	4	4	3	3	4	4	5	4	4	4	5	5	3	5	4	4	4	3	3	3	5	5	5	5	5	4	4	4	4	3	3	3	4	4	4	3	4	3	3	4	2	3	3	3	4	4	166.4375086	-22.291226
+10	6	29.0	magenta	True	4		False	3	3	3	3	2	3	3	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	2	4	3	4	4	3	4	4	4	5	3	3	4	4	3	4	4	3	1	3	3	3	4	3	3	3	4	166.4729372	-22.2599055
+11	7	46.0	tuband	True	10	fgambarotto@yahoo.fr	False	3	3	3	3	3	3	4	4	2	2	2	2	4	4	4	4	3	4	4	4	4	5	5	5	4	4	3	3	3	3	3	2	3	3	3	4	2	2	3	4	4	4	4	3	3	3	3	3	4	3	3	4	4	3	3	3	3	166.4548626	-22.2926943
+12	8	46.0	tuband	True	10	fgambarotto@yahoo.fr	True	3	3	3	3	3	3	4	4	2	2	2	2	4	4	4	4	3	4	4	4	4	5	5	5	4	4	3	3	3	3	3	2	3	3	3	4	2	2	3	4	4	4	4	3	3	3	3	3	4	3	3	4	4	3	3	3	3	166.4548626	-22.2926943
+13	9	37.0	trianon	True	36	marie.brenon@lagoon.nc	True	5	5	4	2	2	4	4	2	4	2	5	3	3	5	1	3	3	4	5	5	5	4	5	5	5	3	3	3	3	3	3	5	5	5	3	5	2	4	4	5	4	5	4	3	3	3	3	3	5	4	4	4	3	3	5	4	3	166.4498013	-22.2842354
+15	10	29.0	faubourg blanchot	True	1	marie.c.22@hotmail.fr	True	3	3	3	4	4	4	3	3	4	3	4	4	4	4	4	4	4	4	4	4	1	3	5	3	4	3	4	4	4	3	3	5	5	3	5	5	5	4	5	4	5	5	3	5	5	3	3	5	4	3	3	3	3	3	4	4	4	166.4519704	-22.2807684
+16	11	63.0	trianon	True	12	micalonc@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	3	3	5	4	3	4	4	3	3	3	4	4	5	3	3	3	3	3	3	3	3	3	3	3	3	166.4498013	-22.2842354
+17	12	48.0	vallée des colons	True	14	hregimbe@yahoo.fr	True	3	2	2	5	2	4	5	2	5	2	5	3	3	5	3	5	1	1	1	3	3	3	5	5	3	3	5	1	1	1	1	5	5	5	5	3	3	3	5	5	3	3	5	3	5	5	5	3	5	3	5	3	3	3	3	3	3	166.4534165	-22.2706695
+18	13	25.0	ouémo	True	300	boris.valin@gmail.com	True	2	3	2	4	4	4	3	3	5	5	3	3	4	3	5	3	4	4	4	3	5	4	5	5	5	5	5	4	3	3	3	4	4	5	5	5	5	5	5	5	4	3	2	4	5	3	5	5	5	5	5	5	5	5	5	5	5	166.475106	-22.2798021
+20	14	31.0	koutio	True	nan	hnatrsnj@hotmail.com	False	3	3	3	3	3	3	3	3	3	3	4	5	4	5	3	3	3	3	2	3	3	2	5	3	5	3	4	3	3	3	3	5	5	5	5	3	2	5	4	1	3	2	2	5	3	4	3	3	3	2	4	2	3	2	5	5	4	166.4649847	-22.2015547
+21	15	47.0	ouémo	True	120	sjouault@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	5	5	3	5	4	4	3	4	4	4	4	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	3	3	3	3	3	3	3	4	166.475106	-22.2798021
+22	16	36.0	tina	True	nan	gilamii@free.fr	True	3	4	2	3	5	4	5	5	5	2	4	4	4	4	2	3	3	5	5	4	4	1	5	4	5	4	4	4	3	3	3	4	5	5	5	5	5	5	3	5	5	5	1	5	5	5	3	5	3	3	5	3	5	2	3	3	5	166.4848346	-22.2511452
+23	17	30.0	magenta	True	5		False	4	4	2	2	4	3	5	2	5	3	5	4	4	4	5	5	5	5	5	4	5	2	3	4	4	5	5	5	5	5	3	5	5	5	5	4	5	2	5	5	4	1	2	5	4	2	5	3	2	3	3	4	4	3	3	5	1	166.4729372	-22.2599055
+24	18	35.0	pk7	True	9	caledoguide@gmail.com 	True	4	3	4	5	4	4	3	3	4	3	4	3	4	3	3	4	1	3	3	3	3	2	2	3	3	1	3	1	3	3	1	4	4	3	3	4	3	3	3	4	3	4	2	4	4	3	3	4	4	2	2	2	4	1	3	4	4	166.4757915	-22.2363115
+25	19	36.0	pk7	True	96	franck.dominici@gmail.com	True	5	5	5	5	5	5	5	5	5	5	5	4	5	4	4	5	4	5	5	5	4	5	5	5	5	3	3	3	3	3	3	5	3	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	5	4	4	4	5	166.4757915	-22.2363115
+26	20	26.0		False	nan	amd.brt@gmail.com	True	3	3	3	5	5	3	3	3	5	4	4	5	5	5	5	5	5	5	5	5	5	3	5	3	3	3	3	3	3	3	3	4	3	4	5	5	3	3	4	5	3	3	3	5	5	3	3	5	5	3	3	4	3	3	3	3	5	null	null
+27	21	31.0		False	nan	sarltemad@gmail.com	False	4	4	4	4	2	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	4	4	4	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	null	null
+28	22			False	nan		False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	5	3	3	3	5	3	3	3	1	1	1	1	1	1	1	1	1	null	null
+29	23	30.0	vallée des colons	True	48		False	4	1	4	2	4	3	3	1	5	1	5	4	3	2	4	2	4	4	4	4	4	3	3	4	5	2	2	4	3	3	1	5	5	5	5	4	4	4	4	3	2	3	3	5	5	5	4	1	3	1	3	1	4	2	2	1	3	166.4534165	-22.2706695
+30	24	28.0	faubourg blanchot	True	nan	Caroline.frickbaconnais@gmail.com 	False	2	2	3	3	3	3	3	3	4	2	5	4	4	5	5	4	3	3	1	3	4	2	5	4	2	3	3	1	2	1	1	5	3	3	5	4	3	3	2	3	3	3	1	5	5	3	1	2	2	3	3	3	3	3	3	3	3	166.4519704	-22.2807684
+31	25	31.0	ouémo	True	36	Chloelibaude69@gmail.com	False	4	3	2	4	2	4	5	5	2	3	5	1	4	1	1	3	3	3	3	3	3	3	4	4	4	2	3	3	4	4	3	4	3	4	3	1	1	3	3	1	3	3	3	3	3	3	1	3	1	4	4	4	4	4	2	2	1	166.475106	-22.2798021
+32	26	-59.0	ouémo	True	72	niaouli@mls.nc	True	4	2	4	4	2	4	4	4	4	4	4	2	4	4	4	4	4	4	3	4	4	3	4	4	2	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	3	4	4	4	3	3	3	3	4	3	4	4	4	3	4	166.475106	-22.2798021
+33	27	27.0	vallée des colons	True	4	charlotte.daros@gmail.com	True	3	3	3	3	3	3	5	4	5	3	5	4	5	5	5	5	2	4	4	3	5	4	5	5	5	2	4	4	4	1	2	4	5	5	5	5	4	4	5	5	5	5	5	4	5	5	4	3	4	3	4	4	4	3	4	3	5	166.4534165	-22.2706695
+34	28	26.0	pk4	True	12		False	3	3	1	1	1	3	5	5	2	3	5	5	1	5	2	2	5	5	5	2	2	5	5	1	5	5	5	5	3	5	5	5	5	5	5	5	5	5	5	5	1	1	5	5	5	5	5	1	1	1	5	5	5	5	3	5	5	166.463534	-22.246884
+35	29	29.0		False	nan	warrenmazoyer@hotmail.com	True	4	3	4	3	3	3	5	4	3	3	4	4	4	4	4	3	4	4	4	4	4	3	5	4	4	3	3	3	3	3	3	4	3	3	5	5	5	4	3	5	5	3	5	3	5	4	5	5	4	4	3	4	3	3	3	4	4	null	null
+36	30	44.0		False	nan	abisson@nautile.nc	False	3	3	3	3	3	3	3	3	3	3	3	5	5	3	4	4	3	3	4	5	5	5	5	2	4	3	4	3	3	3	3	3	5	5	4	3	5	5	5	5	3	3	4	3	4	3	4	5	3	3	3	3	3	3	3	4	3	null	null
+37	31	52.0	magenta	True	50	jls@spo.nc	False	5	3	5	3	5	3	5	3	5	3	5	3	3	3	3	3	3	3	5	5	5	5	5	4	5	3	5	3	3	3	3	5	5	5	5	3	5	3	5	5	3	5	5	5	5	5	5	5	3	3	3	5	5	3	5	5	5	166.4729372	-22.2599055
+38	32	32.0	vallée des colons	True	60	lemesle.deb@gmail.com	True	5	3	3	5	4	4	4	4	4	3	5	3	4	4	5	4	3	5	5	5	4	3	5	4	4	5	4	4	3	4	4	5	3	3	5	5	5	5	5	5	5	5	4	5	5	5	5	4	5	5	4	4	4	3	3	3	4	166.4534165	-22.2706695
+39	33	36.0	magenta	True	nan	antoine.bantzhaff@gmail.com	True	5	2	3	1	2	2	3	2	4	1	4	4	4	2	1	3	3	3	3	5	3	3	4	3	2	3	3	3	3	3	3	4	4	3	4	5	2	5	3	4	4	3	2	4	3	4	1	1	4	1	3	1	3	1	4	2	5	166.4729372	-22.2599055
+40	34	32.0		True	3		False	3	5	4	4	5	4	5	4	5	1	5	5	4	5	4	4	5	4	4	5	5	4	5	4	5	4	4	5	5	5	2	4	4	5	5	5	3	4	4	2	5	4	3	4	4	4	1	4	4	2	4	4	3	3	4	5	5	null	null
+41	35	24.0	anse vata	True	240	itachialex@yahoo.fr	True	3	1	3	4	5	4	3	4	4	3	5	3	4	3	4	3	4	4	4	4	3	3	4	3	4	5	5	5	3	3	3	5	5	4	4	5	5	5	5	5	4	3	4	4	5	4	4	5	4	4	4	5	4	4	4	4	5	166.4432935	-22.3004763
+42	36	37.0	magenta	True	1	guillaumecavelier@hotmail.fr	True	1	1	1	2	1	3	4	4	1	1	1	5	4	5	2	1	1	3	1	4	2	5	3	5	5	1	2	3	3	3	4	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	3	3	5	3	5	3	3	5	5	166.4729372	-22.2599055
+43	37	43.0	vallée du genie	True	84	domiapi@lagoon.nc	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	5	2	5	5	5	3	5	5	3	5	5	5	5	5	5	2	5	4	5	5	5	5	4	4	5	5	166.4475417	-22.2693516
+44	38	47.0	quartier latin	True	12	Fred.greg@live.com	False	2	4	4	2	4	4	4	4	5	4	5	5	5	5	1	3	5	2	4	4	4	1	5	2	5	5	5	5	5	5	3	5	5	5	5	2	4	5	3	4	2	5	2	4	4	5	5	4	5	4	2	5	5	2	2	5	5	166.4454628	-22.2765678
+45	39	26.0	magenta	True	26	agence@immosud.nc	True	4	3	3	4	2	3	3	4	3	5	3	3	3	4	2	4	4	4	4	2	4	4	5	4	5	3	4	3	3	3	3	3	3	3	4	5	5	5	5	5	5	5	4	5	4	5	4	4	3	3	5	1	3	3	3	4	4	166.4729372	-22.2599055
+46	40	30.0		False	nan	kilcat@hotmail.com	True	3	3	4	3	4	4	4	4	4	2	4	4	4	3	3	3	3	4	4	4	4	3	4	3	3	3	2	3	3	4	3	4	4	3	4	4	3	4	3	3	4	3	3	3	4	4	4	3	3	3	3	3	3	3	3	3	4	null	null
+47	41	38.0	vallée des colons	True	60		False	3	3	4	3	3	3	4	3	3	3	5	4	4	5	5	5	3	3	3	5	5	5	5	5	5	3	3	3	3	3	3	5	3	3	5	5	5	5	5	5	4	5	5	5	5	5	5	1	4	3	3	3	3	3	3	1	5	166.4534165	-22.2706695
+48	42	36.0		False	nan	Lacanitie@gmail.com	False	3	3	3	3	3	3	3	3	3	3	3	3	4	3	4	3	3	3	4	5	3	5	5	3	3	3	5	3	3	3	3	5	5	5	5	5	3	4	5	3	5	3	5	5	3	5	3	3	4	4	5	3	4	3	3	3	3	null	null
+49	43	39.0		False	nan	nea_alessandro@hotmail.com	False	4	5	4	2	5	3	4	5	4	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	4	3	3	4	5	5	5	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	5	3	4	3	4	null	null
+50	44	31.0	vallée des colons	True	12	Sebastien@quidnovi.nc	True	4	5	4	3	5	4	3	4	4	3	5	4	4	3	5	5	5	4	4	4	5	4	5	4	4	5	5	5	5	5	5	5	5	4	5	5	5	3	5	5	5	5	4	5	5	5	5	5	5	4	5	4	5	4	4	5	4	166.4534165	-22.2706695
+51	45	36.0	pk6	True	84	aauriche@hotmail.com	True	4	2	4	2	4	4	4	4	4	2	4	2	4	4	3	4	4	4	4	4	4	4	4	3	3	4	4	2	2	2	4	4	4	4	4	4	4	4	4	3	4	4	2	4	4	4	2	3	4	2	4	2	4	2	4	4	4	166.469435	-22.245529
+52	46	32.0		False	nan		True	4	3	3	3	3	4	3	3	4	3	5	3	5	4	4	3	4	5	4	5	4	4	5	4	4	3	3	1	3	2	3	4	4	4	4	5	4	4	5	5	5	5	4	4	5	5	3	5	4	3	4	4	3	3	3	4	3	null	null
+53	47	30.0		False	nan	audejouvenelle@hotmail.com	True	4	3	4	5	3	4	4	4	5	4	5	3	4	3	3	4	5	4	4	4	5	5	5	4	4	3	4	4	3	3	4	4	4	4	4	5	4	4	4	2	5	5	5	4	2	4	3	4	4	4	5	5	4	3	4	4	5	null	null
+54	48	34.0		False	nan	Yaelle.hugues@gmail.com	False	5	3	4	3	4	4	4	4	4	4	5	4	5	5	4	3	5	4	4	5	5	3	5	4	5	3	3	3	3	3	3	3	3	5	3	5	4	4	5	5	5	5	4	5	5	5	5	4	3	3	3	3	3	3	3	3	3	null	null
+55	49	48.0	centre-ville	True	60	Fpratelli@lagoon.nc 	True	4	4	4	4	2	3	3	3	5	3	5	5	5	5	2	4	4	4	5	5	5	2	5	5	5	3	4	3	5	5	3	5	4	5	4	5	5	4	4	4	4	4	1	4	4	4	4	4	4	4	2	5	5	4	4	4	4	166.4505243	-22.2558234
+56	50	52.0	vallée des colons	True	72	gillesgormond@yahoo.fr	True	3	3	3	3	3	3	3	3	3	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	3	3	3	3	3	3	3	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	3	3	3	3	3	3	166.4534165	-22.2706695
+57	51	54.0	anse-vata	True	48	linleq@lagoon.nc	True	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	1	5	1	5	5	1	5	5	5	1	1	4	3	1	5	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	5	5	5	1	5	1	1	1	2	4	5	166.4432935	-22.3004763
+58	52	25.0	mont-coffyn	True	84	tommydupuy@hotmail.com	True	4	3	4	4	3	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	3	5	5	5	166.4468327	-22.2796752
+59	53	34.0		False	nan	cperennes@hotmail.fr	True	2	2	3	3	1	2	3	4	1	3	4	4	4	3	1	3	4	4	4	5	4	1	2	1	3	1	4	3	4	4	2	4	3	3	3	4	4	1	4	1	3	2	1	3	4	4	4	4	1	3	4	4	3	4	3	4	4	null	null
+61	54	40.0		False	nan	jasknky@gmail.com	True	3	2	1	3	1	3	4	2	3	1	4	3	2	3	2	3	1	2	2	3	2	1	3	3	5	3	3	3	3	2	3	5	4	4	3	4	4	4	4	1	4	3	1	4	2	3	4	3	3	2	3	3	1	4	3	4	2	null	null
+62	55	37.0	ouémo	True	nan	ghost0408@gmail.com	True	3	1	4	1	1	2	4	1	4	4	5	5	5	5	4	4	2	1	1	4	4	4	5	5	5	3	4	2	2	1	1	5	5	5	5	5	5	5	5	5	2	4	4	5	5	5	5	4	2	2	1	2	4	1	2	1	1	166.475106	-22.2798021
+63	56	50.0	rivière salée	True	11		False	4	3	5	5	3	4	3	4	5	4	4	4	5	3	3	3	4	4	5	5	5	4	5	5	4	5	4	4	4	4	2	3	4	5	5	3	5	4	5	5	5	4	4	4	5	5	3	4	4	5	4	5	4	4	3	5	4	166.4649847	-22.2307599
+64	57	34.0	orphelinat	True	36	bibiana.jurado@gmail.com	True	4	3	4	4	3	4	4	2	5	2	5	5	5	5	4	4	4	4	4	4	5	3	5	5	5	3	5	3	3	3	3	5	5	5	5	5	3	5	4	5	5	5	4	5	5	5	3	3	5	1	5	1	2	2	5	3	4	166.4346161	-22.2880609
+65	58	63.0	vallée du génie	True	360	lagalla.b@mls.nc	True	4	5	5	3	4	3	3	3	4	3	4	3	4	2	1	3	5	4	3	4	4	4	5	5	3	3	3	5	4	4	3	5	5	5	5	5	3	4	4	4	4	5	5	5	5	4	3	4	4	3	3	3	3	3	3	4	4	166.4475417	-22.2693516
+66	59	32.0	pont des francais	True	12		False	3	3	4	2	3	3	2	3	4	3	5	2	4	2	3	4	3	3	3	4	4	5	4	4	4	3	3	3	3	3	3	3	3	3	3	5	2	5	4	3	4	3	4	5	4	4	3	4	3	3	3	4	4	3	3	4	4	166.4953463	-22.2143316
+67	60	65.0	centre-ville	True	204	a.verheylewegen@nautile.nc	True	4	3	4	3	3	3	3	3	3	3	3	2	2	1	1	1	3	3	1	3	3	1	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	166.4505243	-22.2558234
+68	61	49.0	porte d'argent	True	25	ronan.lecalvez@gmail.com	True	2	4	4	5	5	3	5	5	5	4	2	2	4	2	1	1	4	5	5	3	4	3	5	4	3	2	3	5	3	3	3	2	4	4	5	5	3	5	5	2	1	4	3	5	5	5	1	5	4	3	3	4	3	3	3	5	5	166.462687	-22.254813
+69	62	50.0	pk7	True	552		False	4	5	3	5	3	3	4	4	3	3	5	2	3	2	3	3	4	5	4	3	5	2	5	4	2	2	3	4	3	4	3	3	4	4	4	3	5	3	4	3	4	3	3	4	3	3	2	2	3	3	3	2	4	2	3	2	3	166.4757915	-22.2363115
+70	63	40.0	trianon	True	10	marevarg@hotmail.fr	True	1	2	4	4	2	3	4	4	4	2	5	4	4	4	4	4	1	1	1	5	4	1	4	1	3	5	1	1	1	1	1	1	5	5	5	5	5	5	5	4	3	3	1	4	4	5	2	5	3	1	3	1	1	1	1	2	4	166.4498013	-22.2842354
+71	64	47.0	n'géa	True	72	florenthuard7@gmail.com	False	4	5	4	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	166.4548626	-22.2897739
+72	65	42.0	anse vata	True	24		False	3	2	3	4	3	4	5	4	4	5	3	3	4	3	2	3	4	5	5	4	3	3	3	4	4	5	3	3	4	4	3	4	4	3	5	4	1	3	5	5	4	4	4	5	5	2	2	4	5	4	5	4	4	3	3	4	3	166.4432935	-22.3004763
+73	66	28.0	magenta	True	23	j-valter@hotmail.fr	True	4	5	4	4	4	3	5	5	4	3	5	5	4	5	5	4	3	4	4	4	5	3	5	5	3	3	3	3	2	3	2	3	3	4	5	5	4	5	5	5	5	5	3	5	5	5	3	4	3	3	5	3	3	3	3	3	4	166.4729372	-22.2599055
+74	67	33.0	pk6	True	33	juanita.railati@ville-noumea.nc	True	3	5	3	3	4	4	4	3	3	3	4	3	5	4	3	3	3	4	4	5	4	4	3	3	3	5	4	3	3	3	5	5	4	5	5	4	3	3	4	4	5	5	5	5	3	5	3	5	5	4	5	3	5	3	4	5	5	166.469435	-22.245529
+75	68		ducos	True	252		False	5	3	3	1	5	3	3	2	5	1	5	4	3	3	1	1	1	5	2	5	5	2	3	3	3	3	1	1	5	1	5	4	4	5	5	5	4	5	5	4	5	4	3	4	4	5	3	3	3	1	2	4	3	1	5	2	3	166.4476321	-22.2409774
+76	69	42.0	rivière-salée	True	42	brendy@lagoon.nc	True	4	4	3	3	4	3	3	1	4	4	3	4	4	2	2	4	5	4	4	5	5	4	4	4	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	166.4649847	-22.2307599
+77	70	47.0	tina	True	180		False	4	4	5	4	3	3	3	4	4	3	4	4	4	4	4	4	4	4	4	3	4	4	4	4	4	3	3	3	3	3	3	3	2	4	4	5	4	4	4	4	4	4	4	4	4	4	3	4	3	3	3	3	3	3	3	4	4	166.4848346	-22.2511452
+78	71	60.0	val plaisance	True	396	hbouziges@gmail.com	True	3	3	3	3	3	3	3	3	3	3	5	5	5	5	4	4	3	4	3	5	4	4	5	3	5	3	3	3	3	3	5	5	5	3	5	4	4	4	4	4	5	3	3	4	4	3	3	5	4	3	3	3	3	3	3	5	5	166.4519704	-22.3012106
+79	72	50.0	faubourg blanchot	True	60	nmontmarc@gmail.com	True	5	3	3	2	1	4	5	5	4	1	5	2	5	4	2	4	4	3	3	4	4	4	4	5	5	3	3	3	3	3	3	3	4	4	5	5	2	3	5	3	2	5	5	4	4	2	2	3	5	3	4	2	2	2	3	3	2	166.4519704	-22.2807684
+80	73	37.0	n'géa	True	3	charpentierjul@gmail.com	False	3	1	4	3	3	4	4	3	4	3	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	166.4548626	-22.2897739
+81	74	69.0	vallée des colons	True	40	Jacqueline.legarion@yahoo.fr	True	4	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	2	3	4	2	4	4	2	3	4	3	3	3	3	3	3	3	4	4	4	4	4	4	4	4	3	4	4	3	2	3	3	3	3	3	3	3	3	3	3	166.4534165	-22.2706695
+82	75	47.0		True	nan		False	4	4	4	5	5	4	4	4	4	4	4	4	4	4	5	5	4	4	4	5	5	5	5	5	5	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	null	null
+83	76	45.0	tuband	True	120	fcleborgne@canl.nc	True	3	3	3	5	3	3	3	4	3	3	5	4	4	3	4	3	5	3	4	5	3	5	4	3	3	3	3	3	3	4	3	5	5	5	5	5	3	5	3	3	2	3	5	5	4	5	3	4	3	3	3	3	2	3	3	3	3	166.4548626	-22.2926943
+85	77	27.0		False	nan		False	4	3	4	4	2	3	4	2	4	2	4	4	4	4	4	4	2	2	2	4	4	2	4	4	4	3	4	2	3	2	3	2	2	2	4	4	5	4	3	3	3	3	3	3	3	4	4	4	2	4	2	2	3	3	3	3	3	null	null
+86	78	46.0	portes de fer	True	nan	grandinisabelle@yahoo.fr	True	3	4	2	1	2	4	5	4	4	1	5	4	4	4	5	4	3	4	3	5	4	4	4	5	4	3	3	4	3	4	2	5	5	5	4	3	5	4	5	4	4	5	5	3	3	2	1	3	3	2	5	3	3	3	3	4	4	166.4606468	-22.2581384
+87	79	21.0	portes de fer	True	36	ymelysabeth@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	4	5	5	5	5	1	3	4	4	2	1	4	4	2	5	5	5	5	5	3	4	4	4	4	4	3	1	3	4	3	3	4	4	4	3	1	3	2	3	4	4	166.4606468	-22.2581384
+88	80	48.0	tina	True	144	xavier.sevin@gmail.com	False	3	1	2	5	2	3	2	5	3	3	3	2	2	2	3	3	4	3	2	2	3	3	4	3	5	5	1	3	1	1	3	5	5	5	5	5	5	3	3	4	1	2	1	5	5	5	1	2	5	2	3	1	1	3	1	3	1	166.4848346	-22.2511452
+89	81	36.0	receiving	True	4	superdadet@hotmail.fr	True	3	4	3	5	5	5	4	5	5	4	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	4	3	5	5	5	5	5	3	5	5	5	4	5	3	3	1	4	3	3	4	3	166.4440166	-22.2925069
+90	82	20.0	magenta	True	180	lea.giovannelli687@gmail.com	True	5	5	5	3	4	3	5	3	4	1	1	5	2	1	5	5	3	5	5	5	5	2	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	2	5	5	5	5	5	5	5	3	5	1	5	5	5	3	3	3	5	166.4729372	-22.2599055
+91	83	31.0		False	nan		False	3	3	2	4	4	3	4	4	4	3	4	2	3	4	2	3	3	3	3	3	3	3	4	3	4	2	4	5	4	3	3	3	4	3	4	4	2	3	4	3	4	4	4	5	3	3	2	3	4	3	3	3	3	3	4	3	3	null	null
+92	84	50.0	bais des pecheurs	True	36	steftrompas@gmail.com	True	5	5	3	1	2	1	3	1	4	1	5	5	5	2	2	4	5	5	1	4	5	1	5	1	5	3	3	3	3	3	5	5	5	5	5	3	5	4	5	4	1	5	1	3	5	3	1	5	1	1	3	1	3	1	5	3	5	166.440096	-22.2905892
+93	85	35.0	portes de fer	True	36		False	3	2	4	3	5	4	3	3	5	3	5	3	4	4	4	3	3	5	3	1	5	1	5	4	5	3	3	3	3	3	2	5	5	5	5	5	2	3	3	3	3	3	1	4	4	5	2	1	5	3	3	3	4	3	3	1	2	166.4606468	-22.2581384
+96	86	40.0	anse vata	True	25	Beerfamily687@gmail.com	True	5	2	5	1	5	5	5	5	5	1	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	5	5	5	5	5	5	2	5	5	5	5	5	4	3	2	5	2	5	5	1	5	5	5	4	5	4	5	166.4432935	-22.3004763
+97	87	54.0	quartier latin	True	nan	fgh41162@gmail.com 	True	4	4	4	4	4	4	4	4	4	3	4	4	4	4	4	4	5	5	5	5	5	3	4	4	4	4	4	3	5	3	4	4	4	5	5	4	4	4	5	5	4	4	4	4	4	4	4	4	4	5	4	4	4	5	5	4	4	166.4454628	-22.2765678
+98	88	60.0	baie des citrons	True	72	pommeliane@lagoon.nc	True	4	5	5	4	4	3	5	4	4	2	4	3	5	5	5	5	4	4	4	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	4	4	4	3	3	5	4	5	3	5	4	5	3	3	3	2	3	4	4	4	166.4375086	-22.291226
+99	89	43.0	hlm	True	43		False	3	4	4	3	3	3	4	1	3	1	5	2	4	4	3	3	3	4	3	4	3	3	3	4	4	1	1	1	3	3	3	5	3	3	3	4	3	3	4	1	3	4	2	3	1	4	1	1	1	1	3	1	1	3	3	1	1	166.4395232	-22.2735314
+100	90	35.0	pk4	True	3		False	4	3	4	3	3	5	5	3	5	3	5	4	3	4	5	5	3	3	3	5	4	3	5	3	5	3	3	3	3	3	3	4	4	3	5	5	4	5	4	4	3	4	3	5	3	5	3	3	3	3	3	3	3	3	4	3	3	166.463534	-22.246884
+101	91	43.0	val plaisance	True	96	Soniamartucci@yahoo.fr	False	4	5	4	4	1	4	5	5	4	3	5	3	4	4	4	3	4	4	1	5	5	1	5	4	4	3	3	3	3	1	5	4	5	4	5	3	3	4	5	2	4	4	2	4	2	2	1	5	3	3	3	3	3	4	5	5	5	166.4519704	-22.3012106
+102	92	38.0		False	nan	mathieusteeve@hotmail.fr	True	3	2	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	2	3	3	3	3	3	2	3	1	1	1	3	3	1	2	3	3	1	1	1	1	3	3	3	3	3	3	3	3	3	1	null	null
+103	93		vallée des colons	True	720	magma@lagoon.nc	True	3	4	4	3	3	3	3	3	4	3	4	5	4	5	3	3	5	4	4	5	4	5	5	3	4	4	3	4	4	4	4	5	5	5	5	5	4	4	4	3	4	3	4	5	4	4	3	4	3	4	3	4	3	3	3	4	5	166.4534165	-22.2706695
+104	94	31.0	rivière-salée	True	31	gdavid@fsh.nc	True	3	5	3	3	3	3	3	4	1	3	3	3	4	3	1	3	5	3	3	3	1	2	5	2	4	3	4	4	3	4	3	4	2	1	4	5	1	4	4	1	2	3	1	4	1	3	1	4	4	3	3	2	5	3	3	4	5	166.4649847	-22.2307599
+105	95	22.0	ducos	True	180	theresesavea@hotmail.fr	True	5	3	3	3	3	3	4	4	3	3	3	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	166.4476321	-22.2409774
+106	96	42.0	magenta	True	36		False	3	3	3	3	3	3	3	3	3	2	3	2	3	2	3	3	3	2	3	2	3	3	3	3	3	3	5	3	3	4	3	5	3	3	3	4	3	4	4	5	4	4	4	4	4	3	3	3	5	5	5	5	5	3	3	3	3	166.4729372	-22.2599055
+107	97	48.0	trianon	True	120	andre.ns@mls.nc	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	166.4498013	-22.2842354
+108	98	47.0	pk6	True	180	othman.joumady@ville-noumea.nc	True	4	3	4	5	4	4	5	3	5	3	5	5	4	5	5	5	3	4	3	5	5	5	5	3	4	5	3	3	3	3	5	5	3	5	5	5	5	5	4	5	4	4	5	5	3	5	4	3	5	4	5	3	3	4	5	3	4	166.469435	-22.245529
+109	99	30.0	pk7	True	17	briault_lyvia@hotmail.fr	True	3	3	3	3	3	3	2	3	3	2	4	4	3	4	3	3	3	2	3	3	3	2	4	3	4	3	3	3	3	3	3	3	3	3	3	4	3	4	3	4	2	3	2	4	4	3	3	3	3	3	2	3	3	2	3	3	3	166.4757915	-22.2363115
+110	100	46.0	magenta	True	toujours	sercadjekic@lagoon.nc	True	4	3	4	3	4	3	4	4	3	2	5	4	4	1	1	4	5	4	1	4	5	1	5	5	5	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	3	4	1	5	5	5	1	5	5	2	5	5	5	1	4	5	5	166.4729372	-22.2599055
+111	101	34.0		False	nan	tania.vijeh@gmail.com	False	2	2	2	3	2	2	2	3	2	2	2	2	2	2	2	2	2	2	3	2	2	2	3	2	2	3	3	2	2	2	3	3	3	3	3	3	2	2	2	2	3	3	3	3	2	2	3	3	2	2	2	2	3	2	3	3	3	null	null
+112	102	33.0		False	nan	sebastien.delor@smtu.nc	False	5	3	5	4	2	2	5	5	4	2	5	5	5	5	5	5	4	4	4	3	5	5	5	4	5	1	5	2	3	2	2	5	5	5	5	5	4	4	4	5	5	5	5	5	5	5	5	5	1	1	5	1	5	1	4	4	5	null	null
+113	103	38.0		False	nan	sophie.chenel@laposte.net	True	1	3	1	2	2	1	1	1	3	2	3	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	3	2	1	2	1	1	2	2	1	2	1	2	1	1	1	2	1	1	1	1	1	1	1	1	1	2	null	null
+114	104	32.0	trianon	True	72	patrick.maillet@gouv.nc	False	3	5	5	4	4	4	4	5	3	5	5	2	5	4	4	4	2	4	4	4	4	2	5	3	4	4	4	1	2	2	4	3	5	5	5	4	3	4	5	5	5	4	5	5	4	4	2	4	4	5	4	5	3	4	4	5	5	166.4498013	-22.2842354
+115	105	26.0	anse vata	True	7 mois		False	3	5	4	5	4	3	4	4	4	1	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	3	3	3	3	3	4	3	4	3	5	5	4	4	4	3	4	4	4	5	4	4	4	3	4	2	4	3	4	2	3	1	2	166.4432935	-22.3004763
+116	106	25.0	quartier latin	True	12	zthivet@gmail.com	True	4	2	4	5	2	4	5	4	4	2	5	5	4	4	5	3	3	4	1	3	5	3	5	5	5	3	5	3	3	3	3	5	5	5	5	5	5	5	4	5	4	5	4	5	5	5	5	3	4	3	4	3	3	3	5	3	4	166.4454628	-22.2765678
+117	107	36.0		False	nan	romain.delisle@gmail.com	True	5	1	2	3	5	5	5	5	5	1	4	3	5	5	3	3	3	3	3	5	5	5	5	5	1	5	3	3	3	3	5	5	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	5	null	null
+118	108	44.0	baie des citrons	True	120		False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	3	3	3	5	5	3	3	3	3	5	5	3	3	3	3	3	3	3	3	3	3	3	166.4375086	-22.291226
+119	109	46.0	vallée des colons	True	12		False	4	4	4	5	3	3	5	3	5	3	5	5	5	5	4	3	5	4	4	5	5	5	4	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5	166.4534165	-22.2706695
+120	110	48.0		False	nan	karin.mongeard@sic.nc	True	4	4	3	3	4	3	3	3	4	4	4	3	4	3	3	4	3	4	4	3	4	4	4	4	3	4	3	3	3	3	3	3	3	3	4	4	4	3	3	3	3	3	4	4	4	3	3	4	4	3	3	4	3	3	2	3	3	null	null
+121	111	59.0	anse vata	True	12	jammet.d@lagoon.nc	True	3	1	2	2	2	3	1	4	4	3	1	2	1	1	1	1	1	2	1	1	1	1	1	1	1	1	5	3	3	3	3	5	5	5	4	5	3	3	3	4	2	2	3	3	3	3	3	3	4	4	4	4	5	3	3	3	5	166.4432935	-22.3004763
+122	112	25.0	magenta	True	25	jean-jacques.kabar@outlook.fr	True	4	5	2	4	4	2	4	4	4	1	5	4	4	4	4	2	4	5	2	4	4	2	5	4	5	5	2	2	2	2	2	4	5	5	5	5	4	4	4	4	4	4	2	4	5	5	2	4	4	2	4	2	2	2	2	4	4	166.4729372	-22.2599055
+123	113	46.0	quartier latin	True	nan	dionisos@nautile.nc	True	4	3	3	4	1	1	5	5	5	2	5	1	4	3	5	1	1	4	4	4	4	5	5	4	5	5	1	5	5	5	4	5	5	5	5	5	1	5	5	5	5	5	5	5	5	5	5	5	3	1	5	1	1	1	5	5	5	166.4454628	-22.2765678
+124	114	45.0	haut-magenta	True	96	alexandre.cugnot@ismac-nc.net	True	4	1	1	5	2	1	4	5	4	5	4	2	3	3	4	4	5	3	1	1	4	1	3	5	3	3	5	5	1	3	3	5	4	4	5	5	3	5	2	3	5	5	2	4	3	3	1	5	5	2	2	1	1	4	5	4	5	166.4577547	-22.263735
+125	115	49.0	haut magenta	True	96	valerieorsi@gmail.com 	True	3	3	3	4	4	3	4	4	4	2	5	3	4	2	2	2	5	4	2	4	4	1	4	3	1	3	4	3	3	5	3	3	3	3	5	3	3	3	4	5	3	3	3	4	4	3	3	3	3	3	4	4	1	3	3	3	3	166.4577547	-22.263735
+126	116	41.0	ouémo	True	144	capri.serail@canl.nc	True	3	3	5	3	3	5	5	1	3	1	3	3	5	1	1	3	3	3	1	5	5	5	5	3	3	5	5	3	3	3	5	3	3	5	5	5	5	5	3	5	1	1	3	3	5	3	3	5	5	1	5	3	3	1	5	3	3	166.475106	-22.2798021
+127	117	54.0	n'géa	True	13	debiasiot@msn.com	True	3	1	5	1	4	3	3	4	5	1	4	3	4	4	3	4	5	1	1	1	4	1	5	4	4	5	5	5	5	5	3	5	5	3	5	5	5	5	5	5	2	4	1	5	5	5	3	5	5	1	2	1	1	1	3	3	5	166.4548626	-22.2897739
+128	118	48.0	vallée des colons	True	132	remi.lami@gmail.com	True	3	3	3	3	3	2	2	3	5	3	5	2	4	4	2	4	4	3	2	4	4	2	4	4	4	5	4	3	3	3	3	4	4	4	4	5	4	4	5	5	5	3	4	4	5	5	2	4	3	3	3	3	3	5	3	3	3	166.4534165	-22.2706695
+129	119	51.0		False	nan	henri.nc@hotmail.com	True	3	2	3	1	5	3	2	2	5	2	5	3	5	3	3	3	1	5	5	5	5	2	3	3	4	5	5	5	3	3	5	5	5	5	5	3	5	5	5	3	3	3	2	5	5	5	5	5	5	2	2	4	3	1	2	5	2	null	null
+130	120	41.0	rivière salée	True	41	barretteau.s@gmail.com	True	3	3	3	3	4	3	3	3	4	3	4	4	4	3	4	4	3	4	5	4	4	4	4	3	5	4	4	3	3	3	3	5	5	5	5	5	4	4	5	4	3	3	4	5	4	4	4	4	3	3	3	3	3	3	3	4	3	166.4649847	-22.2307599
+131	121	44.0	centre-ville	True	1	Marien.jacob72@gmail.com	True	4	5	5	4	5	4	5	5	5	3	5	5	4	5	5	4	5	5	4	5	5	4	5	4	5	4	5	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	166.4505243	-22.2558234
+132	122	37.0	magenta	True	48		False	4	4	3	1	1	4	1	4	4	1	5	3	4	4	4	3	5	3	2	3	3	3	4	4	5	2	4	5	3	4	2	5	4	5	4	5	3	4	3	3	3	4	4	4	4	4	3	3	4	3	3	4	3	3	4	5	4	166.4729372	-22.2599055
+133	123	60.0	portes de fer	True	192	Marsximus@yahoo.fr 	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	3	3	1	5	5	5	5	3	3	3	3	3	3	3	3	3	3	5	3	3	4	2	5	3	3	3	5	5	5	166.4606468	-22.2581384
+134	124	37.0	trianon	True	7	prisca.svt@hotmail.fr	True	3	3	3	3	3	3	3	3	3	3	3	4	4	3	3	4	3	3	4	4	3	3	5	5	3	4	3	3	3	3	3	5	3	3	5	3	5	5	3	3	4	5	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3	166.4498013	-22.2842354
+135	125	40.0	quartier latin	True	60	Baroudeur1@gmail.com	False	4	3	4	2	2	4	2	4	3	2	5	5	4	5	4	4	4	4	5	2	4	4	5	4	2	3	5	4	2	2	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	3	5	3	5	2	4	2	4	166.4454628	-22.2765678
+136	126	42.0	ouémo	True	12	devos.erwan@gmail.com	True	4	3	4	4	3	3	4	3	4	4	4	3	3	3	3	3	3	3	3	3	3	3	4	4	4	5	5	4	3	4	4	5	5	5	5	4	4	4	3	4	4	4	4	5	5	4	4	3	3	4	4	4	4	3	3	4	4	166.475106	-22.2798021
+137	127	41.0	tina	True	13	hatem@skazy.nc	True	4	3	2	4	2	3	4	4	3	4	3	3	4	4	4	4	4	4	3	4	4	2	4	5	5	4	4	4	4	4	4	5	5	4	4	4	2	4	2	4	4	2	2	4	4	4	5	5	4	4	5	3	4	3	3	4	4	166.4848346	-22.2511452
+138	128	50.0		False	nan	jcpon@hotmail.fr 	True	3	3	4	3	3	4	3	4	4	1	4	3	3	3	3	3	3	3	3	4	4	3	5	3	4	4	3	4	5	3	3	5	4	5	5	3	3	3	4	5	3	3	3	5	5	4	4	4	5	2	3	4	3	2	4	4	5	null	null
+139	129	37.0		True	nan		False	4	2	3	2	3	3	2	2	4	3	4	3	2	2	3	3	3	2	3	2	3	4	4	4	2	3	3	3	3	3	3	4	4	3	3	2	4	3	2	2	3	3	4	3	3	4	3	2	3	2	2	3	3	3	2	2	2	null	null
+140	130	40.0	vallée du tir	True	8	crabault@hotmail.fr	True	3	3	4	3	3	3	3	3	4	3	4	2	1	1	1	2	4	4	2	5	1	4	5	5	1	1	1	4	4	4	5	5	5	5	5	1	2	5	5	1	4	4	4	2	1	4	4	4	4	1	1	4	2	4	4	5	2	166.4454628	-22.2619664
+141	131	43.0	pk6	True	34 	darked2@yahoo.fr	True	4	3	4	4	4	4	4	4	4	4	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	4	3	3	3	3	3	4	3	3	3	3	4	3	3	3	3	3	4	3	3	3	3	4	3	3	3	3	3	3	166.469435	-22.245529
+142	132	47.0		False	nan	steven.meriadec@ville-noumea.nc	True	4	5	5	4	3	5	5	3	5	4	4	4	4	2	4	3	4	3	3	5	4	4	3	4	5	5	1	4	4	4	4	4	5	5	5	5	3	4	4	5	5	5	5	5	5	5	3	5	4	4	4	1	4	4	4	4	5	null	null
+143	133	37.0	vallée des colons	True	6	aurelie_richard@yahoo.fr	True	5	3	4	4	4	3	3	3	2	3	5	5	4	4	3	3	3	5	2	5	4	4	5	4	5	4	5	5	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	166.4534165	-22.2706695
+144	134	30.0		False	nan	marine_des_plp@hotmail.com	True	3	3	3	3	5	3	3	5	5	3	5	3	5	5	2	4	4	5	5	4	5	1	5	1	5	5	5	5	5	5	3	5	5	5	5	5	3	5	5	5	4	5	1	5	5	5	5	4	4	3	2	5	5	3	3	3	3	null	null
+145	135	37.0	pk7	True	84		False	4	4	4	4	4	1	1	4	4	1	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	3	3	3	3	5	3	5	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	5	3	5	2	5	5	2	166.4757915	-22.2363115
+146	136	35.0	motorpool	True	10	doudymix@hotmail.fr	True	3	3	3	3	4	3	4	4	4	4	5	5	5	5	5	4	4	4	4	5	4	3	5	5	5	3	4	3	3	3	3	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	166.4490782	-22.2922051
+147	137	24.0	centre-ville	True	36	wadjahdi.jacques@gmail.com	True	4	4	4	1	4	3	2	2	5	1	5	5	5	5	3	5	1	5	5	3	2	5	5	4	5	4	4	1	1	1	2	5	5	5	5	5	1	5	5	5	5	4	4	5	5	3	4	3	3	3	1	3	1	4	3	4	4	166.4505243	-22.2558234
+148	138	22.0		False	nan		False	3	2	3	3	5	3	4	2	2	2	3	3	4	4	2	3	3	4	4	4	4	3	4	5	4	3	4	3	3	3	3	3	3	3	4	5	4	4	4	4	5	4	5	5	4	3	3	4	4	2	4	4	4	2	4	5	3	null	null
+149	139	24.0		False	nan		False	3	1	3	3	3	1	4	2	2	1	5	4	1	5	5	5	1	1	1	4	5	5	5	5	4	1	2	1	1	1	1	5	5	5	5	5	3	3	3	3	3	3	3	4	5	2	2	1	1	1	1	1	3	1	3	1	1	null	null
+150	140	32.0	logicoop	True	60	marie_tauze@hotmail.fr	True	4	2	3	3	1	3	4	3	4	3	5	5	5	5	5	3	3	1	1	4	4	4	5	5	5	3	5	3	3	3	3	5	5	5	5	5	3	5	5	5	5	5	5	5	5	5	3	3	4	1	3	1	3	1	3	3	4	166.4346161	-22.2354973
+151	141	25.0		False	nan	manon.bordaberry@orange.fr	False	5	4	5	4	4	4	5	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	null	null
+152	142	26.0	val plaisance	True	12	So-saw@hotmail.fr	False	3	3	3	3	3	3	3	3	3	3	3	2	4	3	4	3	3	3	3	4	3	3	5	3	4	2	4	1	3	3	3	3	3	3	5	3	4	3	3	3	4	3	3	5	5	4	2	3	3	3	3	3	3	3	3	3	3	166.4519704	-22.3012106
+153	143	42.0	sainte marie	True	120	hugues.georgelin@gouv.nc	True	1	5	1	1	1	1	1	1	1	5	1	3	1	3	1	3	4	3	3	1	1	1	4	1	4	4	4	4	4	4	4	4	4	4	4	4	3	4	4	3	5	3	2	4	4	4	3	4	2	2	2	4	4	3	3	4	3	166.458297	-22.2752799
+154	144	365.0	portes de fer	True	12		False	5	3	4	4	2	4	2	3	4	2	5	4	3	5	4	4	4	3	2	4	4	3	4	1	5	3	5	3	3	3	3	5	5	5	5	3	2	5	5	5	2	2	4	5	5	5	3	3	4	3	2	2	4	2	4	3	2	166.4606468	-22.2581384
+155	145	47.0	anse vata	True	13 	rock.feyler@canl.nc	False	4	1	5	4	3	4	5	5	3	3	5	5	5	5	5	5	3	3	3	4	5	4	5	5	5	5	5	5	1	3	3	5	5	5	5	5	2	5	5	5	5	5	5	5	5	5	1	5	5	5	5	3	5	3	5	5	5	166.4432935	-22.3004763
+156	146	34.0	motorpool	True	nan	Bertille.jouan-ligne@province-sud.nc	True	3	3	3	4	1	2	3	3	4	4	4	1	4	2	2	2	5	3	4	1	3	3	3	3	4	3	4	1	4	2	3	2	2	2	2	1	4	2	3	1	4	3	3	2	1	4	1	4	2	4	1	4	4	4	2	5	4	166.4490782	-22.2922051
+157	147	45.0		False	nan	Fhenrybzh@hotmail.fr	True	4	4	3	3	3	3	3	3	4	3	4	4	3	3	2	3	3	4	4	3	3	2	3	2	3	5	4	4	3	3	3	4	4	4	3	5	4	4	4	3	5	2	2	4	3	4	4	3	4	3	2	3	3	4	3	3	4	null	null
+159	148	43.0		False	nan	joben@canl.nc	True	4	3	3	4	3	3	3	3	4	3	5	3	5	3	3	3	3	4	3	5	3	3	5	3	3	5	3	4	3	3	3	5	4	3	5	5	5	5	3	4	3	4	3	5	3	4	5	4	5	4	3	2	5	2	5	5	3	null	null
+160	149	58.0	vallée des colons	True	48	Manuel.bachet@gmail.com	True	4	3	3	4	1	3	4	4	4	4	5	5	5	5	5	5	3	4	4	5	5	5	5	4	5	5	5	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	3	3	1	2	2	3	4	4	4	166.4534165	-22.2706695
+161	150	38.0		False	nan		False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	1	3	1	1	1	1	3	5	5	1	5	5	1	5	1	5	1	5	1	1	5	5	3	5	1	1	5	1	1	1	5	5	null	null
+162	151	47.0	centre-ville	True	204	gege8506@laposte.net	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	166.4505243	-22.2558234
+163	152	33.0		False	nan	tekurio.rangitea@hotmail.fr	True	5	4	5	2	2	3	2	5	5	5	5	5	3	5	5	3	1	3	1	5	3	3	5	3	3	3	3	2	2	2	2	2	5	5	5	5	5	3	3	2	5	3	1	5	5	5	3	3	1	1	1	1	5	1	2	5	5	null	null
+165	153	34.0	n'géa	True	144	virginie.guillo@yahoo.fr	False	4	4	4	4	2	4	2	2	4	4	4	4	4	4	4	4	2	4	4	4	5	4	5	4	4	5	4	2	2	2	4	4	4	4	4	5	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	2	4	4	4	4	5	166.4548626	-22.2897739
+166	154	50.0	vallée des colons	True	264	lo.nc@hotmail.com	True	3	3	4	3	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	4	3	3	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	2	4	3	4	4	5	166.4534165	-22.2706695
+167	155	53.0	baie des citrons	True	15		False	5	3	5	5	5	5	5	2	5	5	5	2	4	2	2	3	3	5	4	4	4	4	2	4	4	4	2	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	2	4	4	4	4	4	3	4	4	4	4	166.4375086	-22.291226
+168	156	45.0		False	nan	bovibrato@gmail.com	False	5	1	4	3	5	4	2	2	4	2	5	1	4	2	4	4	4	4	4	4	4	5	4	4	5	5	5	4	4	2	2	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	4	4	4	4	4	4	null	null
+169	157	31.0	vallée du tir	True	31		False	4	5	5	3	4	2	2	2	5	2	5	4	4	4	2	4	1	5	3	5	5	2	4	1	3	5	4	3	3	1	4	4	5	5	5	5	4	5	5	3	5	4	2	4	4	4	2	3	3	1	3	2	3	1	4	4	4	166.4454628	-22.2619664
+170	158	37.0	centre-ville	True	20	emveyret@hotmail.com	False	5	3	5	1	1	3	5	3	5	1	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	3	5	3	3	3	3	5	5	5	5	5	5	3	5	5	5	5	1	5	5	5	5	5	5	1	5	3	4	1	5	5	5	166.4505243	-22.2558234
+171	159	33.0		False	nan		False	4	4	4	4	3	3	3	3	3	2	5	3	4	3	3	4	4	3	3	3	3	3	4	3	5	5	4	4	3	3	3	5	5	5	5	5	5	5	5	4	3	4	4	5	5	5	5	4	4	4	3	4	4	3	4	4	4	null	null
+172	160	50.0	sainte marie	True	120	jmradiguet@gmail.com	True	4	4	4	4	4	4	4	4	4	4	4	3	4	4	4	4	4	4	4	4	4	4	4	3	3	4	4	4	3	4	4	5	4	4	3	4	4	4	5	4	4	4	4	3	4	4	3	4	4	4	4	4	4	4	4	4	4	166.458297	-22.2752799
+173	161	40.0	pk7	True	84	nomshad@canl.nc	True	4	3	4	2	4	3	5	5	4	2	4	3	4	2	2	4	4	4	2	4	4	4	5	4	2	5	4	3	4	4	4	5	5	5	5	3	4	4	4	5	5	5	3	4	3	4	2	3	4	1	4	3	4	3	4	3	5	166.4757915	-22.2363115
+174	162	39.0	anse vata	True	120	ydominique@bioeko.nc	True	4	3	4	2	4	4	2	2	4	2	4	4	5	5	5	4	2	4	4	4	4	4	2	3	5	4	5	3	3	3	5	5	5	5	5	5	4	4	2	5	4	4	5	5	5	5	5	5	5	4	5	5	4	3	3	4	4	166.4432935	-22.3004763
+175	163	34.0	ouémo	True	10		False	4	3	4	4	3	3	4	4	3	2	5	4	5	4	5	3	3	3	3	3	4	3	5	5	4	3	3	3	3	3	3	3	3	3	3	4	3	3	3	5	5	5	3	4	5	5	3	3	4	4	3	3	3	3	3	3	4	166.475106	-22.2798021
+176	164	61.0	ouémo	True	204	noumea.confidentiel@gmail.com	False	5	3	3	5	4	4	2	3	4	3	3	4	4	3	3	3	1	3	2	3	3	2	4	2	4	1	3	3	3	3	3	2	3	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	166.475106	-22.2798021
+177	165	30.0	artillerie	True	12	ninai12@hotmail.com	True	3	4	2	3	2	2	3	3	2	3	2	3	3	1	1	1	3	3	3	1	3	1	3	3	1	3	4	3	3	3	3	3	3	4	3	4	2	3	3	1	1	3	3	3	1	3	1	3	2	2	4	2	4	3	3	2	3	166.4404011	-22.2797899
+178	166	37.0	vallée du génie	True	24	vincegris@hotmail.com	True	5	3	4	3	4	3	5	3	5	3	5	5	5	5	5	3	3	3	3	4	3	5	5	5	5	4	1	4	3	1	3	5	4	5	5	5	3	4	4	4	4	5	3	5	5	5	3	3	4	3	5	4	1	3	3	3	5	166.4475417	-22.2693516
+179	167	40.0	ouémo	True	96		False	4	1	2	2	3	4	3	3	3	3	3	4	4	4	1	4	3	4	2	4	4	4	4	3	4	2	3	2	2	3	3	4	5	5	3	3	5	4	5	2	3	3	3	3	3	3	3	3	4	3	2	2	1	3	4	3	4	166.475106	-22.2798021
+180	168	23.0	val plaisance	True	180	a.henin@yahoo.fr	True	5	3	3	3	3	4	5	5	4	4	5	5	4	4	3	3	5	3	5	5	5	5	5	5	3	3	5	3	3	3	5	5	5	5	5	5	2	4	5	2	4	4	5	5	2	5	3	3	2	4	3	4	5	5	4	5	5	166.4519704	-22.3012106
+181	169	26.0	faubourg blanchot	True	26		False	2	3	3	5	3	3	2	3	4	4	5	4	4	2	1	4	3	5	5	3	2	3	5	2	3	3	4	3	3	3	3	4	3	4	3	4	2	5	3	1	3	3	4	4	2	2	1	3	2	4	3	4	4	4	3	2	4	166.4519704	-22.2807684
+182	170	45.0	noumea	True	16	valerie1208@live.fr	False	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	2	4	4	4	4	4	4	4	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	4	4	4	3	3	4	3	166.4505243	-22.2558234
+183	171	25.0	quartier latin	True	12	benjamin.piouffle@gmail.com	True	3	3	4	5	1	3	4	4	5	4	5	3	2	3	4	2	3	3	3	3	3	2	4	4	4	3	2	3	3	3	3	5	5	5	4	3	2	4	4	5	4	4	4	3	1	4	3	4	5	3	3	3	3	3	3	4	3	166.4454628	-22.2765678
+184	172	53.0	pk7	True	120	ganethierry@yahoo.fr	False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	4	3	3	3	3	3	3	3	1	5	1	3	3	2	1	1	2	5	3	5	3	3	3	3	1	3	5	3	4	3	3	3	3	3	3	3	3	3	3	3	166.4757915	-22.2363115
+185	173	29.0	pk7	True	12	precilia.blum@gmail.com	False	3	4	4	4	5	4	3	5	5	4	5	4	4	4	2	2	4	5	4	4	4	4	4	4	5	3	4	3	3	3	2	2	4	4	5	3	5	4	4	4	3	3	3	3	3	4	5	3	3	4	3	4	3	3	3	4	3	166.4757915	-22.2363115
+186	174	62.0	motorpool	True	10	Fabien.lu@yahoo.fr	True	4	3	4	3	4	3	4	3	2	2	5	4	5	2	3	4	3	2	1	4	4	3	4	4	5	5	4	5	3	3	4	5	5	5	3	3	5	5	5	5	5	5	3	5	5	5	3	5	4	2	4	3	3	2	3	4	4	166.4490782	-22.2922051
+187	175	54.0	ouémo	True	360	brmanetti@hotmail.com	False	5	3	3	3	5	5	5	2	1	1	4	3	5	5	4	5	5	4	4	2	5	1	5	5	5	5	2	3	3	3	3	4	3	4	5	3	5	5	5	5	5	2	2	5	5	2	4	5	5	2	4	2	2	2	2	2	4	166.475106	-22.2798021
+188	176	46.0	trianon	True	72		False	4	3	5	3	2	3	4	4	4	2	5	5	4	5	4	5	4	5	3	3	5	4	4	5	5	4	4	5	3	3	3	4	5	5	4	5	5	5	3	2	5	4	4	5	5	3	3	3	4	3	3	3	5	3	4	4	4	166.4498013	-22.2842354
+189	177	29.0	faubourg blanchot	True	348	n.napoleon@live.fr	False	5	2	3	5	4	5	5	5	5	4	5	4	4	4	3	3	2	5	4	5	5	5	5	5	5	3	5	2	2	2	5	5	5	5	5	3	5	5	5	3	3	3	5	5	5	5	2	5	4	3	4	2	4	4	4	5	4	166.4519704	-22.2807684
+190	178	40.0	vallée des colons	True	180	emmanuelle.pedeutour@sic.nc	True	3	3	4	3	3	3	3	4	3	4	3	3	3	3	3	3	3	3	3	3	3	3	4	4	3	5	3	3	3	3	3	3	4	4	3	3	3	4	3	4	3	3	3	3	4	3	3	4	4	4	4	4	3	3	3	4	3	166.4534165	-22.2706695
+191	179	29.0	centre-ville	True	2		False	3	2	2	5	4	4	2	5	3	4	3	2	3	1	1	3	3	2	2	3	3	3	3	1	3	4	1	3	3	3	1	4	3	3	4	5	3	3	3	3	1	5	1	4	5	3	3	3	4	4	4	4	4	3	3	3	3	166.4505243	-22.2558234
+192	180	26.0	tina	True	12		False	4	3	4	4	4	3	4	4	4	4	5	2	4	3	2	3	3	4	4	4	3	2	5	4	4	4	4	4	4	4	4	5	4	5	5	5	4	4	4	3	4	5	4	5	5	5	2	3	5	4	3	3	3	3	3	3	4	166.4848346	-22.2511452
+193	181	32.0	ouémo	True	36	calmettes_charles@yahoo.fr	True	3	1	4	3	2	4	1	4	4	5	4	5	4	5	3	4	4	4	4	4	4	4	5	3	4	5	4	4	4	4	3	5	4	4	4	5	4	5	4	2	4	4	5	5	4	5	2	4	4	4	4	4	4	4	4	4	4	166.475106	-22.2798021
+194	182	59.0	vallée des colons	True	10	yvesscussel@lagoon.nc	True	4	3	3	5	5	5	1	5	4	3	5	3	5	2	2	5	3	4	5	4	5	1	5	2	4	4	5	4	4	3	2	5	4	4	5	5	5	5	5	5	3	1	2	5	5	5	2	4	5	2	2	5	5	1	5	3	5	166.4534165	-22.2706695
+195	183	67.0	moselle	True	16	borgnefesse4@hotmail.com	True	3	3	3	3	3	3	1	3	3	3	3	3	3	1	1	3	3	3	1	3	3	3	3	1	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	2	3	3	1	3	3	3	3	3	2	3	3	3	3	3	4	166.4385933	-22.2778118
+196	184	40.0	vallée des colons	True	36	grafeuillea@yahoo.fr	False	3	3	3	3	3	3	1	3	4	3	4	4	3	4	1	3	3	4	4	3	3	3	4	2	4	4	4	3	3	3	4	4	4	4	4	4	3	4	4	1	3	2	3	4	4	3	3	3	3	3	3	3	3	3	3	3	3	166.4534165	-22.2706695
+197	185	29.0		False	nan	agalleron@hotmail.fr	False	4	3	4	2	2	3	4	4	4	3	5	4	4	5	3	3	3	2	2	4	4	3	5	3	4	3	4	3	3	3	3	4	4	4	4	4	2	4	4	2	3	3	3	4	4	4	2	2	3	3	3	2	4	3	3	2	3	null	null
+198	186	37.0	rivière-salée	True	60	yannick.lenoc@hotmail.fr	True	5	3	5	5	5	3	5	5	5	5	5	5	5	5	1	3	3	5	5	5	5	1	5	5	5	5	5	5	3	3	3	5	5	5	5	5	5	5	3	5	5	5	3	5	5	5	5	5	5	3	4	4	3	4	4	4	4	166.4649847	-22.2307599
+199	187		magenta	True	204	cottin988@gmail.com	True	5	3	3	5	3	3	3	3	5	3	3	3	3	3	3	3	5	5	3	5	3	3	5	3	3	5	3	3	4	3	3	5	5	5	3	3	3	3	3	3	3	3	2	1	5	3	3	5	3	3	3	3	3	3	3	3	3	166.4729372	-22.2599055
+200	188	67.0	rivière salée	True	432	maraychal@live.fr	True	4	5	5	3	3	4	4	5	5	3	5	4	4	4	2	4	3	5	3	4	4	4	5	5	5	5	4	3	3	3	4	5	5	5	5	5	5	4	5	3	5	4	3	5	4	5	4	4	4	4	3	3	5	4	4	4	5	166.4649847	-22.2307599
+201	189	27.0	tina	True	324	florian.delpias@ens-cachan.fr	False	4	3	3	4	2	3	4	4	4	3	5	4	3	5	2	3	4	4	4	4	4	4	5	3	5	3	3	3	3	3	3	3	3	3	4	5	3	3	4	3	3	4	4	4	5	4	3	3	4	4	4	4	4	3	4	3	3	166.4848346	-22.2511452
+202	190	53.0	val plaisance	True	Huit ans		False	3	3	3	4	4	4	4	4	4	4	5	4	4	4	3	3	3	4	4	4	4	4	4	3	3	4	5	3	3	4	3	5	5	5	5	4	4	4	4	4	3	3	4	4	4	4	3	4	3	4	4	4	4	4	3	4	3	166.4519704	-22.3012106
+203	191	53.0	haut magenta	True	240	liohottin@gmail.com	False	5	3	5	2	4	3	5	5	5	2	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	2	5	5	5	2	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	3	5	2	5	5	5	166.4577547	-22.263735
+204	192	44.0	anse vata	True	7	mopetshow@gmail.com	True	4	3	3	2	4	3	4	3	3	3	5	4	5	5	3	3	4	4	4	3	4	4	5	4	4	5	4	4	3	4	3	5	5	5	5	5	5	5	5	5	4	4	4	5	5	5	4	5	3	2	4	4	4	3	3	4	4	166.4432935	-22.3004763
+205	193	45.0		False	nan	guyannick@me.com	True	5	4	5	3	5	4	5	5	5	1	5	4	5	5	5	5	2	5	5	5	5	5	5	5	5	5	5	5	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	1	1	3	5	3	5	5	5	null	null
+206	194	54.0		False	nan	Cathy_lbx@hotmail.fr	False	3	3	4	3	3	3	3	3	3	3	3	5	4	5	3	3	3	3	3	4	4	3	5	5	5	3	3	3	3	3	4	4	5	3	4	3	4	5	5	5	5	5	4	5	3	4	3	3	5	3	4	3	3	3	3	3	3	null	null
+208	195	60.0	artillerie	True	36	cococessio@yahoo.fr	True	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	4	4	4	4	4	4	4	5	4	4	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	5	1	3	5	5	3	3	166.4404011	-22.2797899
+209	196	27.0	pk7	True	26	kerdel18@gmail.com	True	5	3	3	3	4	4	3	5	4	3	5	4	5	4	3	3	5	4	4	4	4	3	5	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	4	3	3	4	5	3	5	3	3	166.4757915	-22.2363115
+210	197	-38.0	n'géa	True	nan	institut.noumea@gmail.com	False	3	3	3	4	3	3	3	3	3	3	5	3	4	3	3	3	3	3	3	4	4	4	5	5	4	3	5	3	3	3	3	5	5	3	5	3	5	3	3	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	3	166.4548626	-22.2897739
+212	198	27.0	rivière salée	True	156	florianne.wahnyamalla@yahoo.com	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	5	5	3	5	5	5	5	3	5	4	5	5	5	5	5	5	5	5	5	4	166.4649847	-22.2307599
+214	199	21.0	logicoop	True	48	Ninatyal@gmail.com	True	3	4	5	2	4	4	5	4	5	2	5	5	4	5	5	2	2	5	5	2	2	2	5	5	5	4	5	1	2	2	1	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	4	4	4	3	5	4	5	3	5	4	5	166.4346161	-22.2354973
+215	200	24.0	normandie	True	24		False	3	2	4	4	5	4	4	4	2	4	4	5	3	4	2	3	4	4	5	4	4	4	5	4	4	4	5	4	4	2	4	4	5	4	5	5	4	4	4	4	4	4	4	5	5	5	4	5	4	1	4	2	3	3	3	3	4	166.4866723	-22.2252851
+216	201	78.0	tina	True	288	mariefranceroy@lagoon.nc	True	4	3	3	3	3	3	3	3	3	1	3	3	4	3	2	3	3	3	1	3	3	3	4	2	4	3	3	3	3	3	3	3	3	4	4	4	3	3	4	4	3	4	3	4	4	3	3	3	4	2	3	4	3	3	3	4	3	166.4848346	-22.2511452
+217	202	53.0		False	nan	Castel.suzanne.cs@gmail.com	True	4	3	3	4	3	4	3	5	3	3	5	4	5	5	5	3	3	3	3	3	3	3	5	3	5	3	4	4	4	4	2	5	5	5	4	4	3	4	3	4	5	4	3	5	5	3	3	3	5	2	3	2	3	3	5	3	3	null	null
+218	203	60.0	ouen toro	True	17	bermau0lagoon.nc	True	2	3	3	3	3	3	3	3	1	3	3	3	3	1	2	2	3	3	3	3	3	2	5	3	1	3	3	3	3	3	3	3	3	4	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	1	3	3	3	4	3	166.4548626	-22.3072959
+219	204	32.0		False	nan		False	4	5	3	3	3	3	2	3	4	3	5	3	3	2	2	3	3	4	4	2	2	2	3	3	4	1	3	4	3	3	3	3	1	3	4	4	4	5	4	4	3	2	2	5	4	4	4	4	3	3	3	4	3	3	3	4	3	null	null
+220	205	50.0	tina	True	192	anne.wilkowski@yahoo.fr	True	3	3	4	4	4	3	4	4	4	4	4	2	3	2	2	2	3	4	3	2	4	4	4	2	2	3	3	3	3	3	3	3	4	4	3	3	3	3	4	3	3	2	2	2	2	3	2	3	4	3	3	3	3	3	3	4	4	166.4848346	-22.2511452
+221	206	22.0	anse vata	True	24		False	3	3	3	3	3	3	3	3	3	3	3	2	3	2	2	3	3	3	3	3	3	3	3	3	3	3	3	2	2	2	3	3	3	3	3	3	3	3	2	1	3	2	2	2	1	3	2	2	3	3	3	3	3	3	3	3	3	166.4432935	-22.3004763
+222	207	40.0	tina	True	1	h.naoi-bracq@outlook.com	True	4	3	3	5	4	4	4	5	5	4	5	4	5	5	5	4	4	4	3	3	3	3	3	3	4	4	3	4	4	4	4	5	5	5	5	4	4	4	3	3	4	4	3	4	4	5	4	4	5	4	3	3	3	3	3	3	3	166.4848346	-22.2511452
+223	208	32.0	centre-ville	True	48		False	3	3	3	3	3	3	3	3	3	3	3	4	5	5	5	5	5	4	2	5	5	2	5	5	5	4	4	4	3	3	3	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	166.4505243	-22.2558234
+225	209	37.0	faubourg blanchot	True	84	anneleroy77@gmail.com	True	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	3	3	5	5	3	3	5	3	3	3	3	3	3	3	5	3	3	1	3	3	4	3	3	3	3	3	3	3	166.4519704	-22.2807684
+227	210	32.0		False	nan		False	3	3	3	3	3	3	4	3	3	3	3	4	3	3	3	3	3	3	3	3	4	4	3	3	3	3	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	3	4	3	3	null	null
+228	211	49.0	vallée des colons	True	3	granger.bruno@free.fr	True	4	1	4	5	1	4	5	2	5	3	5	1	5	1	1	4	4	4	4	4	1	1	4	1	3	5	2	5	5	4	2	5	4	4	4	3	4	5	4	4	3	4	1	2	4	4	1	1	4	1	4	1	1	1	4	1	4	166.4534165	-22.2706695
+229	212	26.0	faubourg blanchot	True	96	keko7480@yahoo.fr	True	5	2	4	5	2	3	4	3	3	3	5	5	5	5	4	4	1	3	3	4	4	3	5	3	4	5	5	3	4	4	1	5	5	5	5	5	4	5	5	5	3	4	4	5	4	5	2	2	4	2	4	2	3	5	4	2	3	166.4519704	-22.2807684
+230	213	32.0	artillerie	True	36	kanzaki74@hotmail.fr	False	4	3	5	2	2	4	4	4	3	2	5	5	5	5	5	3	1	4	4	5	5	4	5	4	4	5	5	3	4	4	1	5	5	5	5	5	3	4	5	5	3	3	3	5	5	5	4	2	4	2	3	3	5	2	4	2	3	166.4404011	-22.2797899
+231	214	42.0	ouémo	True	504	dldr@lagoon.nc	True	4	2	2	5	2	2	4	2	4	1	5	4	5	5	5	3	3	1	1	3	4	3	4	3	3	3	3	3	3	3	3	5	5	3	4	5	4	3	3	5	2	2	3	3	5	3	5	3	4	3	3	3	3	3	5	3	3	166.475106	-22.2798021
+232	215	44.0	ouémo	True	144	Glaselve@gmail.com	True	4	5	3	3	4	3	4	4	3	3	4	3	1	5	1	3	5	3	1	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	5	3	3	3	3	4	4	3	3	5	4	166.475106	-22.2798021
+233	216	51.0	pk6	True	168	danielsan66@hotmail.fr	True	4	3	1	4	4	4	5	5	1	4	4	4	4	4	2	4	4	4	2	4	4	4	4	4	4	3	3	3	4	4	4	4	4	3	4	4	3	3	4	3	4	4	4	3	4	4	4	4	2	2	4	3	3	3	3	4	3	166.469435	-22.245529
+234	217			False	nan		False	3	3	3	4	3	3	2	5	5	4	5	5	5	3	5	3	5	5	5	5	1	5	5	3	5	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	2	1	5	5	5	5	5	3	3	3	3	3	3	3	3	3	3	null	null
+235	218	45.0		False	nan	Corinne.chauveau@canl.nc 	True	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	5	5	5	5	5	5	5	5	5	5	3	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	1	5	null	null
+236	219	33.0	orphelinat	True	nan	giulianana@gmail.com	True	4	2	5	4	2	4	4	4	3	2	5	4	4	5	3	3	4	2	2	4	4	5	5	5	5	3	5	4	3	3	2	5	5	5	5	5	4	3	5	3	3	5	5	5	3	5	3	2	4	2	3	1	3	1	5	1	3	166.4454628	-22.2853286
+237	220	32.0	orphelinat	True	12	rahan2001@yahoo.fr	False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	5	5	3	5	4	4	5	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	166.4346161	-22.2880609
+238	221	34.0	val plaisance	True	12		False	1	5	4	1	1	1	4	4	3	3	4	1	3	1	1	1	3	1	3	1	1	3	1	3	1	3	3	3	3	3	3	3	5	3	3	3	1	3	3	1	3	3	3	3	1	3	3	3	1	3	3	3	3	3	3	3	3	166.4519704	-22.3012106
+239	222	28.0	val plaisance	True	nan	thome.laurie@gmail.com 	True	3	4	4	4	4	3	4	5	4	3	5	4	4	4	4	4	4	5	2	4	4	4	5	3	4	4	4	4	3	3	3	4	3	4	5	4	4	4	4	5	4	4	4	4	5	4	4	5	3	3	4	3	3	3	3	3	3	166.4519704	-22.3012106
+240	223	31.0	ouémo	True	24	martinchailloux@gmail.com	True	4	3	4	3	1	4	4	4	4	3	5	4	4	5	4	4	3	5	4	4	5	3	5	5	5	5	3	4	3	3	3	5	5	5	5	5	5	5	4	5	5	3	5	5	5	4	4	3	5	3	4	2	3	3	4	3	4	166.475106	-22.2798021
+241	224	36.0	portes de fer	True	9	f.chatelin@mls.nc	True	1	2	1	1	1	2	1	3	2	1	2	2	2	1	1	1	3	2	1	2	2	1	2	1	1	1	5	1	1	1	1	1	1	1	1	1	1	1	1	2	1	1	1	1	3	1	1	4	1	1	1	1	5	1	1	5	3	166.4606468	-22.2581384
+242	225	37.0	haut magenta	True	72	tim_dutoit@hotmail.com 	True	2	3	3	3	3	3	3	4	4	3	2	3	3	2	3	4	5	3	4	3	5	3	4	4	4	3	5	4	3	3	3	4	5	4	5	5	4	4	4	5	4	3	4	4	5	4	5	3	4	4	4	4	5	3	3	3	3	166.4577547	-22.263735
+243	226	51.0	trianon	True	24	Philippe.jusiak@gmail.com	True	4	4	4	3	4	3	5	5	4	2	5	4	3	5	3	5	3	4	4	4	4	3	5	4	4	5	5	3	4	4	3	4	4	5	5	5	3	4	4	3	5	4	4	5	4	5	2	4	4	3	4	4	5	2	3	4	3	166.4498013	-22.2842354
+244	227	33.0	trianon	True	5	peillon.amaury@gmail.com	True	3	3	2	5	2	3	5	3	5	4	5	1	2	1	5	5	1	3	3	3	4	3	4	4	3	5	4	5	1	1	1	3	4	4	5	2	4	4	5	5	4	5	5	1	4	4	2	4	5	4	4	4	2	2	4	5	5	166.4498013	-22.2842354
+245	228	32.0		False	nan	Naneu84@hotmail.com	True	3	3	3	1	3	3	3	3	3	3	3	2	1	2	3	3	4	3	3	3	4	1	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	4	3	3	3	3	3	3	4	4	3	3	3	3	3	3	3	5	3	3	3	null	null
+246	229	51.0	pk6	True	4	vincentp@mls.nc	True	5	5	5	5	3	3	4	3	5	5	4	5	5	1	5	3	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	2	5	5	5	3	5	5	5	3	5	5	166.469435	-22.245529
+247	230	45.0	trianon	True	12	gilles.enee@gmail.com	True	3	4	2	3	2	4	4	5	2	3	4	3	3	4	2	2	4	4	2	3	4	4	4	5	4	4	3	3	3	3	3	4	4	3	5	4	4	3	4	2	3	4	3	4	4	4	5	4	3	3	2	3	4	3	3	4	4	166.4498013	-22.2842354
+248	231	33.0	centre-ville	True	60		False	4	2	4	4	4	4	4	4	4	3	2	3	3	3	3	3	3	4	4	4	4	3	4	4	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	4	3	3	3	3	3	3	4	3	3	166.4505243	-22.2558234
+250	232	24.0	motorpool	True	120	laura.nourtier@gmail.com	True	3	3	3	4	3	3	3	3	3	2	4	3	4	4	4	4	3	3	3	3	2	4	3	2	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	5	4	5	4	3	3	3	3	3	4	5	3	4	5	3	3	5	5	166.4490782	-22.2922051
+251	233	33.0	anse vata	True	48		False	3	1	3	4	3	2	3	2	1	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	5	4	4	5	5	5	5	4	5	5	5	3	4	5	5	5	3	3	3	3	5	5	166.4432935	-22.3004763
+252	234	35.0		False	nan	Fannyjugy@hotmail.com 	True	4	3	3	3	4	4	4	4	4	3	4	3	5	3	3	4	3	3	3	5	5	5	5	4	5	3	5	3	3	3	4	5	5	5	5	5	3	3	4	3	4	4	3	5	5	5	3	3	3	3	3	3	3	3	4	3	3	null	null
+253	235	27.0	centre-ville	True	204		False	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	166.4505243	-22.2558234
+254	236	45.0	rivière salée	True	45	soniasorel972@gmail.com 	True	5	5	4	5	1	3	5	5	3	5	5	5	5	3	3	3	5	5	5	5	5	5	5	5	4	3	4	5	3	3	4	3	4	4	4	5	1	1	4	1	5	4	4	3	5	5	1	4	5	4	5	3	3	3	4	5	4	166.4649847	-22.2307599
+255	237	35.0	ouémo	True	5		False	3	3	3	3	3	3	5	3	3	3	3	3	3	3	3	3	4	3	3	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	4	3	4	4	3	4	4	4	4	4	4	4	5	3	3	3	4	2	4	3	3	5	5	166.475106	-22.2798021
+256	238	54.0	centre-ville	True	204	karuhele@hotmail.com	False	4	3	2	2	3	3	1	2	3	2	2	1	3	1	1	1	2	1	3	1	1	1	1	1	1	2	2	2	2	2	1	2	2	2	2	3	1	1	1	1	1	1	1	1	2	2	2	2	2	2	2	3	3	3	3	3	2	166.4505243	-22.2558234
+257	239	61.0		False	nan	klace1@hotmail.com	True	3	3	5	1	5	3	4	1	5	1	4	3	5	5	5	5	5	5	3	5	5	1	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	5	5	5	5	5	5	2	3	5	5	1	2	5	5	null	null
+258	240	49.0	vallée des colons	True	12	diver03@hotmail.com	True	4	1	1	5	2	4	1	4	4	4	4	4	5	5	5	5	1	5	5	5	5	1	5	1	1	5	5	1	1	1	5	5	5	5	5	5	3	4	4	4	5	5	1	5	5	5	1	5	5	4	4	4	4	1	1	4	5	166.4534165	-22.2706695
+259	241	48.0	vallée des colons	True	240	Lagabrielle.nc@gmail.com	True	4	4	4	4	3	4	5	4	4	4	5	3	4	4	2	4	4	3	4	4	4	4	5	4	5	4	4	4	4	4	4	5	4	4	5	5	3	5	4	4	5	4	4	4	5	4	4	4	4	4	4	4	4	4	3	4	4	166.4534165	-22.2706695
+260	242	27.0	port plaisance	True	48	maxime.boisrame@orange.fr	True	2	3	4	3	4	3	3	4	4	4	4	4	4	4	1	4	4	4	4	4	4	1	4	3	4	4	4	4	4	4	4	5	3	4	4	4	4	4	5	5	4	4	4	4	5	5	3	4	4	4	2	4	4	4	4	4	4	166.4392662	-22.2913102
+261	243	57.0	baie des citrons	True	168	s.cyrille@hotmail.fr	True	3	3	4	2	4	3	3	2	4	2	4	4	5	3	5	5	2	4	4	4	5	1	3	5	3	3	5	4	3	2	4	5	5	5	5	5	5	5	5	5	5	5	1	5	5	5	5	5	4	1	3	2	3	1	3	3	3	166.4375086	-22.291226
+262	244	60.0		False	nan		True	4	3	3	2	5	3	3	3	5	2	5	4	3	3	1	3	2	3	3	3	4	2	5	4	5	4	3	3	3	3	3	4	4	4	5	5	5	5	5	5	5	5	3	5	5	5	5	4	4	3	3	3	3	3	3	3	3	null	null
+263	245	30.0	magenta	True	60		False	3	1	3	1	1	3	1	4	2	1	5	4	4	5	4	1	3	1	1	4	3	3	4	4	5	3	3	3	3	3	3	4	5	5	5	5	3	4	4	3	4	4	3	4	4	4	3	3	3	1	3	1	3	1	3	2	4	166.4729372	-22.2599055
+264	246	36.0	portes de fer	True	6 mois	Mrs_choco@hotmail.com	False	5	3	2	4	5	4	2	5	5	4	5	4	5	5	4	4	3	4	2	3	3	3	3	3	3	3	4	3	3	3	3	1	5	5	5	5	5	2	5	4	5	4	3	5	5	5	3	3	3	3	3	5	5	3	3	3	3	166.4606468	-22.2581384
+265	247	48.0	logicoop	True	240	Isabelle.capart.nc@gmail.com	True	3	4	4	1	4	3	4	4	4	2	5	3	4	4	3	3	4	4	2	5	5	5	4	4	5	3	5	3	3	3	3	3	3	3	5	5	3	3	4	1	3	2	3	5	5	5	4	3	3	2	4	4	5	2	3	4	3	166.4346161	-22.2354973
+266	248	44.0	orphelinat	True	11	Tiki.sharky@me.com	True	4	1	1	1	2	3	2	1	5	2	3	3	4	3	3	3	3	5	3	4	4	4	3	2	4	3	4	3	2	2	4	4	4	3	5	4	4	4	4	4	4	2	4	5	5	4	5	3	4	2	2	2	3	2	2	3	4	166.4454628	-22.2853286
+267	249	23.0	pk7	True	6	J. Letourneur@me.com	False	5	4	4	3	4	4	5	5	3	3	5	3	3	5	3	4	4	4	4	4	4	2	5	4	3	3	3	3	3	5	4	3	3	3	3	5	3	4	4	5	4	4	4	5	4	3	3	4	4	3	3	3	3	3	3	3	3	166.4757915	-22.2363115
+268	250	35.0		False	nan	kamadja@gmail.com	True	5	5	5	5	5	5	5	5	5	5	5	3	5	2	3	3	5	4	4	4	3	3	2	3	5	5	5	5	5	5	3	5	5	5	1	3	5	5	5	1	4	2	3	2	5	5	3	5	3	5	2	5	5	5	3	5	3	null	null
+269	251	51.0	magenta	True	14	Chimentia@yahoo.fr 	True	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	5	4	4	4	4	4	4	4	4	5	5	5	5	5	5	5	5	5	166.4729372	-22.2599055
+270	252	28.0	centre-ville	True	nan	clemence.gleizes@yahoo.fr	False	5	3	3	3	3	5	4	3	4	2	5	5	4	5	3	5	3	2	2	5	4	4	5	4	5	2	5	3	2	2	2	5	5	5	5	5	1	5	4	1	2	4	4	5	4	5	2	1	4	2	2	1	3	2	4	1	4	166.4505243	-22.2558234
+271	253	43.0	ouémo	True	10	com.tdi@mls.nc	True	3	5	3	4	3	3	5	5	3	3	5	4	5	5	4	4	5	3	3	4	3	3	5	3	5	3	5	3	3	3	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	2	5	5	4	4	3	5	3	5	5	3	166.475106	-22.2798021
+272	254	30.0	port plaisance	True	84	emmanuelle.molnar@gmail.com	True	3	1	5	3	4	4	5	3	5	2	5	3	5	4	3	2	5	4	4	5	4	3	5	4	5	4	5	4	4	4	1	5	4	4	5	5	5	3	5	4	5	4	3	5	5	4	5	5	5	3	3	4	4	4	4	5	5	166.4392662	-22.2913102
+273	255	34.0	motorpool	True	180	karen_champsavoir@hotmail.com	False	4	3	3	4	4	3	3	4	4	4	4	3	4	3	2	4	5	4	4	3	3	4	5	4	4	4	4	4	4	4	4	4	4	4	5	4	2	4	4	3	4	3	4	4	3	4	2	4	3	4	4	4	4	4	4	4	5	166.4490782	-22.2922051
+274	256	30.0	ouémo	True	nan	milly86@hotmail.fr	False	3	3	2	3	4	3	2	5	2	3	2	4	1	2	1	2	3	2	3	3	2	1	3	3	3	3	3	3	3	3	3	3	2	3	3	2	1	3	3	3	2	2	2	2	3	1	1	3	2	3	3	3	3	2	3	3	3	166.475106	-22.2798021
+275	257	34.0		False	nan	battamiguel@hotmail.com	True	3	3	3	3	3	3	3	3	3	3	5	5	3	5	3	3	5	3	3	5	3	3	5	3	5	3	5	3	3	3	3	5	5	5	5	5	3	5	5	5	3	5	5	5	5	5	3	3	3	3	3	3	5	3	3	3	3	null	null
+276	258	34.0		False	nan	thomas_auger@hotmail.fr	True	4	3	3	4	4	4	5	4	3	3	5	5	5	5	5	5	3	3	3	5	5	5	5	5	5	5	5	4	4	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	null	null
+278	259	43.0	faubourg blanchot	True	5		False	5	5	4	4	4	3	4	4	5	3	5	5	4	5	4	5	5	4	5	5	5	5	5	5	5	5	5	5	5	2	3	5	5	3	5	5	5	5	5	4	5	5	5	5	5	5	3	5	5	5	5	4	5	3	3	5	5	166.4519704	-22.2807684
+279	260	38.0		False	nan	sabnoumea@yahoo.fr	False	3	3	4	4	4	3	3	3	4	4	3	4	4	3	4	3	2	4	4	4	5	4	5	4	3	3	3	3	3	3	3	4	2	3	3	4	4	4	4	5	4	4	4	4	4	4	4	4	5	4	5	4	3	4	4	4	4	null	null
+281	261	55.0	centre-ville	True	60		False	3	3	3	3	3	3	3	3	3	3	3	3	2	3	1	3	3	2	1	3	3	1	3	3	2	1	1	2	2	2	2	3	3	3	1	2	2	3	2	2	1	1	1	3	3	3	3	3	1	1	1	1	1	2	2	2	1	166.4505243	-22.2558234
+282	262	33.0	centre-ville	True	60	yliard@mls.nc	True	3	3	3	3	1	3	3	3	1	5	5	4	5	5	1	1	3	1	1	3	3	3	5	3	3	3	4	3	3	3	3	4	4	1	1	4	4	4	4	4	4	3	1	4	4	4	4	4	3	3	1	1	3	3	3	4	4	166.4505243	-22.2558234
+283	263	42.0	vallée des colons	True	84	luneivy@hotmail.fr	True	3	4	5	4	5	3	5	3	5	2	5	3	5	3	3	3	3	5	5	5	5	5	3	4	5	4	3	2	3	3	4	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	2	3	5	3	4	4	3	3	3	3	5	166.4534165	-22.2706695
+285	264		val plaisance	True	228	clarafrance.valet@hotmail.fr	True	3	4	2	2	2	3	4	4	3	1	4	4	2	4	2	4	3	3	2	3	2	2	4	3	3	2	3	3	3	3	1	5	4	5	2	4	2	3	3	1	3	2	2	3	1	3	1	2	3	2	2	3	3	2	3	2	3	166.4519704	-22.3012106
+287	265	37.0	pk6	True	132		False	4	5	4	4	4	3	5	3	4	3	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	3	5	3	3	3	3	3	3	5	5	5	5	3	5	4	5	3	4	4	5	5	3	4	5	5	5	5	3	3	5	4	2	166.469435	-22.245529
+288	266	38.0	kaméré	True	72	rudy.lorenzini@gmail.com	True	3	5	3	1	4	5	3	1	5	1	2	1	2	1	1	1	5	4	5	4	2	1	5	2	2	1	5	3	2	3	1	1	1	1	1	2	1	1	4	1	4	2	1	1	4	4	1	5	2	1	1	4	5	1	1	5	4	166.4324466	-22.2302036
+289	267	26.0		False	nan	jvayssiere@gmail.com	True	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	3	1	3	3	3	5	3	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	null	null
+290	268	18.0	magenta	True	18		False	3	3	4	3	3	3	3	3	4	3	5	5	5	5	5	3	3	5	5	3	4	2	4	4	4	3	3	3	3	3	3	5	5	5	5	5	4	5	4	3	5	4	3	5	5	5	2	3	4	3	3	3	3	3	4	4	4	166.4729372	-22.2599055
+291	269	29.0	centre-ville	True	nan		False	3	1	3	5	5	4	4	5	2	2	5	5	5	5	3	5	3	5	5	1	1	1	5	5	3	1	1	1	1	1	3	1	1	1	1	3	5	5	5	1	3	3	3	3	5	5	5	3	3	3	3	3	3	3	3	5	3	166.4505243	-22.2558234
+292	270	31.0		False	nan	julie.mazeaud@hotmail.fr	True	4	3	3	3	4	3	3	3	4	2	5	4	4	4	5	4	4	4	4	4	5	4	5	4	4	3	4	3	3	3	4	5	5	5	5	5	4	4	4	5	5	3	3	4	4	3	4	3	4	3	4	4	4	3	4	4	5	null	null
+293	271	31.0	n'géa	True	24	lucien.pommiez@gmail.com	True	4	4	1	5	1	2	5	5	5	3	5	5	2	5	3	5	5	5	1	3	4	5	5	2	4	5	3	5	1	5	3	5	5	5	5	5	4	3	5	4	5	4	5	5	5	2	1	5	4	5	3	4	3	2	3	4	3	166.4548626	-22.2897739
+294	272	25.0	magenta	True	toujours	melissa.keanou@gmail.com	False	4	2	3	4	2	4	5	4	4	2	5	4	5	3	4	4	1	3	3	4	4	4	5	4	5	5	3	1	4	1	4	5	5	5	5	5	1	4	4	4	4	4	4	4	4	4	1	3	4	2	4	4	4	4	5	3	3	166.4729372	-22.2599055
+295	273	25.0	trianon	True	12	quentfahrner@gmail.com	True	4	3	3	4	4	4	2	3	5	2	5	5	3	4	5	3	3	3	3	3	4	3	4	4	5	4	3	4	3	3	3	5	5	4	5	5	3	4	3	3	4	3	3	5	5	4	4	3	4	3	3	4	3	3	3	4	4	166.4498013	-22.2842354
+296	274	27.0	pk7	True	312	laura.quinquis@gmail.com	True	4	3	3	1	2	3	4	3	3	1	5	4	4	5	4	3	2	4	1	4	3	3	5	4	5	3	5	3	3	3	3	5	5	5	5	4	3	4	3	3	4	4	3	4	4	4	4	3	3	1	3	2	3	1	4	1	3	166.4757915	-22.2363115
+297	275	34.0	quartier latin	True	10	Wpouillen@nautile.nc 	True	2	2	4	3	4	4	3	4	5	5	5	3	5	3	2	4	4	4	3	3	3	3	4	4	5	3	5	3	4	3	3	5	4	3	5	4	5	4	4	4	4	4	4	5	5	5	5	5	4	3	3	4	3	3	3	5	3	166.4454628	-22.2765678
+298	276	34.0	faubourg blanchot	True	24	damien.daly@free.fr	True	3	2	3	4	4	4	2	4	4	4	4	4	3	4	1	3	3	3	2	2	3	1	4	2	4	3	4	3	3	3	3	4	3	3	3	3	3	3	3	3	3	3	3	4	3	3	3	3	4	4	3	2	4	4	3	4	4	166.4519704	-22.2807684
+299	277	32.0	haut magenta	True	96		False	3	3	3	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	4	3	4	3	5	3	4	2	3	2	3	3	3	3	4	2	3	3	3	3	3	3	3	3	3	3	166.4577547	-22.263735
+301	278	52.0	anse vata	True	19	neenah007@hotmail.com	False	3	3	3	3	4	3	3	3	4	3	3	3	3	3	3	3	3	4	4	2	4	2	5	3	4	3	4	3	3	3	3	3	4	5	5	5	4	5	4	4	4	4	4	5	5	5	3	4	3	3	3	3	3	3	3	3	4	166.4432935	-22.3004763
+302	279	30.0	magenta	True	20	djcotexyo@hotmail.com 	True	4	5	4	3	4	4	4	1	1	3	4	4	3	2	4	3	1	3	3	4	4	5	5	1	4	2	4	3	3	3	1	3	3	3	4	5	5	4	3	1	2	2	4	5	4	5	3	4	2	3	3	3	3	3	3	4	5	166.4729372	-22.2599055
+303	280	31.0	ouémo	True	36	antoinephilippe.simoni@gmail.com	False	3	3	3	3	4	3	3	3	4	3	4	4	4	3	2	3	3	4	4	3	3	3	4	3	3	3	3	3	3	3	3	4	3	4	5	5	3	3	5	3	5	4	4	4	5	5	3	3	5	3	3	4	3	3	3	3	3	166.475106	-22.2798021
+304	281	-50.0	rivière-salée	True	72	dugue1967@gmail.com	True	4	3	3	4	4	5	5	5	3	5	5	5	5	5	3	5	4	5	5	5	5	5	5	5	5	5	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	3	4	5	5	4	4	4	4	4	5	5	5	5	5	166.4649847	-22.2307599
+305	282	50.0	ouémo	True	240	saubot.isabelle@gmail.com	True	3	3	4	4	2	3	3	3	5	3	3	4	4	3	2	3	3	3	4	2	4	3	3	3	3	3	3	3	2	2	3	3	4	4	3	4	4	3	3	3	4	4	4	3	3	3	2	4	3	3	4	4	3	3	3	4	3	166.475106	-22.2798021
+306	283	35.0		False	nan		False	3	4	4	3	3	3	3	4	4	4	4	4	5	4	3	4	5	4	5	4	5	3	4	2	4	2	5	2	2	2	3	5	3	5	5	4	3	4	4	4	4	4	3	4	4	4	4	4	3	3	3	3	4	3	3	3	3	null	null
+307	284	33.0		False	nan	amatnelson@gmail.com	False	4	3	3	3	4	2	3	5	4	2	5	2	3	5	3	3	3	3	4	4	1	3	5	3	4	4	5	4	3	3	3	3	4	4	5	5	3	3	3	3	4	4	3	5	5	4	3	1	5	2	4	4	5	3	3	1	3	null	null
+308	285	44.0		False	nan		False	4	2	5	2	4	4	2	2	4	2	5	5	5	5	2	3	3	5	5	5	5	3	5	5	5	3	3	3	3	3	3	3	3	3	3	5	5	5	5	5	5	5	2	5	5	3	5	4	4	3	4	4	4	3	4	3	3	null	null
+309	286	33.0	pk7	True	nan	Snowawe@gmail.com	True	4	3	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	3	3	4	4	5	5	4	4	5	4	5	5	5	3	5	5	5	5	5	4	5	5	5	4	4	4	5	5	4	4	4	5	5	5	5	5	4	5	5	5	166.4757915	-22.2363115
+311	287	42.0		False	nan	karine.ezzine@secal.nc	True	4	1	4	3	4	3	4	3	3	2	3	4	4	3	3	3	2	3	3	4	4	4	3	4	3	4	4	3	2	2	4	4	4	4	5	4	4	4	4	4	5	4	4	4	4	4	2	4	5	2	4	2	4	2	4	4	2	null	null
+312	288	50.0		False	nan	christophe.andre@province-sud.nc	True	4	3	3	3	3	3	3	3	3	3	4	4	4	4	3	4	3	4	4	3	4	3	4	4	4	5	4	3	3	3	3	3	3	1	4	4	3	4	4	3	4	4	4	4	4	4	1	3	4	3	3	4	3	3	3	4	3	null	null
+313	289	46.0	tuband	True	180	valerie.klein-vervaele@province-sud.nc	True	3	2	3	3	2	3	2	4	3	3	4	3	4	4	3	4	2	3	3	3	3	4	4	3	3	2	5	2	2	2	3	5	5	5	5	5	2	4	4	3	4	4	4	4	4	4	3	3	2	4	2	4	4	4	4	4	4	166.4548626	-22.2926943
+314	290	60.0	vallée des colons	True	10		False	4	3	3	4	5	2	2	4	2	4	2	1	3	1	1	3	1	1	1	5	4	5	5	5	4	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	1	1	1	3	1	5	1	5	3	3	3	3	3	3	3	3	3	166.4534165	-22.2706695
+315	291	68.0	tina	True	132	lemomic@canl.nc	True	4	4	4	3	2	5	4	2	4	2	5	3	4	4	3	4	3	5	4	5	5	3	5	4	5	3	4	3	3	3	4	4	5	5	5	5	5	5	5	5	5	4	3	4	5	4	4	4	5	3	4	4	4	3	4	4	5	166.4848346	-22.2511452
+316	292			True	nan		False	2	4	3	4	4	3	2	5	4	4	5	3	4	3	1	2	3	4	4	3	1	1	5	1	4	4	5	4	4	4	4	4	4	5	5	4	2	3	3	4	4	3	1	4	3	3	1	4	3	4	3	4	4	3	3	4	3	null	null
+317	293	40.0	vallée des colons	True	nan		False	4	1	4	4	3	3	4	3	3	4	5	5	5	4	4	4	4	5	5	4	4	4	5	5	4	4	5	5	3	4	4	5	5	3	4	5	3	5	3	5	5	4	3	5	4	4	5	4	4	3	3	3	3	3	3	5	5	166.4534165	-22.2706695
+318	294	29.0		False	nan		False	4	4	4	4	2	3	4	3	2	2	4	3	4	3	3	3	3	3	3	4	3	4	5	4	4	5	2	3	2	3	1	3	3	4	5	4	3	3	2	2	4	4	4	5	4	4	1	2	3	2	4	3	3	3	3	1	3	null	null
+319	295	35.0		False	nan		False	1	3	3	3	3	2	2	3	2	3	3	2	3	3	2	3	3	3	3	3	3	3	3	1	3	2	3	2	3	3	2	4	4	4	3	5	2	4	4	1	2	2	4	3	4	4	1	3	2	3	2	3	3	3	3	3	3	null	null
+321	296	51.0	kaméré	True	300	rousselot.sonia@yahoo.fr	False	5	5	5	1	1	5	5	2	5	1	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	1	5	5	5	5	5	5	1	5	1	1	3	1	5	1	5	5	5	166.4324466	-22.2302036
+322	297	51.0	kaméré	True	300	rousselot.sonia@yahoo.fr	True	5	5	5	1	1	5	5	2	5	1	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	5	3	5	5	5	5	5	5	5	5	1	5	5	5	5	5	5	1	5	1	1	3	1	5	1	5	5	5	166.4324466	-22.2302036
+323	298	45.0	baie des citrons	True	120		False	5	3	3	3	4	3	4	3	3	4	5	5	5	5	3	4	3	4	3	5	5	5	5	4	5	4	5	3	3	3	3	3	5	5	5	5	5	5	4	5	5	5	5	5	5	5	3	3	5	3	4	4	3	3	3	3	4	166.4375086	-22.291226
+324	299	56.0	faubourg blanchot	True	348	evilous27@outlook.fr	False	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	2	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	2	2	3	2	3	3	3	3	3	2	3	166.4519704	-22.2807684
+326	300	50.0	val plaisance	True	60	apeytaving@yahoo.fr	True	4	5	5	5	4	3	5	5	5	3	5	5	3	5	5	4	4	4	2	4	4	4	5	5	5	3	4	3	3	3	3	5	5	4	5	5	5	5	5	5	5	5	3	5	4	5	4	4	5	4	5	5	4	3	3	5	5	166.4519704	-22.3012106
+327	301	29.0	ouémo	True	3	audrey.bastonero@province-sud.nc	True	4	3	3	3	4	4	4	4	4	4	4	3	4	3	3	4	4	4	4	3	4	2	4	4	4	3	4	3	3	3	3	4	4	4	5	4	3	4	4	3	3	4	4	3	3	4	3	3	5	4	3	4	4	4	3	3	4	166.475106	-22.2798021
+328	302	29.0	ouémo	True	24		False	2	3	3	3	2	3	4	4	3	4	5	4	4	5	4	3	3	4	1	3	2	2	4	4	5	5	2	5	1	1	1	4	5	5	5	5	2	3	4	4	5	5	4	4	2	4	3	1	4	2	4	2	2	3	3	3	4	166.475106	-22.2798021
+329	303	30.0	rivière salée	True	nan	a.bonnefond@gmail.com	True	4	2	3	5	5	3	4	3	4	3	5	5	5	2	5	5	5	5	5	5	5	4	5	4	5	3	5	3	3	3	3	5	5	3	4	5	5	5	5	5	5	5	2	5	5	5	3	3	4	3	4	4	4	3	3	3	3	166.4649847	-22.2307599
+330	304	19.0	magenta	True	228		False	2	3	3	3	4	2	3	4	2	3	4	3	3	3	3	3	3	3	4	3	3	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	4	3	3	5	3	3	4	4	4	3	3	3	3	3	4	3	3	3	3	3	3	166.4729372	-22.2599055
+331	305	71.0	sud	True	120	franfonba@corail.nc	True	3	2	3	2	2	3	2	2	3	2	3	3	3	3	2	4	3	2	2	3	3	2	4	3	4	3	3	3	3	3	3	3	3	3	3	3	3	3	4	3	2	4	3	4	3	4	2	2	3	2	4	2	3	2	3	3	4	166.4505243	-22.2558234
+332	306	33.0	tindu	True	396	monia.diri@hotmail.com	False	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	4	3	4	4	4	4	3	4	4	4	4	4	3	3	3	4	4	4	4	4	5	5	5	5	5	5	5	5	5	5	5	5	5	4	4	4	4	4	3	3	3	3	166.4201523	-22.2313542
+333	307			False	nan	ymelysabeth@gmail.com	True	2	4	5	2	4	4	3	5	4	4	4	3	5	5	5	5	5	5	5	5	5	1	4	4	5	4	4	4	4	4	5	5	5	5	5	3	5	3	5	5	5	3	1	3	5	5	5	3	1	1	4	1	4	3	5	5	5	null	null
+335	308	30.0		False	nan	jenna.tual@gmail.com	False	3	3	3	4	3	3	3	3	3	3	5	3	5	5	5	5	2	3	3	5	5	3	5	3	5	2	5	3	1	2	3	3	2	3	5	5	5	5	5	5	4	4	3	5	5	5	5	4	4	3	3	3	4	3	2	4	4	null	null
